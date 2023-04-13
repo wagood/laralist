@@ -2,13 +2,19 @@
 List of usefull resources and projects about Laravel
 
 # Packages
+* Laravel [Actions](https://laravelactions.com/). This package introduces a new way of organising the logic of your Laravel applications by focusing on the actions your applications provide. Instead of creating controllers, jobs, listeners and so on, it allows you to create a PHP class that handles a specific task and run that class as anything you want.
 
 * [BanHammer](https://github.com/mchev/banhammer "Banhammer, a Model and IP ban package for Laravel"), a Model and IP ban package for Laravel
 
 * [Blockade](https://github.com/cjmellor/blockade) allow a User Model to Block Another User Model
+
+* Automatically [cache Laravel Eloquent models](https://github.com/elipZis/laravel-cacheable-model) by queries
+
 * Lara-[Captcha](https://github.com/hirenkeraliya/lara-captcha) is a reliable and easy-to-use package for preventing bot submissions and enhancing the security of public forms in Laravel.
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9%2B-blue?style=flat-square)
+
 * [Chartello](https://github.com/chartello/chartello "Chartello") provides a simple UI for visualizing your data in your Laravel-powered app.
+
 * Lara [Client](https://github.com/usamamuneerchaudhary/laraclient) simplifies the process of working with APIs in Laravel, making it easy to handle authentication, rate limiting, and error handling. It allows to set up several API connections in a central configuration file, specifying the credentials for each connection.
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
 
@@ -53,13 +59,20 @@ List of usefull resources and projects about Laravel
 * [Two-Factor-Laravel](https://github.com/emargareten/two-factor-laravel) is a package that implements two-factor authentication for your Laravel apps.
 * [Wallet](https://github.com/stephenjude/laravel-wallet "Wallet") is a simple wallet implementation for Laravel
 
+* Laravel [Zodgen](https://github.com/7nohe/laravel-zodgen) generates [Zod](https://zod.dev/) schemas from Laravel FormRequests. This allows you to share your validation rules between your Laravel backend and your TypeScript frontend.
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9%2B-blue?style=flat-square)
+![Supported TypeScript Versions](https://img.shields.io/badge/TypeScript-5%2B-blue?style=flat-square)
+
 # Tutorials
 * [Autocomplete With Livewire](https://fly.io/laravel-bytes/livewire-autocomplete/) We're gonna do some autocompletion with Livewire.
 * [Concurrent, Chunked, Multi-File Uploads With Livewire](https://fly.io/laravel-bytes/multi-file-upload-livewire/)
+* [Calculating rolling averages with Laravel Collections](https://www.conroyp.com/articles/calculating-rolling-averages-in-laravel-collections)
 * [Exploring the Power of ReflectionClass in PHP](https://rakibdevs.medium.com/exploring-the-power-of-reflectionclass-in-php-a26d5ce533f3)
 * [Facades in Laravel](https://laraveldaily.com/post/facades-laravel-how-they-work) Do You Need To Use Them?
+* Let's talk about [Form Requests](https://laravel-news.com/form-requests)
 * [How to integrate MermaidJs in Laravel Application](https://laravel-school.com/posts/how-to-integrate-mermaidjs-in-laravel-application-98).
 [Mermaid](https://mermaid.js.org/intro/) is a JavaScript library for generating diagrams and flowcharts from simple text-based descriptions.
+* [How to delay Laravel jobs and listeners within database transactions](https://arunas.dev/how-to-delay-laravel-jobs-and-listeners-within-database-transactions/). If you have jobs and listeners being fired within database transactions, it can lead to data inconsistencies if the transaction rolls back. Learn how to properly handle them here.
 * [Implementing Passkey Authentication in Your Laravel App](https://blog.joe.codes/implementing-passkey-authentication-in-your-laravel-app) Let's learn how to implement passkey authentication in your Laravel app, allowing your users to create accounts and log in using only their devices.
 * [Optimally creating a fresh Laravel project](https://devdojo.com/bluepundit/optimally-creating-a-fresh-laravel-project)
 * [Progress Indicator With Livewire](https://fly.io/laravel-bytes/progress-indicator-livewire/) 
