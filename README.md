@@ -4,6 +4,10 @@ List of usefull resources and projects about Laravel
 # Packages
 * Laravel [Actions](https://laravelactions.com/). This package introduces a new way of organising the logic of your Laravel applications by focusing on the actions your applications provide. Instead of creating controllers, jobs, listeners and so on, it allows you to create a PHP class that handles a specific task and run that class as anything you want.
 
+* Laravel [Attributes] (https://github.com/milwad-dev/laravel-attributes) is a package for create attributes easy.
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9.0%2B-blue?style=flat-square)
+
 * [BanHammer](https://github.com/mchev/banhammer "Banhammer, a Model and IP ban package for Laravel"), a Model and IP ban package for Laravel
 
 * [Blockade](https://github.com/cjmellor/blockade) allow a User Model to Block Another User Model
@@ -18,7 +22,11 @@ List of usefull resources and projects about Laravel
 * Lara [Client](https://github.com/usamamuneerchaudhary/laraclient) simplifies the process of working with APIs in Laravel, making it easy to handle authentication, rate limiting, and error handling. It allows to set up several API connections in a central configuration file, specifying the credentials for each connection.
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
 
+* [Commentify](https://github.com/usamamuneerchaudhary/commentify) - Laravel Livewire Comments. Commentify is a powerful Laravel Livewire package designed to provide an easy-to-integrate commenting system for any model in your Laravel application. Powered by Livewire, this package offers a seamless commenting experience that is powered by Tailwind UI, making it easy for users to engage with your content.
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10.0%2B-blue?style=flat-square)
+
 * [Data Migrator](https://github.com/oguzhankrcb/DataMigrator) is a PHP/Laravel package that helps you migrate data from one model to another, even if they have different structures. It's especially useful when you're migrating data between models with different database schemas.
+* Laravel [Date Scopes](https://github.com/laracraft-tech/laravel-date-scopes) provides a big range of useful date scopes for your Laravel Eloquent models!
 * [Docgen for Laravel Facade](https://github.com/irazasyed/docgen) Streamline your Laravel package development with automatic facade documentation using Docgen for Laravel Facade.
 * Laravel [Domain Driven Design DDD](https://github.com/thejano/laravel-domain-driven-design "Laravel Domain Driven Design") is a software development approach that emphasizes understanding and modeling the business domain. The goal is to create software that aligns with the needs of the business and is easier to maintain. [DOC](https://ddd.thejano.com/guide/)
 
@@ -35,9 +43,17 @@ List of usefull resources and projects about Laravel
 ![Livewire required](https://img.shields.io/badge/Livewire-2.0%2B-blue?style=flat-square)
 
 * [Flaky for Laravel](https://github.com/hammerstonedev/flaky) is a package that helps you handle operations that may have intermittent failures due to unreliable third-parties.
+
+* Laravel [Google Analytics](https://github.com/vormkracht10/laravel-google-analytics-v4) v4 retrieve all data like pageviews, events, ecommerce transactions and more from Google Analytics version 4 using the Google API.
+* [php-heic-to-jpg](https://github.com/MaestroError/php-heic-to-jpg) The easiest way to convert HEIC/HEIF images to JPEG with PHP and Laravel framework. It uses binary file created with Go language and has no dependencies on any other PHP libraries, extensions or third-part software
 * Laravel [HMVC](https://github.com/hexters/laramodule "Laravel HMVC") is a Laravel package that allows developers to organize and manage modules within their web application
 * [L-admin](https://github.com/hexters/ladmin "L-admin") is a Laravel administration package that allows web developers to quickly create an admin panel for their website
 * Laravel [Languages](https://github.com/riomigal/languages) is a Translation UI that adds additional functionality to the existing Laravel App. The App has it's own guard which isolates Laravel Languages from an existing App.
+* [Lunar](https://lunarphp.io/). An open-source package that brings the power of modern headless e-commerce functionality to Laravel. [Full documentation](https://docs.lunarphp.io/) Includes in-depth guides on everything Lunar. [https://github.com/lunarphp/lunar](https://github.com/lunarphp/lunar) set of Laravel packages that bring functionality akin to Shopify and other e-commerce platforms to Laravel.
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9%2B-blue?style=flat-square)
+
+* Laravel [Markable](https://github.com/maize-tech/laravel-markable) allows you to easily add the markable feature to your application, as for example likes, bookmarks, favorites and so on.
 * Laravel-[model-filter](https://github.com/lacodix/laravel-model-filter/) Package allows you to filter, search and sort models while fetching from database with ease. It contains additional functionality to use query strings to filter, search and sort.
 * Laravel [Multipayment Gateways](https://github.com/MusahMusah/laravel-multipayment-gateways) package provides a convenient way to handle payments through multiple payment gateways in a Laravel 8, 9 and 10 application. The package currently supports multiple gateways such as Paystack, Flutterwave and Stripe.
 * Laravel-[notification-log](https://github.com/spatie/laravel-notification-log) Package will log all the notifications sent by your app. This will allow you to write logic based on the notifications your app has sent. [DOC](https://spatie.be/docs/laravel-notification-log/v1/introduction), [Tutorial](https://freek.dev/2437-log-all-notifications-sent-by-your-laravel-app)
@@ -46,6 +62,7 @@ List of usefull resources and projects about Laravel
 * [OPcodes's Log Viewer](https://github.com/opcodesio/log-viewer) helps you quickly and clearly see individual log entries, to search, filter, and make sense of your Laravel logs fast.
 * [OpenAI](https://github.com/openai-php/laravel) for Laravel is a community-maintained PHP API client that allows you to interact with the Open AI API.
 * Laravel [Open Weather](https://github.com/RakibDevs/openweather-laravel-api) API is a Laravel package to connect Open Weather Map APIs ( https://openweathermap.org/api ) and access free API services (current weather, weather forecast, weather history) easily.
+* [PayPal Webhooks Client](https://github.com/ankurk91/laravel-paypal-webhooks) for Laravel handle PayPal webhooks in Laravel php framework.
 
 * [Query Builder Macros](https://github.com/uteq/laravel-query-builder-macros) Adds useful functionality to the Laravel Query Builder
 `Illuminate\Database\Query\Builder`.
@@ -54,6 +71,7 @@ List of usefull resources and projects about Laravel
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10%2B-blue?style=flat-square)
 * Laravel Fluent [RabbitMQ](https://github.com/sokanacademy/Laravel-Fluent-RabbitMQ) This package allows your laravel applications to easily communicate with each other in an event driven way. One service can publish an event and another one can consume the event and take actions accordingly.
+* A Fluent Builder For [Schema.org](https://github.com/spatie/schema-org) Types And ld+json Generator
 * [Spreadsheet translations](https://github.com/orkhanahmadov/spreadsheet-translations) for Laravel create translation files from spreadsheet.
 * [Tagify](https://github.com/usamamuneerchaudhary/laravel-tagify "Tagify") is a simple Tagging Package for Laravel. Using this package, you can simply tag, untag or retag any existing model in your laravel app. [Tutorial](https://thewebtier.com/how-to-implement-tagging-to-laravel-models-with-tagify)
 * [Two-Factor-Laravel](https://github.com/emargareten/two-factor-laravel) is a package that implements two-factor authentication for your Laravel apps.
@@ -78,6 +96,7 @@ List of usefull resources and projects about Laravel
 * [Progress Indicator With Livewire](https://fly.io/laravel-bytes/progress-indicator-livewire/) 
 * [QR Code Generator in Laravel 10 Tutorial](https://harrk.dev/qr-code-generator-in-laravel-10-tutorial/)
 * [Chunked File Upload With Livewire](https://fly.io/laravel-bytes/chunked-file-upload-livewire/)
+* [Laravel Real-Time Notifications with SSE](https://blog.oussama-mater.me/laravel-sse/) (Server-Sent Events)
 
 # Common
 * [Dolby API SDK](https://github.com/andreia/php-sdk-dolby-api) Provides a PHP wrapper for [Dolby API](https://docs.dolby.io/).
