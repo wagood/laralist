@@ -35,6 +35,9 @@ List of usefull resources and projects about Laravel
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9.0%2B-blue?style=flat-square)
 
 * [Dynamic Mail Config](https://github.com/ikechukwukalu/dynamicmailconfig) enables each user to send emails through your app using their own unique email configuration.
+
+* [Dynamic Model for Laravel](https://github.com/laracraft-tech/laravel-dynamic-model). You may need to handle multiple tables via a single model. Here Laravel Dynamic Model comes into play!
+
 * [Google Photo CLI](https://github.com/OctopyID/GPhotoCLI) GPhoto streamlines the photo uploading process and helps you keep your photo library organized. Say goodbye to manual photo uploads and hello to efficient photo management with GPhoto.
 
 * [Filament](https://filamentphp.com/) is a collection of tools for rapidly building beautiful TALL stack apps, designed for humans.
@@ -42,6 +45,7 @@ List of usefull resources and projects about Laravel
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8.0%2B-blue?style=flat-square)
 ![Livewire required](https://img.shields.io/badge/Livewire-2.0%2B-blue?style=flat-square)
 
+* Laravel [FFMpeg](https://github.com/ProjektGopher/laravel-ffmpeg-tools) Tools and utilities to help generate complex strings for FFMpeg in Laravel.
 * [Flaky for Laravel](https://github.com/hammerstonedev/flaky) is a package that helps you handle operations that may have intermittent failures due to unreliable third-parties.
 
 * Laravel [Google Analytics](https://github.com/vormkracht10/laravel-google-analytics-v4) v4 retrieve all data like pageviews, events, ecommerce transactions and more from Google Analytics version 4 using the Google API.
@@ -75,6 +79,13 @@ List of usefull resources and projects about Laravel
 * [Spreadsheet translations](https://github.com/orkhanahmadov/spreadsheet-translations) for Laravel create translation files from spreadsheet.
 * [Tagify](https://github.com/usamamuneerchaudhary/laravel-tagify "Tagify") is a simple Tagging Package for Laravel. Using this package, you can simply tag, untag or retag any existing model in your laravel app. [Tutorial](https://thewebtier.com/how-to-implement-tagging-to-laravel-models-with-tagify)
 * [Two-Factor-Laravel](https://github.com/emargareten/two-factor-laravel) is a package that implements two-factor authentication for your Laravel apps.
+
+* Laravel [Validate](https://github.com/milwad-dev/laravel-validate) is a package for validate faster & easier. You can validate data easier, Laravel validate have lots of rule class for validation.
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9%2B-blue?style=flat-square)
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8%2B-blue?style=flat-square)
+
+* [Walker](https://github.com/qubesoftware/laravel-walker) is a package that allows you to create multi-step wizards in your Laravel applications.
+
 * [Wallet](https://github.com/stephenjude/laravel-wallet "Wallet") is a simple wallet implementation for Laravel
 
 * Laravel [Zodgen](https://github.com/7nohe/laravel-zodgen) generates [Zod](https://zod.dev/) schemas from Laravel FormRequests. This allows you to share your validation rules between your Laravel backend and your TypeScript frontend.
@@ -92,6 +103,8 @@ List of usefull resources and projects about Laravel
 [Mermaid](https://mermaid.js.org/intro/) is a JavaScript library for generating diagrams and flowcharts from simple text-based descriptions.
 * [How to delay Laravel jobs and listeners within database transactions](https://arunas.dev/how-to-delay-laravel-jobs-and-listeners-within-database-transactions/). If you have jobs and listeners being fired within database transactions, it can lead to data inconsistencies if the transaction rolls back. Learn how to properly handle them here.
 * [Implementing Passkey Authentication in Your Laravel App](https://blog.joe.codes/implementing-passkey-authentication-in-your-laravel-app) Let's learn how to implement passkey authentication in your Laravel app, allowing your users to create accounts and log in using only their devices.
+* Building a [Kanban Board](https://laravel-news.com/building-a-kanban-board-with-laravel) with Laravel and Vue.Draggable
+* [Managing files using Laravel's scoped driver](https://innocenzi.dev/articles/managing-files-using-laravels-scoped-driver)
 * [Optimally creating a fresh Laravel project](https://devdojo.com/bluepundit/optimally-creating-a-fresh-laravel-project)
 * [Progress Indicator With Livewire](https://fly.io/laravel-bytes/progress-indicator-livewire/) 
 * [QR Code Generator in Laravel 10 Tutorial](https://harrk.dev/qr-code-generator-in-laravel-10-tutorial/)
