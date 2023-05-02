@@ -74,10 +74,14 @@ List of usefull resources and projects about Laravel
 * Laravel [Query Expressions](https://github.com/tpetry/laravel-query-expressions) to replace DB::raw() calls. All provided implementations abstract some SQL functionality that is automatically transformed to the correct syntax with the same behaviour for your used database engine. 
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10%2B-blue?style=flat-square)
+
 * Laravel Fluent [RabbitMQ](https://github.com/sokanacademy/Laravel-Fluent-RabbitMQ) This package allows your laravel applications to easily communicate with each other in an event driven way. One service can publish an event and another one can consume the event and take actions accordingly.
 * A Fluent Builder For [Schema.org](https://github.com/spatie/schema-org) Types And ld+json Generator
 * [Spreadsheet translations](https://github.com/orkhanahmadov/spreadsheet-translations) for Laravel create translation files from spreadsheet.
 * [Tagify](https://github.com/usamamuneerchaudhary/laravel-tagify "Tagify") is a simple Tagging Package for Laravel. Using this package, you can simply tag, untag or retag any existing model in your laravel app. [Tutorial](https://thewebtier.com/how-to-implement-tagging-to-laravel-models-with-tagify)
+
+* [Beautiful toast notifications for Livewire](https://github.com/masmerise/livewire-toaster) 
+
 * [Two-Factor-Laravel](https://github.com/emargareten/two-factor-laravel) is a package that implements two-factor authentication for your Laravel apps.
 
 * Laravel [Validate](https://github.com/milwad-dev/laravel-validate) is a package for validate faster & easier. You can validate data easier, Laravel validate have lots of rule class for validation.
@@ -87,6 +91,8 @@ List of usefull resources and projects about Laravel
 * [Walker](https://github.com/qubesoftware/laravel-walker) is a package that allows you to create multi-step wizards in your Laravel applications.
 
 * [Wallet](https://github.com/stephenjude/laravel-wallet "Wallet") is a simple wallet implementation for Laravel
+
+* Laravel [Webhooks](https://github.com/JustSteveKing/laravel-webhooks). A simple webhook implementation for Laravel.
 
 * Laravel [Zodgen](https://github.com/7nohe/laravel-zodgen) generates [Zod](https://zod.dev/) schemas from Laravel FormRequests. This allows you to share your validation rules between your Laravel backend and your TypeScript frontend.
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9%2B-blue?style=flat-square)
