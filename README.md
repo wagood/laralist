@@ -3,7 +3,8 @@ List of usefull resources and projects about Laravel
 
 # Packages
 * Laravel [Actions](https://laravelactions.com/). This package introduces a new way of organising the logic of your Laravel applications by focusing on the actions your applications provide. Instead of creating controllers, jobs, listeners and so on, it allows you to create a PHP class that handles a specific task and run that class as anything you want.
-
+* [Aloia CMS:](https://aloiacms.com/) The flat-file content management system for Laravel
+* Laravel [Analytics](https://github.com/wdev-rs/laravel-analytics) small analytics package.
 * Laravel [Attributes] (https://github.com/milwad-dev/laravel-attributes) is a package for create attributes easy.
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9.0%2B-blue?style=flat-square)
@@ -53,6 +54,7 @@ List of usefull resources and projects about Laravel
 * Laravel [HMVC](https://github.com/hexters/laramodule "Laravel HMVC") is a Laravel package that allows developers to organize and manage modules within their web application
 * [L-admin](https://github.com/hexters/ladmin "L-admin") is a Laravel administration package that allows web developers to quickly create an admin panel for their website
 * Laravel [Languages](https://github.com/riomigal/languages) is a Translation UI that adds additional functionality to the existing Laravel App. The App has it's own guard which isolates Laravel Languages from an existing App.
+* [LdapRecord](https://github.com/DirectoryTree/LdapRecord-Laravel) Integrate LDAP into your Laravel application.
 * [Lunar](https://lunarphp.io/). An open-source package that brings the power of modern headless e-commerce functionality to Laravel. [Full documentation](https://docs.lunarphp.io/) Includes in-depth guides on everything Lunar. [https://github.com/lunarphp/lunar](https://github.com/lunarphp/lunar) set of Laravel packages that bring functionality akin to Shopify and other e-commerce platforms to Laravel.
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9%2B-blue?style=flat-square)
@@ -109,6 +111,7 @@ List of usefull resources and projects about Laravel
 [Mermaid](https://mermaid.js.org/intro/) is a JavaScript library for generating diagrams and flowcharts from simple text-based descriptions.
 * [How to delay Laravel jobs and listeners within database transactions](https://arunas.dev/how-to-delay-laravel-jobs-and-listeners-within-database-transactions/). If you have jobs and listeners being fired within database transactions, it can lead to data inconsistencies if the transaction rolls back. Learn how to properly handle them here.
 * [Implementing Passkey Authentication in Your Laravel App](https://blog.joe.codes/implementing-passkey-authentication-in-your-laravel-app) Let's learn how to implement passkey authentication in your Laravel app, allowing your users to create accounts and log in using only their devices.
+* [Laravel Jetstream:](https://laravel-news.com/jetstream-spatie-permission) Add CRUD with Spatie Permission
 * Building a [Kanban Board](https://laravel-news.com/building-a-kanban-board-with-laravel) with Laravel and Vue.Draggable
 * [Managing files using Laravel's scoped driver](https://innocenzi.dev/articles/managing-files-using-laravels-scoped-driver)
 * [Optimally creating a fresh Laravel project](https://devdojo.com/bluepundit/optimally-creating-a-fresh-laravel-project)
