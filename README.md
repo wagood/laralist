@@ -78,6 +78,9 @@ List of usefull resources and projects about Laravel
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10%2B-blue?style=flat-square)
 
 * Laravel Fluent [RabbitMQ](https://github.com/sokanacademy/Laravel-Fluent-RabbitMQ) This package allows your laravel applications to easily communicate with each other in an event driven way. One service can publish an event and another one can consume the event and take actions accordingly.
+
+* Lara [Reserve](https://github.com/shayan-yousefi/lara-reserve) Is a Laravel Package To Adds a Reservation feature to the laravel models. [Tutorial](https://dev.to/shayan-yousefi/creating-a-reservation-system-in-laravel-with-lara-reserve-a-step-by-step-guide-26nf)
+
 * A Fluent Builder For [Schema.org](https://github.com/spatie/schema-org) Types And ld+json Generator
 * [Spreadsheet translations](https://github.com/orkhanahmadov/spreadsheet-translations) for Laravel create translation files from spreadsheet.
 * [Tagify](https://github.com/usamamuneerchaudhary/laravel-tagify "Tagify") is a simple Tagging Package for Laravel. Using this package, you can simply tag, untag or retag any existing model in your laravel app. [Tutorial](https://thewebtier.com/how-to-implement-tagging-to-laravel-models-with-tagify)
@@ -115,6 +118,7 @@ List of usefull resources and projects about Laravel
 * Building a [Kanban Board](https://laravel-news.com/building-a-kanban-board-with-laravel) with Laravel and Vue.Draggable
 * [Managing files using Laravel's scoped driver](https://innocenzi.dev/articles/managing-files-using-laravels-scoped-driver)
 * [Optimally creating a fresh Laravel project](https://devdojo.com/bluepundit/optimally-creating-a-fresh-laravel-project)
+* [Unleashing the Power of Pipelines: A Custom PHP Implementation](https://infinitypaul.medium.com/unleashing-the-power-of-pipelines-a-custom-php-implementation-5684fabd6528)
 * [Progress Indicator With Livewire](https://fly.io/laravel-bytes/progress-indicator-livewire/) 
 * [QR Code Generator in Laravel 10 Tutorial](https://harrk.dev/qr-code-generator-in-laravel-10-tutorial/)
 * [Chunked File Upload With Livewire](https://fly.io/laravel-bytes/chunked-file-upload-livewire/)
