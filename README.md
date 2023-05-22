@@ -5,6 +5,7 @@ List of usefull resources and projects about Laravel
 * Laravel [Actions](https://laravelactions.com/). This package introduces a new way of organising the logic of your Laravel applications by focusing on the actions your applications provide. Instead of creating controllers, jobs, listeners and so on, it allows you to create a PHP class that handles a specific task and run that class as anything you want.
 * [Aloia CMS:](https://aloiacms.com/) The flat-file content management system for Laravel
 * Laravel [Analytics](https://github.com/wdev-rs/laravel-analytics) small analytics package.
+* [Arcanist](https://laravel-arcanist.com/) provides a simple, yet powerful approach for adding multi-step form wizards to your Laravel application. It takes care of all the boring details so you can spend your time writing features, not boilerplate.
 * Laravel [Attributes] (https://github.com/milwad-dev/laravel-attributes) is a package for create attributes easy.
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9.0%2B-blue?style=flat-square)
@@ -86,6 +87,10 @@ List of usefull resources and projects about Laravel
 * [Tagify](https://github.com/usamamuneerchaudhary/laravel-tagify "Tagify") is a simple Tagging Package for Laravel. Using this package, you can simply tag, untag or retag any existing model in your laravel app. [Tutorial](https://thewebtier.com/how-to-implement-tagging-to-laravel-models-with-tagify)
 
 * [Beautiful toast notifications for Livewire](https://github.com/masmerise/livewire-toaster) 
+
+* Laravel [Translation](https://github.com/spatie/laravel-translation-loader) Loader. Store your language lines in the database
+* [Translations](https://github.com/Delta-Solutions/translations) in columns loader provides a migration and a model to extend the spatie/laravel-translation-loader so you can store your translations in columns instead of one json field. One column per locale.
+* [Translations export and import](https://github.com/Delta-Solutions/translations-export-import) This package provides two artisan commands to export and import language_lines from the spatie translations package table to Excel.
 
 * [Two-Factor-Laravel](https://github.com/emargareten/two-factor-laravel) is a package that implements two-factor authentication for your Laravel apps.
 
