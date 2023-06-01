@@ -4,11 +4,14 @@ List of usefull resources and projects about Laravel
 # Packages
 * Laravel [Actions](https://laravelactions.com/). This package introduces a new way of organising the logic of your Laravel applications by focusing on the actions your applications provide. Instead of creating controllers, jobs, listeners and so on, it allows you to create a PHP class that handles a specific task and run that class as anything you want.
 * [Aloia CMS:](https://aloiacms.com/) The flat-file content management system for Laravel
+* [Alpine.js - lazy load assets](https://github.com/tanthammar/alpine-lazy-load-assets) provides directives for lazy loading JavaScript and CSS assets in Alpine.js projects.
 * Laravel [Analytics](https://github.com/wdev-rs/laravel-analytics) small analytics package.
 * [Arcanist](https://laravel-arcanist.com/) provides a simple, yet powerful approach for adding multi-step form wizards to your Laravel application. It takes care of all the boring details so you can spend your time writing features, not boilerplate.
 * Laravel [Attributes] (https://github.com/milwad-dev/laravel-attributes) is a package for create attributes easy.
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9.0%2B-blue?style=flat-square)
+
+* [Backpack](https://backpackforlaravel.com/) Create custom Laravel admin panels. Simple MVC Architecture, Minimal Technology Stack, HTML Building Blocks
 
 * [BanHammer](https://github.com/mchev/banhammer "Banhammer, a Model and IP ban package for Laravel"), a Model and IP ban package for Laravel
 
@@ -32,6 +35,8 @@ List of usefull resources and projects about Laravel
 * [Docgen for Laravel Facade](https://github.com/irazasyed/docgen) Streamline your Laravel package development with automatic facade documentation using Docgen for Laravel Facade.
 * Laravel [Domain Driven Design DDD](https://github.com/thejano/laravel-domain-driven-design "Laravel Domain Driven Design") is a software development approach that emphasizes understanding and modeling the business domain. The goal is to create software that aligns with the needs of the business and is easier to maintain. [DOC](https://ddd.thejano.com/guide/)
 
+* [Drag & drop editor](https://dropblockeditor.com/) for your Livewire powered blocks. Create your own blocks and make them editable with Livewire components. DropBlockEditor is made for Laravel and with Livewire, Alpine.JS and Tailwind CSS.
+
 * [Dynamic Database Config](https://github.com/ikechukwukalu/dynamicdatabaseconfig) helps you dynamically set more database configurations through the `.env` file or `database`.
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9.0%2B-blue?style=flat-square)
@@ -41,6 +46,8 @@ List of usefull resources and projects about Laravel
 * [Dynamic Model for Laravel](https://github.com/laracraft-tech/laravel-dynamic-model). You may need to handle multiple tables via a single model. Here Laravel Dynamic Model comes into play!
 
 * [Google Photo CLI](https://github.com/OctopyID/GPhotoCLI) GPhoto streamlines the photo uploading process and helps you keep your photo library organized. Say goodbye to manual photo uploads and hello to efficient photo management with GPhoto.
+
+* [Faker Stripe ID's generator](https://github.com/JonPurvis/faker-stripe) A provider for FakerPHP that generates fake, but structurally correct IDs for Stripe API resources.
 
 * [Filament](https://filamentphp.com/) is a collection of tools for rapidly building beautiful TALL stack apps, designed for humans.
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
@@ -63,7 +70,12 @@ List of usefull resources and projects about Laravel
 * Laravel [Markable](https://github.com/maize-tech/laravel-markable) allows you to easily add the markable feature to your application, as for example likes, bookmarks, favorites and so on.
 * Laravel-[model-filter](https://github.com/lacodix/laravel-model-filter/) Package allows you to filter, search and sort models while fetching from database with ease. It contains additional functionality to use query strings to filter, search and sort.
 * Laravel [Multipayment Gateways](https://github.com/MusahMusah/laravel-multipayment-gateways) package provides a convenient way to handle payments through multiple payment gateways in a Laravel 8, 9 and 10 application. The package currently supports multiple gateways such as Paystack, Flutterwave and Stripe.
+
+* Google [Natural Language API package for Laravel](https://github.com/JoggApp/laravel-natural-language) makes using the Google Natural Language Processing (NLP) API in your Laravel app a breeze with minimum to no configuration, clean syntax, and a consistent package API.
+
 * Laravel-[notification-log](https://github.com/spatie/laravel-notification-log) Package will log all the notifications sent by your app. This will allow you to write logic based on the notifications your app has sent. [DOC](https://spatie.be/docs/laravel-notification-log/v1/introduction), [Tutorial](https://freek.dev/2437-log-all-notifications-sent-by-your-laravel-app)
+* [Notion API](https://github.com/5am-code/laravel-notion-api) for Laravel is a package to effortlessly create [Notion](https://www.notion.so/) integrations with Laravel
+* [Plugin Manager](https://pm.fresns.org/) is a convenient Laravel extension package designed for modular management of your large-scale Laravel applications.
 * Laravel [Purity](https://github.com/abbasudo/laravel-purity) is an elegant and efficient filtering and sorting package for Laravel, designed to simplify complex data filtering and sorting logic for eloquent queries. By simply adding filter() to your Eloquent query, you can add the ability for frontend users to apply filters based on url query string parameters like a breeze.
 * [REQUIRE PIN](https://github.com/ikechukwukalu/requirepin) A laravel package for pin confirmation and validation before processing requests to a specified route.
 * [OPcodes's Log Viewer](https://github.com/opcodesio/log-viewer) helps you quickly and clearly see individual log entries, to search, filter, and make sense of your Laravel logs fast.
@@ -83,6 +95,7 @@ List of usefull resources and projects about Laravel
 * Lara [Reserve](https://github.com/shayan-yousefi/lara-reserve) Is a Laravel Package To Adds a Reservation feature to the laravel models. [Tutorial](https://dev.to/shayan-yousefi/creating-a-reservation-system-in-laravel-with-lara-reserve-a-step-by-step-guide-26nf)
 
 * A Fluent Builder For [Schema.org](https://github.com/spatie/schema-org) Types And ld+json Generator
+* [Splade](https://splade.dev/) provides a super easy way to build Single Page Applications (SPA) using standard Laravel Blade templates, enhanced with renderless Vue 3 components. In essence, you can write your app using the simplicity of Blade, and besides that magic SPA-feeling, you can sparkle it to make it interactive.
 * [Spreadsheet translations](https://github.com/orkhanahmadov/spreadsheet-translations) for Laravel create translation files from spreadsheet.
 * [Tagify](https://github.com/usamamuneerchaudhary/laravel-tagify "Tagify") is a simple Tagging Package for Laravel. Using this package, you can simply tag, untag or retag any existing model in your laravel app. [Tutorial](https://thewebtier.com/how-to-implement-tagging-to-laravel-models-with-tagify)
 
@@ -93,7 +106,7 @@ List of usefull resources and projects about Laravel
 * [Translations export and import](https://github.com/Delta-Solutions/translations-export-import) This package provides two artisan commands to export and import language_lines from the spatie translations package table to Excel.
 
 * [Two-Factor-Laravel](https://github.com/emargareten/two-factor-laravel) is a package that implements two-factor authentication for your Laravel apps.
-
+* [Str Acronym] package for Laravel provides a macro for generating acronyms from strings using the Str helper and supports the Stringable class
 * Laravel [Validate](https://github.com/milwad-dev/laravel-validate) is a package for validate faster & easier. You can validate data easier, Laravel validate have lots of rule class for validation.
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9%2B-blue?style=flat-square)
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8%2B-blue?style=flat-square)
@@ -137,3 +150,4 @@ List of usefull resources and projects about Laravel
 * Tectalic [OpenAI](https://tectalic.com/apis/openai/docs/php) REST API Client s a package that provides a convenient and straightforward way to interact with the OpenAI API from your PHP application.
 * [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) These cheat sheets were created by various application security professionals who have expertise in specific topics.
 * [Rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring. [Automated Refactoring With Rector](https://tighten.com/insights/automated-refactoring-with-rector-php/)
+* [Summernote](https://summernote.org/) Super simple WYSIWYG Editor on Bootstrap
