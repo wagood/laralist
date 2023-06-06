@@ -63,6 +63,11 @@ List of usefull resources and projects about Laravel
 * [L-admin](https://github.com/hexters/ladmin "L-admin") is a Laravel administration package that allows web developers to quickly create an admin panel for their website
 * Laravel [Languages](https://github.com/riomigal/languages) is a Translation UI that adds additional functionality to the existing Laravel App. The App has it's own guard which isolates Laravel Languages from an existing App.
 * [LdapRecord](https://github.com/DirectoryTree/LdapRecord-Laravel) Integrate LDAP into your Laravel application.
+
+* [LaraDumps](https://laradumps.dev/) is a friendly app designed to boost your Laravel PHP coding and debugging experience.
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0+%2B-blue?style=flat-square)
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8.75+%2B-blue?style=flat-square)
+
 * [Lunar](https://lunarphp.io/). An open-source package that brings the power of modern headless e-commerce functionality to Laravel. [Full documentation](https://docs.lunarphp.io/) Includes in-depth guides on everything Lunar. [https://github.com/lunarphp/lunar](https://github.com/lunarphp/lunar) set of Laravel packages that bring functionality akin to Shopify and other e-commerce platforms to Laravel.
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9%2B-blue?style=flat-square)
@@ -95,6 +100,11 @@ List of usefull resources and projects about Laravel
 * Lara [Reserve](https://github.com/shayan-yousefi/lara-reserve) Is a Laravel Package To Adds a Reservation feature to the laravel models. [Tutorial](https://dev.to/shayan-yousefi/creating-a-reservation-system-in-laravel-with-lara-reserve-a-step-by-step-guide-26nf)
 
 * A Fluent Builder For [Schema.org](https://github.com/spatie/schema-org) Types And ld+json Generator
+
+* [Short-url](https://github.com/ash-jc-allen/short-url) A Laravel package that can be used for adding shortened URLs to your existing web app.
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8.0%2B-blue?style=flat-square)
+
 * [Splade](https://splade.dev/) provides a super easy way to build Single Page Applications (SPA) using standard Laravel Blade templates, enhanced with renderless Vue 3 components. In essence, you can write your app using the simplicity of Blade, and besides that magic SPA-feeling, you can sparkle it to make it interactive.
 * [Spreadsheet translations](https://github.com/orkhanahmadov/spreadsheet-translations) for Laravel create translation files from spreadsheet.
 * [Tagify](https://github.com/usamamuneerchaudhary/laravel-tagify "Tagify") is a simple Tagging Package for Laravel. Using this package, you can simply tag, untag or retag any existing model in your laravel app. [Tutorial](https://thewebtier.com/how-to-implement-tagging-to-laravel-models-with-tagify)
@@ -110,6 +120,9 @@ List of usefull resources and projects about Laravel
 * Laravel [Validate](https://github.com/milwad-dev/laravel-validate) is a package for validate faster & easier. You can validate data easier, Laravel validate have lots of rule class for validation.
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9%2B-blue?style=flat-square)
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8%2B-blue?style=flat-square)
+
+* Flysystem adapter for [Uploadcare](https://github.com/vormkracht10/flysystem-uploadcare) with support for Laravel v10+.
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10+%2B-blue?style=flat-square)
 
 * [Walker](https://github.com/qubesoftware/laravel-walker) is a package that allows you to create multi-step wizards in your Laravel applications.
 
