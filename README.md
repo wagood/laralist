@@ -30,6 +30,8 @@ List of usefull resources and projects about Laravel
 * [Commentify](https://github.com/usamamuneerchaudhary/commentify) - Laravel Livewire Comments. Commentify is a powerful Laravel Livewire package designed to provide an easy-to-integrate commenting system for any model in your Laravel application. Powered by Livewire, this package offers a seamless commenting experience that is powered by Tailwind UI, making it easy for users to engage with your content.
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10.0%2B-blue?style=flat-square)
 
+Laravel Blade [Comments](https://github.com/spatie/laravel-blade-comments). Add debug comments to your rendered output
+
 * [Data Migrator](https://github.com/oguzhankrcb/DataMigrator) is a PHP/Laravel package that helps you migrate data from one model to another, even if they have different structures. It's especially useful when you're migrating data between models with different database schemas.
 * Laravel [Date Scopes](https://github.com/laracraft-tech/laravel-date-scopes) provides a big range of useful date scopes for your Laravel Eloquent models!
 * [Docgen for Laravel Facade](https://github.com/irazasyed/docgen) Streamline your Laravel package development with automatic facade documentation using Docgen for Laravel Facade.
@@ -55,10 +57,16 @@ List of usefull resources and projects about Laravel
 ![Livewire required](https://img.shields.io/badge/Livewire-2.0%2B-blue?style=flat-square)
 
 * Laravel [FFMpeg](https://github.com/ProjektGopher/laravel-ffmpeg-tools) Tools and utilities to help generate complex strings for FFMpeg in Laravel.
+
 * [Flaky for Laravel](https://github.com/hammerstonedev/flaky) is a package that helps you handle operations that may have intermittent failures due to unreliable third-parties.
+
+* PostgreSQL [Full Text Search Engine](https://github.com/devNoiseConsulting/laravel-scout-postgres-tsvector) for [Laravel Scout](https://github.com/devNoiseConsulting/laravel-scout-postgres-tsvector)
 
 * Laravel [Google Analytics](https://github.com/vormkracht10/laravel-google-analytics-v4) v4 retrieve all data like pageviews, events, ecommerce transactions and more from Google Analytics version 4 using the Google API.
 * [php-heic-to-jpg](https://github.com/MaestroError/php-heic-to-jpg) The easiest way to convert HEIC/HEIF images to JPEG with PHP and Laravel framework. It uses binary file created with Go language and has no dependencies on any other PHP libraries, extensions or third-part software
+
+* [Hooks for Alpine.js](https://github.com/ryangjchandler/alpine-hooks) contains a variety of hooks for [Alpine.js](https://alpinejs.dev/) that can be used to improve the developer experience of common front-end development tasks.
+
 * Laravel [HMVC](https://github.com/hexters/laramodule "Laravel HMVC") is a Laravel package that allows developers to organize and manage modules within their web application
 * [L-admin](https://github.com/hexters/ladmin "L-admin") is a Laravel administration package that allows web developers to quickly create an admin panel for their website
 * Laravel [Languages](https://github.com/riomigal/languages) is a Translation UI that adds additional functionality to the existing Laravel App. The App has it's own guard which isolates Laravel Languages from an existing App.
@@ -72,21 +80,35 @@ List of usefull resources and projects about Laravel
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9%2B-blue?style=flat-square)
 
+* Laravel [Maps](https://github.com/LarsWiegers/laravel-maps) allows you to easily use leaflet.js or google maps to create a map in your laravel project.
+
 * Laravel [Markable](https://github.com/maize-tech/laravel-markable) allows you to easily add the markable feature to your application, as for example likes, bookmarks, favorites and so on.
 * Laravel-[model-filter](https://github.com/lacodix/laravel-model-filter/) Package allows you to filter, search and sort models while fetching from database with ease. It contains additional functionality to use query strings to filter, search and sort.
 * Laravel [Multipayment Gateways](https://github.com/MusahMusah/laravel-multipayment-gateways) package provides a convenient way to handle payments through multiple payment gateways in a Laravel 8, 9 and 10 application. The package currently supports multiple gateways such as Paystack, Flutterwave and Stripe.
 
 * Google [Natural Language API package for Laravel](https://github.com/JoggApp/laravel-natural-language) makes using the Google Natural Language Processing (NLP) API in your Laravel app a breeze with minimum to no configuration, clean syntax, and a consistent package API.
 
+* [New Relic for Laravel](https://github.com/JackWH/laravel-new-relic) makes it simple to set up and monitor your Laravel application with [New Relic APM](https://newrelic.com/platform/application-monitoring).
+
 * Laravel-[notification-log](https://github.com/spatie/laravel-notification-log) Package will log all the notifications sent by your app. This will allow you to write logic based on the notifications your app has sent. [DOC](https://spatie.be/docs/laravel-notification-log/v1/introduction), [Tutorial](https://freek.dev/2437-log-all-notifications-sent-by-your-laravel-app)
+
 * [Notion API](https://github.com/5am-code/laravel-notion-api) for Laravel is a package to effortlessly create [Notion](https://www.notion.so/) integrations with Laravel
-* [Plugin Manager](https://pm.fresns.org/) is a convenient Laravel extension package designed for modular management of your large-scale Laravel applications.
-* Laravel [Purity](https://github.com/abbasudo/laravel-purity) is an elegant and efficient filtering and sorting package for Laravel, designed to simplify complex data filtering and sorting logic for eloquent queries. By simply adding filter() to your Eloquent query, you can add the ability for frontend users to apply filters based on url query string parameters like a breeze.
-* [REQUIRE PIN](https://github.com/ikechukwukalu/requirepin) A laravel package for pin confirmation and validation before processing requests to a specified route.
+
 * [OPcodes's Log Viewer](https://github.com/opcodesio/log-viewer) helps you quickly and clearly see individual log entries, to search, filter, and make sense of your Laravel logs fast.
+
 * [OpenAI](https://github.com/openai-php/laravel) for Laravel is a community-maintained PHP API client that allows you to interact with the Open AI API.
+
 * Laravel [Open Weather](https://github.com/RakibDevs/openweather-laravel-api) API is a Laravel package to connect Open Weather Map APIs ( https://openweathermap.org/api ) and access free API services (current weather, weather forecast, weather history) easily.
+
+* [Plugin Manager](https://pm.fresns.org/) is a convenient Laravel extension package designed for modular management of your large-scale Laravel applications.
+
+* Laravel [Purity](https://github.com/abbasudo/laravel-purity) is an elegant and efficient filtering and sorting package for Laravel, designed to simplify complex data filtering and sorting logic for eloquent queries. By simply adding filter() to your Eloquent query, you can add the ability for frontend users to apply filters based on url query string parameters like a breeze.
+
+* [REQUIRE PIN](https://github.com/ikechukwukalu/requirepin) A laravel package for pin confirmation and validation before processing requests to a specified route.
+
 * [PayPal Webhooks Client](https://github.com/ankurk91/laravel-paypal-webhooks) for Laravel handle PayPal webhooks in Laravel php framework.
+
+* [PunchCard](https://github.com/TomasVotruba/punchcard) package provides basic fluent config classes for the Laravel project ```/config``` directory.
 
 * [Query Builder Macros](https://github.com/uteq/laravel-query-builder-macros) Adds useful functionality to the Laravel Query Builder
 `Illuminate\Database\Query\Builder`.
@@ -106,7 +128,15 @@ List of usefull resources and projects about Laravel
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8.0%2B-blue?style=flat-square)
 
 * [Splade](https://splade.dev/) provides a super easy way to build Single Page Applications (SPA) using standard Laravel Blade templates, enhanced with renderless Vue 3 components. In essence, you can write your app using the simplicity of Blade, and besides that magic SPA-feeling, you can sparkle it to make it interactive.
+
 * [Spreadsheet translations](https://github.com/orkhanahmadov/spreadsheet-translations) for Laravel create translation files from spreadsheet.
+
+* [Lemon Squeezy for Laravel](https://github.com/lmsqueezy/laravel) easily integrate your Laravel application with [Lemon Squeezy](https://www.lemonsqueezy.com/).
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10.0+%2B-blue?style=flat-square)
+
+* [Strictus](https://github.com/php-strictus/strictus) brings strict typing for local variables into PHP. With Strictus, you can control the types of local variables using different patterns.
+
 * [Tagify](https://github.com/usamamuneerchaudhary/laravel-tagify "Tagify") is a simple Tagging Package for Laravel. Using this package, you can simply tag, untag or retag any existing model in your laravel app. [Tutorial](https://thewebtier.com/how-to-implement-tagging-to-laravel-models-with-tagify)
 
 * [Beautiful toast notifications for Livewire](https://github.com/masmerise/livewire-toaster) 
@@ -114,6 +144,8 @@ List of usefull resources and projects about Laravel
 * Laravel [Translation](https://github.com/spatie/laravel-translation-loader) Loader. Store your language lines in the database
 * [Translations](https://github.com/Delta-Solutions/translations) in columns loader provides a migration and a model to extend the spatie/laravel-translation-loader so you can store your translations in columns instead of one json field. One column per locale.
 * [Translations export and import](https://github.com/Delta-Solutions/translations-export-import) This package provides two artisan commands to export and import language_lines from the spatie translations package table to Excel.
+
+* Laravel [Turnstile](https://github.com/coderflexx/laravel-turnstile) is a package to help you implement [cloudflare turnstile](https://developers.cloudflare.com/turnstile/) easily, and with no time.
 
 * [Two-Factor-Laravel](https://github.com/emargareten/two-factor-laravel) is a package that implements two-factor authentication for your Laravel apps.
 * [Str Acronym] package for Laravel provides a macro for generating acronyms from strings using the Str helper and supports the Stringable class
@@ -138,9 +170,11 @@ List of usefull resources and projects about Laravel
 * [Autocomplete With Livewire](https://fly.io/laravel-bytes/livewire-autocomplete/) We're gonna do some autocompletion with Livewire.
 * [Concurrent, Chunked, Multi-File Uploads With Livewire](https://fly.io/laravel-bytes/multi-file-upload-livewire/)
 * [Calculating rolling averages with Laravel Collections](https://www.conroyp.com/articles/calculating-rolling-averages-in-laravel-collections)
+* [Create PHP Extension with Rust for Fun and Profit](https://ahmadrosid.com/blog/create-php-extension-with-rust)
 * [Exploring the Power of ReflectionClass in PHP](https://rakibdevs.medium.com/exploring-the-power-of-reflectionclass-in-php-a26d5ce533f3)
 * [Facades in Laravel](https://laraveldaily.com/post/facades-laravel-how-they-work) Do You Need To Use Them?
 * Let's talk about [Form Requests](https://laravel-news.com/form-requests)
+* [How Sentry Can Improve Your Laravel Application](https://laravel-news.com/how-sentry-can-improve-your-laravel-application)
 * [How to integrate MermaidJs in Laravel Application](https://laravel-school.com/posts/how-to-integrate-mermaidjs-in-laravel-application-98).
 [Mermaid](https://mermaid.js.org/intro/) is a JavaScript library for generating diagrams and flowcharts from simple text-based descriptions.
 * [How to delay Laravel jobs and listeners within database transactions](https://arunas.dev/how-to-delay-laravel-jobs-and-listeners-within-database-transactions/). If you have jobs and listeners being fired within database transactions, it can lead to data inconsistencies if the transaction rolls back. Learn how to properly handle them here.
@@ -149,6 +183,7 @@ List of usefull resources and projects about Laravel
 * Building a [Kanban Board](https://laravel-news.com/building-a-kanban-board-with-laravel) with Laravel and Vue.Draggable
 * [Managing files using Laravel's scoped driver](https://innocenzi.dev/articles/managing-files-using-laravels-scoped-driver)
 * [Optimally creating a fresh Laravel project](https://devdojo.com/bluepundit/optimally-creating-a-fresh-laravel-project)
+* [Improving Client Side Pagination With Livewire](https://fly.io/laravel-bytes/client-pagination-livewire/)
 * [Unleashing the Power of Pipelines: A Custom PHP Implementation](https://infinitypaul.medium.com/unleashing-the-power-of-pipelines-a-custom-php-implementation-5684fabd6528)
 * [Progress Indicator With Livewire](https://fly.io/laravel-bytes/progress-indicator-livewire/) 
 * [QR Code Generator in Laravel 10 Tutorial](https://harrk.dev/qr-code-generator-in-laravel-10-tutorial/)
@@ -159,6 +194,9 @@ List of usefull resources and projects about Laravel
 * [Dolby API SDK](https://github.com/andreia/php-sdk-dolby-api) Provides a PHP wrapper for [Dolby API](https://docs.dolby.io/).
 * [Facebook Graph PHP SDK](https://github.com/joelbutcher/facebook-php-graph-sdk) access the Facebook Platform from your PHP app.
 * [FilePond](https://pqina.nl/filepond/) JavaScript library to upload files. [Uploading Files in Laravel Using FilePond](https://laravel-news.com/laravel-filepond)
+
+* [Fresns](https://fresns.org/) Social Network Service Software. General-purpose community product designed for cross-platform, and supports flexible and diverse content forms. It conforms to the trend of the times, satisfies a variety of operating scenarios, is more open and easier to re-development.
+
 * [Inertia.js](https://inertiajs.com/) allow to create modern single-page React, Vue, and Svelte apps using classic server-side routing. Works with any backend — tuned for Laravel.
 * Tectalic [OpenAI](https://tectalic.com/apis/openai/docs/php) REST API Client s a package that provides a convenient and straightforward way to interact with the OpenAI API from your PHP application.
 * [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) These cheat sheets were created by various application security professionals who have expertise in specific topics.
