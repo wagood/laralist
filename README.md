@@ -13,6 +13,8 @@ List of usefull resources and projects about Laravel
 
 * [Backpack](https://backpackforlaravel.com/) Create custom Laravel admin panels. Simple MVC Architecture, Minimal Technology Stack, HTML Building Blocks
 
+* Restore database [backups](https://github.com/stefanzweifel/laravel-backup-restore) made with [spatie/laravel-backup](https://spatie.be/docs/laravel-backup/v8/introduction)
+
 * [BanHammer](https://github.com/mchev/banhammer "Banhammer, a Model and IP ban package for Laravel"), a Model and IP ban package for Laravel
 
 * [Blockade](https://github.com/cjmellor/blockade) allow a User Model to Block Another User Model
@@ -47,6 +49,8 @@ List of usefull resources and projects about Laravel
 
 * [Dynamic Model for Laravel](https://github.com/laracraft-tech/laravel-dynamic-model). You may need to handle multiple tables via a single model. Here Laravel Dynamic Model comes into play!
 
+* [LaraFlash](https://github.com/binkapS/Laraflash). Flash Session messages for Laravel and Livewire
+
 * [Google Photo CLI](https://github.com/OctopyID/GPhotoCLI) GPhoto streamlines the photo uploading process and helps you keep your photo library organized. Say goodbye to manual photo uploads and hello to efficient photo management with GPhoto.
 
 * [Faker Stripe ID's generator](https://github.com/JonPurvis/faker-stripe) A provider for FakerPHP that generates fake, but structurally correct IDs for Stripe API resources.
@@ -63,6 +67,9 @@ List of usefull resources and projects about Laravel
 * PostgreSQL [Full Text Search Engine](https://github.com/devNoiseConsulting/laravel-scout-postgres-tsvector) for [Laravel Scout](https://github.com/devNoiseConsulting/laravel-scout-postgres-tsvector)
 
 * Laravel [Google Analytics](https://github.com/vormkracht10/laravel-google-analytics-v4) v4 retrieve all data like pageviews, events, ecommerce transactions and more from Google Analytics version 4 using the Google API.
+
+* Laravel[Helpers](https://github.com/rmunate/LaravelHelpers). Standard creation and and use of helpers within the Laravel framework through classes, a simple, efficient, and elegant way to execute your application's own methods from any class or view.
+
 * [php-heic-to-jpg](https://github.com/MaestroError/php-heic-to-jpg) The easiest way to convert HEIC/HEIF images to JPEG with PHP and Laravel framework. It uses binary file created with Go language and has no dependencies on any other PHP libraries, extensions or third-part software
 
 * [Hooks for Alpine.js](https://github.com/ryangjchandler/alpine-hooks) contains a variety of hooks for [Alpine.js](https://alpinejs.dev/) that can be used to improve the developer experience of common front-end development tasks.
@@ -83,6 +90,9 @@ List of usefull resources and projects about Laravel
 * Laravel [Maps](https://github.com/LarsWiegers/laravel-maps) allows you to easily use leaflet.js or google maps to create a map in your laravel project.
 
 * Laravel [Markable](https://github.com/maize-tech/laravel-markable) allows you to easily add the markable feature to your application, as for example likes, bookmarks, favorites and so on.
+
+* Laravel [MockApi](https://github.com/lichtner/laravel-mock-api) is a powerful yet lightweight library designed for mocking external APIs and web services.
+
 * Laravel-[model-filter](https://github.com/lacodix/laravel-model-filter/) Package allows you to filter, search and sort models while fetching from database with ease. It contains additional functionality to use query strings to filter, search and sort.
 * Laravel [Multipayment Gateways](https://github.com/MusahMusah/laravel-multipayment-gateways) package provides a convenient way to handle payments through multiple payment gateways in a Laravel 8, 9 and 10 application. The package currently supports multiple gateways such as Paystack, Flutterwave and Stripe.
 
@@ -127,6 +137,8 @@ List of usefull resources and projects about Laravel
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8.0%2B-blue?style=flat-square)
 
+* [Laravel Spatial](https://github.com/asanikovich/laravel-spatial) allows you to easily work with spatial data types and functions.
+
 * [Splade](https://splade.dev/) provides a super easy way to build Single Page Applications (SPA) using standard Laravel Blade templates, enhanced with renderless Vue 3 components. In essence, you can write your app using the simplicity of Blade, and besides that magic SPA-feeling, you can sparkle it to make it interactive.
 
 * [Spreadsheet translations](https://github.com/orkhanahmadov/spreadsheet-translations) for Laravel create translation files from spreadsheet.
@@ -138,6 +150,8 @@ List of usefull resources and projects about Laravel
 * [Strictus](https://github.com/php-strictus/strictus) brings strict typing for local variables into PHP. With Strictus, you can control the types of local variables using different patterns.
 
 * [Tagify](https://github.com/usamamuneerchaudhary/laravel-tagify "Tagify") is a simple Tagging Package for Laravel. Using this package, you can simply tag, untag or retag any existing model in your laravel app. [Tutorial](https://thewebtier.com/how-to-implement-tagging-to-laravel-models-with-tagify)
+
+* [TailwindMerge](https://github.com/gehrisandro/tailwind-merge-laravel) for Laravel allows you to merge multiple Tailwind CSS classes and automatically resolves conflicts between classes by removing classes conflicting with a class defined later. This is especially helpful when you want to override Tailwind CSS classes in your Blade components.
 
 * [Beautiful toast notifications for Livewire](https://github.com/masmerise/livewire-toaster) 
 
@@ -173,24 +187,33 @@ List of usefull resources and projects about Laravel
 * [Create PHP Extension with Rust for Fun and Profit](https://ahmadrosid.com/blog/create-php-extension-with-rust)
 * [Exploring the Power of ReflectionClass in PHP](https://rakibdevs.medium.com/exploring-the-power-of-reflectionclass-in-php-a26d5ce533f3)
 * [Facades in Laravel](https://laraveldaily.com/post/facades-laravel-how-they-work) Do You Need To Use Them?
+* [Laravel File Uploads: Save Filename in DB with Folder and URL?](https://laraveldaily.com/post/laravel-file-uploads-save-filename-database-folder-url)
 * Let's talk about [Form Requests](https://laravel-news.com/form-requests)
+* How to Add [Google reCAPTCHA v3](https://laracoding.com/how-to-add-google-recaptcha-v3-to-your-laravel-form/) to Your Laravel Form
 * [How Sentry Can Improve Your Laravel Application](https://laravel-news.com/how-sentry-can-improve-your-laravel-application)
 * [How to integrate MermaidJs in Laravel Application](https://laravel-school.com/posts/how-to-integrate-mermaidjs-in-laravel-application-98).
 [Mermaid](https://mermaid.js.org/intro/) is a JavaScript library for generating diagrams and flowcharts from simple text-based descriptions.
 * [How to delay Laravel jobs and listeners within database transactions](https://arunas.dev/how-to-delay-laravel-jobs-and-listeners-within-database-transactions/). If you have jobs and listeners being fired within database transactions, it can lead to data inconsistencies if the transaction rolls back. Learn how to properly handle them here.
 * [Implementing Passkey Authentication in Your Laravel App](https://blog.joe.codes/implementing-passkey-authentication-in-your-laravel-app) Let's learn how to implement passkey authentication in your Laravel app, allowing your users to create accounts and log in using only their devices.
+* [Iterate files and directories in PHP – Fast tips](https://inspector.dev/iterate-files-and-directories-in-php-fast-tips/)
 * [Laravel Jetstream:](https://laravel-news.com/jetstream-spatie-permission) Add CRUD with Spatie Permission
 * Building a [Kanban Board](https://laravel-news.com/building-a-kanban-board-with-laravel) with Laravel and Vue.Draggable
 * [Managing files using Laravel's scoped driver](https://innocenzi.dev/articles/managing-files-using-laravels-scoped-driver)
+* [Migrate passwords](https://leopoletto.com/migrate-password-from-a-legacy-php-application-to-laravel/) from a legacy PHP application to Laravel
 * [Optimally creating a fresh Laravel project](https://devdojo.com/bluepundit/optimally-creating-a-fresh-laravel-project)
 * [Improving Client Side Pagination With Livewire](https://fly.io/laravel-bytes/client-pagination-livewire/)
 * [Unleashing the Power of Pipelines: A Custom PHP Implementation](https://infinitypaul.medium.com/unleashing-the-power-of-pipelines-a-custom-php-implementation-5684fabd6528)
 * [Progress Indicator With Livewire](https://fly.io/laravel-bytes/progress-indicator-livewire/) 
 * [QR Code Generator in Laravel 10 Tutorial](https://harrk.dev/qr-code-generator-in-laravel-10-tutorial/)
+* How to Get [Raw SQL Query](https://laracoding.com/how-to-get-raw-sql-query-from-laravel-query-builder-or-model/) From Laravel Query Builder or Model
+* ["Sink" HTTP client method](https://laravel-news.com/download-the-response-of-an-http-request-in-laravel)
 * [Chunked File Upload With Livewire](https://fly.io/laravel-bytes/chunked-file-upload-livewire/)
 * [Laravel Real-Time Notifications with SSE](https://blog.oussama-mater.me/laravel-sse/) (Server-Sent Events)
+* Laravel [Users Table](https://laraveldaily.com/post/laravel-users-table-change-primary-key-id-to-uuid): Change Primary Key ID to UUID - in 3 Steps
+* [Visualising Laravel](https://freek.dev/2507-visualising-laravel-and-horizon-metrics-using-prometheus-and-grafana) and Horizon metrics using [Prometheus](https://prometheus.io/) and [Grafana](https://grafana.com/)
 
 # Common
+* [ClassTransformer](https://github.com/yzen-dev/plain-to-clas) This library will allow you to easily convert any data set into the object you need. You are not required to change the structure of classes, inherit them from external modules, etc. 
 * [Dolby API SDK](https://github.com/andreia/php-sdk-dolby-api) Provides a PHP wrapper for [Dolby API](https://docs.dolby.io/).
 * [Facebook Graph PHP SDK](https://github.com/joelbutcher/facebook-php-graph-sdk) access the Facebook Platform from your PHP app.
 * [FilePond](https://pqina.nl/filepond/) JavaScript library to upload files. [Uploading Files in Laravel Using FilePond](https://laravel-news.com/laravel-filepond)
@@ -200,6 +223,8 @@ List of usefull resources and projects about Laravel
 * [Inertia.js](https://inertiajs.com/) allow to create modern single-page React, Vue, and Svelte apps using classic server-side routing. Works with any backend — tuned for Laravel.
 
 * [Jigsaw](https://jigsaw.tighten.com/)  is a framework for rapidly building static sites using the same modern tooling that powers your web applications. Blade templating, Markdown for content-driven pages, Compile your assets using Laravel Mix.
+
+* [JSON Parser](https://github.com/cerbero90/json-parser). Zero-dependencies pull parser to read large JSON from any source in a memory-efficient way.
   
 * Tectalic [OpenAI](https://tectalic.com/apis/openai/docs/php) REST API Client s a package that provides a convenient and straightforward way to interact with the OpenAI API from your PHP application.
 * [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) These cheat sheets were created by various application security professionals who have expertise in specific topics.
