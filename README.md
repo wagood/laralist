@@ -3,6 +3,9 @@ List of usefull resources and projects about Laravel
 
 # Packages
 * Laravel [Actions](https://laravelactions.com/). This package introduces a new way of organising the logic of your Laravel applications by focusing on the actions your applications provide. Instead of creating controllers, jobs, listeners and so on, it allows you to create a PHP class that handles a specific task and run that class as anything you want.
+
+* [Airdrop for Laravel](https://hammerstone.dev/airdrop/docs/main/overview) is a package that speeds up your code deploys by skipping your asset build step whenever possible.
+  
 * [Aloia CMS:](https://aloiacms.com/) The flat-file content management system for Laravel
 * [Alpine.js - lazy load assets](https://github.com/tanthammar/alpine-lazy-load-assets) provides directives for lazy loading JavaScript and CSS assets in Alpine.js projects.
 * Laravel [Analytics](https://github.com/wdev-rs/laravel-analytics) small analytics package.
@@ -10,6 +13,8 @@ List of usefull resources and projects about Laravel
 * Laravel [Attributes] (https://github.com/milwad-dev/laravel-attributes) is a package for create attributes easy.
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9.0%2B-blue?style=flat-square)
+
+* [Azure Email Communication Service (ECS)](https://github.com/hafael/azure-mailer-driver) for Laravel. This library provides developers with a simple set of features for sending Laravel Framework emails through the Microsoft Azure ECS service.
 
 * [Backpack](https://backpackforlaravel.com/) Create custom Laravel admin panels. Simple MVC Architecture, Minimal Technology Stack, HTML Building Blocks
 
@@ -24,6 +29,8 @@ List of usefull resources and projects about Laravel
 * Lara-[Captcha](https://github.com/hirenkeraliya/lara-captcha) is a reliable and easy-to-use package for preventing bot submissions and enhancing the security of public forms in Laravel.
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9%2B-blue?style=flat-square)
 
+* Laravel [Castable Data Transfer Object](https://github.com/jessarcher/laravel-castable-data-transfer-object) cast JSON columns to a value object.
+  
 * [Chartello](https://github.com/chartello/chartello "Chartello") provides a simple UI for visualizing your data in your Laravel-powered app.
 
 * Lara [Client](https://github.com/usamamuneerchaudhary/laraclient) simplifies the process of working with APIs in Laravel, making it easy to handle authentication, rate limiting, and error handling. It allows to set up several API connections in a central configuration file, specifying the credentials for each connection.
@@ -31,6 +38,8 @@ List of usefull resources and projects about Laravel
 
 * [Commentify](https://github.com/usamamuneerchaudhary/commentify) - Laravel Livewire Comments. Commentify is a powerful Laravel Livewire package designed to provide an easy-to-integrate commenting system for any model in your Laravel application. Powered by Livewire, this package offers a seamless commenting experience that is powered by Tailwind UI, making it easy for users to engage with your content.
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10.0%2B-blue?style=flat-square)
+
+* [Comments](https://github.com/ryangjchandler/laravel-comments) package for Laravel. This package provides an incredibly simple comment system for your Laravel applications.
 
 * Laravel Blade [Comments](https://github.com/spatie/laravel-blade-comments). Add debug comments to your rendered output
 
@@ -48,6 +57,8 @@ List of usefull resources and projects about Laravel
 * [Dynamic Mail Config](https://github.com/ikechukwukalu/dynamicmailconfig) enables each user to send emails through your app using their own unique email configuration.
 
 * [Dynamic Model for Laravel](https://github.com/laracraft-tech/laravel-dynamic-model). You may need to handle multiple tables via a single model. Here Laravel Dynamic Model comes into play!
+
+* Laravel [FastLogin](https://github.com/m1guelpf/laravel-fastlogin). Allow your users to register physical authentication devices (FaceID or TouchID on iPhones & macs, fingerprint on Android, Hello on Windows and USB keys) to skip entering their login credentials.
 
 * [LaraFlash](https://github.com/binkapS/Laraflash). Flash Session messages for Laravel and Livewire
 
@@ -104,11 +115,15 @@ List of usefull resources and projects about Laravel
 
 * [Notion API](https://github.com/5am-code/laravel-notion-api) for Laravel is a package to effortlessly create [Notion](https://www.notion.so/) integrations with Laravel
 
+* Laravel [Onboard](https://github.com/spatie/laravel-onboard) package to set up an onboarding flow for your application's users and help track user onboarding steps.
+
 * [OPcodes's Log Viewer](https://github.com/opcodesio/log-viewer) helps you quickly and clearly see individual log entries, to search, filter, and make sense of your Laravel logs fast.
 
 * [OpenAI](https://github.com/openai-php/laravel) for Laravel is a community-maintained PHP API client that allows you to interact with the Open AI API.
 
 * Laravel [Open Weather](https://github.com/RakibDevs/openweather-laravel-api) API is a Laravel package to connect Open Weather Map APIs ( https://openweathermap.org/api ) and access free API services (current weather, weather forecast, weather history) easily.
+
+* [Package Skeleton](https://github.com/spatie/package-skeleton-laravel). This repo can be used to scaffold a Laravel package.
 
 * [Plugin Manager](https://pm.fresns.org/) is a convenient Laravel extension package designed for modular management of your large-scale Laravel applications.
 
@@ -132,6 +147,8 @@ List of usefull resources and projects about Laravel
 * Lara [Reserve](https://github.com/shayan-yousefi/lara-reserve) Is a Laravel Package To Adds a Reservation feature to the laravel models. [Tutorial](https://dev.to/shayan-yousefi/creating-a-reservation-system-in-laravel-with-lara-reserve-a-step-by-step-guide-26nf)
 
 * A Fluent Builder For [Schema.org](https://github.com/spatie/schema-org) Types And ld+json Generator
+
+* [Laravel Schema Rules](https://github.com/laracraft-tech/laravel-schema-rules). Automatically generate basic Laravel validation rules based on your database table schema! Use these as a starting point to fine-tune and optimize your validation rules as needed.
 
 * [Short-url](https://github.com/ash-jc-allen/short-url) A Laravel package that can be used for adding shortened URLs to your existing web app.
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
@@ -158,6 +175,8 @@ List of usefull resources and projects about Laravel
 * Laravel [Translation](https://github.com/spatie/laravel-translation-loader) Loader. Store your language lines in the database
 * [Translations](https://github.com/Delta-Solutions/translations) in columns loader provides a migration and a model to extend the spatie/laravel-translation-loader so you can store your translations in columns instead of one json field. One column per locale.
 * [Translations export and import](https://github.com/Delta-Solutions/translations-export-import) This package provides two artisan commands to export and import language_lines from the spatie translations package table to Excel.
+
+* [Transporter](https://github.com/JustSteveKing/laravel-transporter) is a futuristic way to send API requests in PHP. This is an OOP approach to handle API requests.
 
 * Laravel [Turnstile](https://github.com/coderflexx/laravel-turnstile) is a package to help you implement [cloudflare turnstile](https://developers.cloudflare.com/turnstile/) easily, and with no time.
 
@@ -194,6 +213,7 @@ List of usefull resources and projects about Laravel
 * [How to integrate MermaidJs in Laravel Application](https://laravel-school.com/posts/how-to-integrate-mermaidjs-in-laravel-application-98).
 [Mermaid](https://mermaid.js.org/intro/) is a JavaScript library for generating diagrams and flowcharts from simple text-based descriptions.
 * [How to delay Laravel jobs and listeners within database transactions](https://arunas.dev/how-to-delay-laravel-jobs-and-listeners-within-database-transactions/). If you have jobs and listeners being fired within database transactions, it can lead to data inconsistencies if the transaction rolls back. Learn how to properly handle them here.
+* [How to Store JSON Data in Database in Laravel](https://laracoding.com/how-to-store-json-data-in-database-in-laravel-with-example/)
 * [Implementing Passkey Authentication in Your Laravel App](https://blog.joe.codes/implementing-passkey-authentication-in-your-laravel-app) Let's learn how to implement passkey authentication in your Laravel app, allowing your users to create accounts and log in using only their devices.
 * [Iterate files and directories in PHP – Fast tips](https://inspector.dev/iterate-files-and-directories-in-php-fast-tips/)
 * [Laravel Jetstream:](https://laravel-news.com/jetstream-spatie-permission) Add CRUD with Spatie Permission
@@ -210,6 +230,7 @@ List of usefull resources and projects about Laravel
 * [Chunked File Upload With Livewire](https://fly.io/laravel-bytes/chunked-file-upload-livewire/)
 * [Laravel Real-Time Notifications with SSE](https://blog.oussama-mater.me/laravel-sse/) (Server-Sent Events)
 * Laravel [Users Table](https://laraveldaily.com/post/laravel-users-table-change-primary-key-id-to-uuid): Change Primary Key ID to UUID - in 3 Steps
+* [Laravel Users with Multiple Roles: Switching Between Roles](https://laraveldaily.com/post/laravel-users-with-multiple-roles-switching-between-roles) 
 * [Visualising Laravel](https://freek.dev/2507-visualising-laravel-and-horizon-metrics-using-prometheus-and-grafana) and Horizon metrics using [Prometheus](https://prometheus.io/) and [Grafana](https://grafana.com/)
 
 # Common
@@ -224,7 +245,9 @@ List of usefull resources and projects about Laravel
 
 * [Jigsaw](https://jigsaw.tighten.com/)  is a framework for rapidly building static sites using the same modern tooling that powers your web applications. Blade templating, Markdown for content-driven pages, Compile your assets using Laravel Mix.
 
-* [JSON Parser](https://github.com/cerbero90/json-parser). Zero-dependencies pull parser to read large JSON from any source in a memory-efficient way.
+* [JSON Parser](https://github.com/cerbero90/json-parser). Zero-dependencies pull parser to read large JSON from any source in a memory-efficient way. [Docs](https://mailcarrier.app/docs/getting-started/installation)
+
+* [MailCarrier](https://github.com/mailcarrierapp/mailcarrier). User friendly, provider-aware, mailing platform with templates and logs included.
   
 * Tectalic [OpenAI](https://tectalic.com/apis/openai/docs/php) REST API Client s a package that provides a convenient and straightforward way to interact with the OpenAI API from your PHP application.
 * [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) These cheat sheets were created by various application security professionals who have expertise in specific topics.
