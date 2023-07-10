@@ -33,6 +33,10 @@ List of usefull resources and projects about Laravel
   
 * [Chartello](https://github.com/chartello/chartello "Chartello") provides a simple UI for visualizing your data in your Laravel-powered app.
 
+* Basement [Chat](https://github.com/basement-chat/basement-chat) Add a real-time chat widget to your Laravel application.
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9.0%2B-blue?style=flat-square)
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
+
 * Lara [Client](https://github.com/usamamuneerchaudhary/laraclient) simplifies the process of working with APIs in Laravel, making it easy to handle authentication, rate limiting, and error handling. It allows to set up several API connections in a central configuration file, specifying the credentials for each connection.
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
 
@@ -234,6 +238,7 @@ List of usefull resources and projects about Laravel
 * [Visualising Laravel](https://freek.dev/2507-visualising-laravel-and-horizon-metrics-using-prometheus-and-grafana) and Horizon metrics using [Prometheus](https://prometheus.io/) and [Grafana](https://grafana.com/)
 
 # Common
+* [Card Number](https://github.com/TheDragonCode/card-number) Generation and verification of card numbers using Luhn's algorithm: credit, customer loyalty and others.
 * [ClassTransformer](https://github.com/yzen-dev/plain-to-clas) This library will allow you to easily convert any data set into the object you need. You are not required to change the structure of classes, inherit them from external modules, etc. 
 * [Dolby API SDK](https://github.com/andreia/php-sdk-dolby-api) Provides a PHP wrapper for [Dolby API](https://docs.dolby.io/).
 * [Facebook Graph PHP SDK](https://github.com/joelbutcher/facebook-php-graph-sdk) access the Facebook Platform from your PHP app.
@@ -244,6 +249,7 @@ List of usefull resources and projects about Laravel
 * [Inertia.js](https://inertiajs.com/) allow to create modern single-page React, Vue, and Svelte apps using classic server-side routing. Works with any backend — tuned for Laravel.
 
 * [Jigsaw](https://jigsaw.tighten.com/)  is a framework for rapidly building static sites using the same modern tooling that powers your web applications. Blade templating, Markdown for content-driven pages, Compile your assets using Laravel Mix.
+* [Hooks for Alpine.js](https://github.com/ryangjchandler/alpine-hooks) This package contains a variety of hooks for [Alpine.js](https://alpinejs.dev/) that can be used to improve the developer experience of common front-end development tasks.
 
 * [JSON Parser](https://github.com/cerbero90/json-parser). Zero-dependencies pull parser to read large JSON from any source in a memory-efficient way. [Docs](https://mailcarrier.app/docs/getting-started/installation)
 
