@@ -184,6 +184,9 @@ List of usefull resources and projects about Laravel
 
 * Lara [Reserve](https://github.com/shayan-yousefi/lara-reserve) Is a Laravel Package To Adds a Reservation feature to the laravel models. [Tutorial](https://dev.to/shayan-yousefi/creating-a-reservation-system-in-laravel-with-lara-reserve-a-step-by-step-guide-26nf)
 
+* [Saloon Laravel Integration](https://docs.saloon.dev/digging-deeper/laravel-integration) is a PHP library that provides you with a beautiful API integration framework. It gives you all the tools you need to build and test API integrations for your application or SDKs.
+  ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9.0%2B-blue?style=flat-square) <!-- api, http client -->
+
 * Laravel [Scanator](https://github.com/YorCreative/Laravel-Scanator). A Laravel package that provides functionalities for detecting sensitive information and patterns in the database, helping to ensure data privacy and security by empowering developers to easily integrate database scanning capabilities into their applications and take proactive measures to protect sensitive data. <!-- security, database -->
 
 * A Fluent Builder For [Schema.org](https://github.com/spatie/schema-org) Types And ld+json Generator
@@ -230,14 +233,14 @@ List of usefull resources and projects about Laravel
 * Add [Version Control](https://github.com/RedSnapper/laravel-version-control) to Laravel Models
 <!-- model, eloquent -->
 
-* Flysystem adapter for [Uploadcare](https://github.com/vormkracht10/flysystem-uploadcare) with support for Laravel v10+.
+* Flysystem adapter for [Uploadcare](https://github.com/vormkracht10/flysystem-uploadcare) with support for Laravel v10+. <!-- uploadcare, files, upload -->
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10+%2B-blue?style=flat-square)
 
 * [Walker](https://github.com/qubesoftware/laravel-walker) is a package that allows you to create multi-step wizards in your Laravel applications.
 
-* [Wallet](https://github.com/stephenjude/laravel-wallet "Wallet") is a simple wallet implementation for Laravel
+* [Wallet](https://github.com/stephenjude/laravel-wallet "Wallet") is a simple wallet implementation for Laravel <!-- payment -->
 
-* Laravel [Webhooks](https://github.com/JustSteveKing/laravel-webhooks). A simple webhook implementation for Laravel.
+* Laravel [Webhooks](https://github.com/JustSteveKing/laravel-webhooks). A simple webhook implementation for Laravel. <!-- webhook -->
 
 * Laravel [Zodgen](https://github.com/7nohe/laravel-zodgen) generates [Zod](https://zod.dev/) schemas from Laravel FormRequests. This allows you to share your validation rules between your Laravel backend and your TypeScript frontend.
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9%2B-blue?style=flat-square)
@@ -310,4 +313,5 @@ List of usefull resources and projects about Laravel
 * Tectalic [OpenAI](https://tectalic.com/apis/openai/docs/php) REST API Client s a package that provides a convenient and straightforward way to interact with the OpenAI API from your PHP application.
 * [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) These cheat sheets were created by various application security professionals who have expertise in specific topics.
 * [Rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring. [Automated Refactoring With Rector](https://tighten.com/insights/automated-refactoring-with-rector-php/)
+* [Saloon](https://github.com/Sammyjo20/Saloon) – Your Lone Star of your API integrations. Saloon is a PHP library that provides you with a beautiful API integration framework. It gives you all the tools you need to build and test API integrations for your application or SDKs. [Docs](https://docs.saloon.dev/) <!-- api, http client -->
 * [Summernote](https://summernote.org/) Super simple WYSIWYG Editor on Bootstrap
