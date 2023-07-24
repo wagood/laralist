@@ -69,6 +69,8 @@ List of usefull resources and projects about Laravel
 
 * Laravel Blade [Comments](https://github.com/spatie/laravel-blade-comments). Add debug comments to your rendered output
 
+* [DANACore Packages](https://github.com/otnansirk/laravel-dana). This Laravel wrapper/library for DANA Payment API. Visit [https://dana.id](https://dana.id) for more information about the product and see documentation at [https://dashboard.dana.id/api-docs](https://dashboard.dana.id/api-docs) for more technical details. <!-- payment, DANA -->
+
 * [Data Migrator](https://github.com/oguzhankrcb/DataMigrator) is a PHP/Laravel package that helps you migrate data from one model to another, even if they have different structures. It's especially useful when you're migrating data between models with different database schemas.
 * Laravel [Date Scopes](https://github.com/laracraft-tech/laravel-date-scopes) provides a big range of useful date scopes for your Laravel Eloquent models!
 * [Docgen for Laravel Facade](https://github.com/irazasyed/docgen) Streamline your Laravel package development with automatic facade documentation using Docgen for Laravel Facade.
@@ -83,6 +85,10 @@ List of usefull resources and projects about Laravel
 * [Dynamic Mail Config](https://github.com/ikechukwukalu/dynamicmailconfig) enables each user to send emails through your app using their own unique email configuration.
 
 * [Dynamic Model for Laravel](https://github.com/laracraft-tech/laravel-dynamic-model). You may need to handle multiple tables via a single model. Here Laravel Dynamic Model comes into play!
+
+* [Enum helper](https://github.com/biiiiiigmonster/laravel-enum). Enum helper for laravel10 based on the enum feature of php 8.1 <!-- enum, helper-->
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10.0%2B-blue?style=flat-square)
 
 * Laravel [Excel](https://github.com/SpartnerNL/Laravel-Excel) - Supercharged Excel exports and imports. A simple, but elegant Laravel wrapper around [PhpSpreadsheet](https://phpspreadsheet.readthedocs.io/) exports and imports. <!-- import, export, excel -->
 
@@ -125,6 +131,10 @@ List of usefull resources and projects about Laravel
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0+%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8.75+%2B-blue?style=flat-square)
 
+* [LevelUp](https://github.com/cjmellor/level-up). This package allows users to gain experience points (XP) and progress through levels by performing actions on your site. It can provide a simple way to track user progress and implement gamification elements into your application. <!-- gamification -->
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.2%2B-blue?style=flat-square)
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10%2B-blue?style=flat-square)
+
 * [Lunar](https://lunarphp.io/). An open-source package that brings the power of modern headless e-commerce functionality to Laravel. [Full documentation](https://docs.lunarphp.io/) Includes in-depth guides on everything Lunar. [https://github.com/lunarphp/lunar](https://github.com/lunarphp/lunar) set of Laravel packages that bring functionality akin to Shopify and other e-commerce platforms to Laravel.
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9%2B-blue?style=flat-square)
@@ -159,7 +169,14 @@ List of usefull resources and projects about Laravel
 
 * Laravel [Open Weather](https://github.com/RakibDevs/openweather-laravel-api) API is a Laravel package to connect Open Weather Map APIs ( https://openweathermap.org/api ) and access free API services (current weather, weather forecast, weather history) easily.
 
+* [Orbit](https://github.com/ryangjchandler/orbit) is a flat-file database driver for Eloquent. It allows you to replace your generic database with real files that you can manipulate using the methods you're familiar with. <!-- eloquent -->
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9%2B-blue?style=flat-square)
+
 * [Package Skeleton](https://github.com/spatie/package-skeleton-laravel). This repo can be used to scaffold a Laravel package.
+
+* [Laravel Eloquent Photos](https://github.com/behzadsp/eloquent-dynamic-photos) is a Laravel Eloquent trait that provides an easy and dynamic way to manage photos in your Eloquent models.
+<!-- eloquent, model, image -->
 
 * [Plugin Manager](https://pm.fresns.org/) is a convenient Laravel extension package designed for modular management of your large-scale Laravel applications.
 
@@ -168,6 +185,8 @@ List of usefull resources and projects about Laravel
 * [REQUIRE PIN](https://github.com/ikechukwukalu/requirepin) A laravel package for pin confirmation and validation before processing requests to a specified route.
 
 * [Resend](https://github.com/resendlabs/resend-laravel) for Laravel. Provides [Resend](https://resend.com) integration for Laravel and Symfony Mailer. <!-- email -->
+
+* [RouterOS API Client](https://github.com/EvilFreelancer/routeros-api-php) with Laravel support <!-- api, routeros, mikrotik -->
 
 * [PayPal Webhooks Client](https://github.com/ankurk91/laravel-paypal-webhooks) for Laravel handle PayPal webhooks in Laravel php framework.
 
@@ -197,6 +216,8 @@ List of usefull resources and projects about Laravel
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8.0%2B-blue?style=flat-square)
 
+* [slvler](https://github.com/slvler/covalenthq-service). An api service for [covalenthq.com](covalenthq.com) <!-- api, blockchain -->
+
 * [Laravel Spatial](https://github.com/asanikovich/laravel-spatial) allows you to easily work with spatial data types and functions.
 
 * [Splade](https://splade.dev/) provides a super easy way to build Single Page Applications (SPA) using standard Laravel Blade templates, enhanced with renderless Vue 3 components. In essence, you can write your app using the simplicity of Blade, and besides that magic SPA-feeling, you can sparkle it to make it interactive.
@@ -211,7 +232,7 @@ List of usefull resources and projects about Laravel
 
 * [Tagify](https://github.com/usamamuneerchaudhary/laravel-tagify "Tagify") is a simple Tagging Package for Laravel. Using this package, you can simply tag, untag or retag any existing model in your laravel app. [Tutorial](https://thewebtier.com/how-to-implement-tagging-to-laravel-models-with-tagify)
 
-* [TailwindMerge](https://github.com/gehrisandro/tailwind-merge-laravel) for Laravel allows you to merge multiple Tailwind CSS classes and automatically resolves conflicts between classes by removing classes conflicting with a class defined later. This is especially helpful when you want to override Tailwind CSS classes in your Blade components.
+* [TailwindMerge](https://github.com/gehrisandro/tailwind-merge-laravel) for Laravel allows you to merge multiple Tailwind CSS classes and automatically resolves conflicts between classes by removing classes conflicting with a class defined later. This is especially helpful when you want to override Tailwind CSS classes in your Blade components. <!-- tailwind -->
 
 * [Beautiful toast notifications for Livewire](https://github.com/masmerise/livewire-toaster) 
 
@@ -285,6 +306,7 @@ List of usefull resources and projects about Laravel
 * How to Get [Raw SQL Query](https://laracoding.com/how-to-get-raw-sql-query-from-laravel-query-builder-or-model/) From Laravel Query Builder or Model
 * [Handling Signals](https://fly.io/laravel-bytes/handling-signals-in-laravel/) in Laravel <!-- signals, queues-->
 * [Simple and Advanced Search With Laravel Scout and Meilisearch](https://fajarwz.com/blog/simple-and-advanced-search-with-laravel-scout-and-meilisearch/) <!-- laravel scout, search, MeiliSearch  -->
+* [Schedule periodic database clean-up on Laravel](https://leopoletto.com/schedule-periodic-database-clean-up-on-laravel/) <!-- shedule -->
 * ["Sink" HTTP client method](https://laravel-news.com/download-the-response-of-an-http-request-in-laravel)
 * [Chunked File Upload With Livewire](https://fly.io/laravel-bytes/chunked-file-upload-livewire/)
 * [Laravel Real-Time Notifications with SSE](https://blog.oussama-mater.me/laravel-sse/) (Server-Sent Events)
@@ -293,6 +315,7 @@ List of usefull resources and projects about Laravel
 * [Visualising Laravel](https://freek.dev/2507-visualising-laravel-and-horizon-metrics-using-prometheus-and-grafana) and Horizon metrics using [Prometheus](https://prometheus.io/) and [Grafana](https://grafana.com/)
 
 # Common
+* [Alpine AJAX](https://alpine-ajax.js.org/) An [Alpine.js](https://alpinejs.dev/) plugin that seamlessly integrates your client and server. Use it to build straight-forward, robust, interactive websites.
 * [Card Number](https://github.com/TheDragonCode/card-number) Generation and verification of card numbers using Luhn's algorithm: credit, customer loyalty and others.
 * [ClassTransformer](https://github.com/yzen-dev/plain-to-clas) This library will allow you to easily convert any data set into the object you need. You are not required to change the structure of classes, inherit them from external modules, etc. 
 * [Dolby API SDK](https://github.com/andreia/php-sdk-dolby-api) Provides a PHP wrapper for [Dolby API](https://docs.dolby.io/).
