@@ -69,6 +69,12 @@ List of usefull resources and projects about Laravel
 
 * Laravel Blade [Comments](https://github.com/spatie/laravel-blade-comments). Add debug comments to your rendered output
 
+* Laravel [Cookie Consent](https://github.com/whitecube/laravel-cookie-consent) package provides all the tools you'll need to cover a proper EU-compliant cookies policy:
+Cookies registration & configuration, Blade views & translation files for consent alerts & pop-ups, Blade directives & Facade methods making your life easier, JavaScript code that will enhance front-end user experience
+<!-- cookie, GDPR -->
+
+* [Coupler](https://github.com/bereank/coupler) A dedicated Laravel-PHP library crafted exclusively for seamless integration with the SAP Business One Service Layer API. <!-- API, SAP -->
+
 * [DANACore Packages](https://github.com/otnansirk/laravel-dana). This Laravel wrapper/library for DANA Payment API. Visit [https://dana.id](https://dana.id) for more information about the product and see documentation at [https://dashboard.dana.id/api-docs](https://dashboard.dana.id/api-docs) for more technical details. <!-- payment, DANA -->
 
 * [Data Migrator](https://github.com/oguzhankrcb/DataMigrator) is a PHP/Laravel package that helps you migrate data from one model to another, even if they have different structures. It's especially useful when you're migrating data between models with different database schemas.
@@ -86,6 +92,8 @@ List of usefull resources and projects about Laravel
 
 * [Dynamic Model for Laravel](https://github.com/laracraft-tech/laravel-dynamic-model). You may need to handle multiple tables via a single model. Here Laravel Dynamic Model comes into play!
 
+* [EasyDataTable](https://github.com/rmunate/EasyDataTable): A fast, easy, and efficient way to create the BackEnd for any DataTable. (Laravel PHP Framework)
+
 * [Enum helper](https://github.com/biiiiiigmonster/laravel-enum). Enum helper for laravel10 based on the enum feature of php 8.1 <!-- enum, helper-->
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10.0%2B-blue?style=flat-square)
@@ -93,6 +101,9 @@ List of usefull resources and projects about Laravel
 * Laravel [Excel](https://github.com/SpartnerNL/Laravel-Excel) - Supercharged Excel exports and imports. A simple, but elegant Laravel wrapper around [PhpSpreadsheet](https://phpspreadsheet.readthedocs.io/) exports and imports. <!-- import, export, excel -->
 
 * Laravel [FastLogin](https://github.com/m1guelpf/laravel-fastlogin). Allow your users to register physical authentication devices (FaceID or TouchID on iPhones & macs, fingerprint on Android, Hello on Windows and USB keys) to skip entering their login credentials.
+
+* [Filament Card Stack](https://github.com/rmitesh/card-stack)
+<!-- filament -->
 
 * [LaraFlash](https://github.com/binkapS/Laraflash). Flash Session messages for Laravel and Livewire
 
@@ -117,6 +128,7 @@ List of usefull resources and projects about Laravel
 * Laravel [Google Analytics](https://github.com/vormkracht10/laravel-google-analytics-v4) v4 retrieve all data like pageviews, events, ecommerce transactions and more from Google Analytics version 4 using the Google API.
 
 * Laravel[Helpers](https://github.com/rmunate/LaravelHelpers). Standard creation and and use of helpers within the Laravel framework through classes, a simple, efficient, and elegant way to execute your application's own methods from any class or view.
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8.0%2B-blue?style=flat-square)
 
 * [php-heic-to-jpg](https://github.com/MaestroError/php-heic-to-jpg) The easiest way to convert HEIC/HEIF images to JPEG with PHP and Laravel framework. It uses binary file created with Go language and has no dependencies on any other PHP libraries, extensions or third-part software
 
@@ -185,6 +197,8 @@ List of usefull resources and projects about Laravel
 * [REQUIRE PIN](https://github.com/ikechukwukalu/requirepin) A laravel package for pin confirmation and validation before processing requests to a specified route.
 
 * [Resend](https://github.com/resendlabs/resend-laravel) for Laravel. Provides [Resend](https://resend.com) integration for Laravel and Symfony Mailer. <!-- email -->
+
+* [Restify](https://github.com/binarcode/laravel-restify) The fastest way to make a powerful JSON:API compatible Rest API with Laravel. <!-- API -->
 
 * [RouterOS API Client](https://github.com/EvilFreelancer/routeros-api-php) with Laravel support <!-- api, routeros, mikrotik -->
 
@@ -271,6 +285,7 @@ List of usefull resources and projects about Laravel
 * [Autocomplete With Livewire](https://fly.io/laravel-bytes/livewire-autocomplete/) We're gonna do some autocompletion with Livewire.
 * [Concurrent, Chunked, Multi-File Uploads With Livewire](https://fly.io/laravel-bytes/multi-file-upload-livewire/)
 * [Calculating rolling averages with Laravel Collections](https://www.conroyp.com/articles/calculating-rolling-averages-in-laravel-collections)
+* [Efficient searching through PDFs with MySQL and Laravel](https://medium.com/code16/efficient-searching-through-pdfs-with-mysql-and-laravel-57a189b247ad) <!-- search, mysql, pdf -->
 * Using PHP [Enums](https://www.csrhymes.com/2023/07/04/using-php-enums-in-laravel.html) in Laravel to store additional information <!-- enums, model -->
 * Laravel [Exceptions](https://www.youtube.com/watch?v=kiIOS7uJX8E): Self-Render and Notify Users <!-- exception -->
 * [Create PHP Extension with Rust for Fun and Profit](https://ahmadrosid.com/blog/create-php-extension-with-rust)
@@ -338,3 +353,4 @@ List of usefull resources and projects about Laravel
 * [Rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring. [Automated Refactoring With Rector](https://tighten.com/insights/automated-refactoring-with-rector-php/)
 * [Saloon](https://github.com/Sammyjo20/Saloon) – Your Lone Star of your API integrations. Saloon is a PHP library that provides you with a beautiful API integration framework. It gives you all the tools you need to build and test API integrations for your application or SDKs. [Docs](https://docs.saloon.dev/) <!-- api, http client -->
 * [Summernote](https://summernote.org/) Super simple WYSIWYG Editor on Bootstrap
+* [Whois-php](https://github.com/monovm/whois-php) Simple and Fast Domain Lookup in PHP
