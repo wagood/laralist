@@ -102,6 +102,11 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * Laravel [FastLogin](https://github.com/m1guelpf/laravel-fastlogin). Allow your users to register physical authentication devices (FaceID or TouchID on iPhones & macs, fingerprint on Android, Hello on Windows and USB keys) to skip entering their login credentials.
 
+* [Filament](https://filamentphp.com/) A collection of beautiful full-stack components. The perfect starting point for your next app.
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8.0%2B-blue?style=flat-square)
+<!-- filament -->
+
 * [Filament Card Stack](https://github.com/rmitesh/card-stack)
 <!-- filament -->
 
@@ -122,6 +127,9 @@ Cookies registration & configuration, Blade views & translation files for consen
 * Laravel [FFMpeg](https://github.com/ProjektGopher/laravel-ffmpeg-tools) Tools and utilities to help generate complex strings for FFMpeg in Laravel.
 
 * [Flaky for Laravel](https://github.com/hammerstonedev/flaky) is a package that helps you handle operations that may have intermittent failures due to unreliable third-parties.
+
+* Laravel [Folio](https://github.com/laravel/folio) is a page-based router for your Laravel application. All you need to do is create a blade file.
+<!-- router, blade -->
 
 * PostgreSQL [Full Text Search Engine](https://github.com/devNoiseConsulting/laravel-scout-postgres-tsvector) for [Laravel Scout](https://github.com/devNoiseConsulting/laravel-scout-postgres-tsvector)
 
@@ -243,6 +251,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10.0+%2B-blue?style=flat-square)
 
 * [Strictus](https://github.com/php-strictus/strictus) brings strict typing for local variables into PHP. With Strictus, you can control the types of local variables using different patterns.
+
+* [Sushi](https://github.com/calebporzio/sushi) Eloquent's missing "array" driver. Sometimes you want to use Eloquent, but without dealing with a database.
 
 * [Tagify](https://github.com/usamamuneerchaudhary/laravel-tagify "Tagify") is a simple Tagging Package for Laravel. Using this package, you can simply tag, untag or retag any existing model in your laravel app. [Tutorial](https://thewebtier.com/how-to-implement-tagging-to-laravel-models-with-tagify)
 
