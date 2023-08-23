@@ -41,6 +41,8 @@ List of usefull resources and projects about Laravel
 * [BanHammer](https://github.com/mchev/banhammer "Banhammer, a Model and IP ban package for Laravel"), a Model and IP ban package for Laravel
 <!-- eloquent, model -->
 
+* [Bolt](https://github.com/lara-zeus/bolt) is a Laravel Form Builder for the TALL Stack, including a front and backend UI. It enables your users to create forms, with a lot of configuration options, such as breaking a form into sections, various input types, and more <!-- form -->
+
 * [Blockade](https://github.com/cjmellor/blockade) allow a User Model to Block Another User Model
 <!-- eloquent, model, user -->
 
@@ -133,6 +135,9 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * PostgreSQL [Full Text Search Engine](https://github.com/devNoiseConsulting/laravel-scout-postgres-tsvector) for [Laravel Scout](https://github.com/devNoiseConsulting/laravel-scout-postgres-tsvector)
 
+* [Genesis](https://github.com/thedevdojo/genesis) is a Laravel Starter Kit that utilizes the TALL Stack as well as single-file Volt and Folio files. This starter kit contains Authentication, User Dashboard, Edit Profile, and a set of UI Components.
+<!-- volt, folio, starter kit -->
+
 * Laravel [Google Analytics](https://github.com/vormkracht10/laravel-google-analytics-v4) v4 retrieve all data like pageviews, events, ecommerce transactions and more from Google Analytics version 4 using the Google API.
 
 * Laravel[Helpers](https://github.com/rmunate/LaravelHelpers). Standard creation and and use of helpers within the Laravel framework through classes, a simple, efficient, and elegant way to execute your application's own methods from any class or view.
@@ -195,6 +200,10 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [Package Skeleton](https://github.com/spatie/package-skeleton-laravel). This repo can be used to scaffold a Laravel package.
 
+* [SpellNumber](https://github.com/rmunate/SpellNumber) is a cool little package to convert words in Laravel easily using the PHP INTL extension to handle the conversions seamlessly.
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8%2B-blue?style=flat-square)
+<!-- intl -->
+
 * [Laravel Eloquent Photos](https://github.com/behzadsp/eloquent-dynamic-photos) is a Laravel Eloquent trait that provides an easy and dynamic way to manage photos in your Eloquent models.
 <!-- eloquent, model, image -->
 
@@ -234,6 +243,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [Laravel Schema Rules](https://github.com/laracraft-tech/laravel-schema-rules). Automatically generate basic Laravel validation rules based on your database table schema! Use these as a starting point to fine-tune and optimize your validation rules as needed.
 
+* [Scramble](https://github.com/dedoc/scramble) generates API documentation for Laravel project. Without requiring you to manually write PHPDoc annotations. Docs are generated in OpenAPI 3.1.0 format. You can find full documentation at [scramble.dedoc.co](https://scramble.dedoc.co/).<!-- api, documentation, PHPDoc, OpenAPI -->
+
 * [Short-url](https://github.com/ash-jc-allen/short-url) A Laravel package that can be used for adding shortened URLs to your existing web app.
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8.0%2B-blue?style=flat-square)
@@ -249,6 +260,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [Lemon Squeezy for Laravel](https://github.com/lmsqueezy/laravel) easily integrate your Laravel application with [Lemon Squeezy](https://www.lemonsqueezy.com/).
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10.0+%2B-blue?style=flat-square)
+
+* [Laravel Package for Statsig](https://github.com/ziming/laravel-statsig). A Feature Gate & A/B Testing Platform with a somewhat decent free tier. <!-- statistics -->
 
 * [Strictus](https://github.com/php-strictus/strictus) brings strict typing for local variables into PHP. With Strictus, you can control the types of local variables using different patterns.
 
@@ -295,6 +308,7 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [Autocomplete With Livewire](https://fly.io/laravel-bytes/livewire-autocomplete/) We're gonna do some autocompletion with Livewire.
 * [Concurrent, Chunked, Multi-File Uploads With Livewire](https://fly.io/laravel-bytes/multi-file-upload-livewire/)
 * [Calculating rolling averages with Laravel Collections](https://www.conroyp.com/articles/calculating-rolling-averages-in-laravel-collections)
+* [How to Clone a Model in Laravel? (With or Without Relations)](https://laracoding.com/how-to-clone-a-model-in-laravel-with-or-without-relations/)
 * [Efficient searching through PDFs with MySQL and Laravel](https://medium.com/code16/efficient-searching-through-pdfs-with-mysql-and-laravel-57a189b247ad) <!-- search, mysql, pdf -->
 * Using PHP [Enums](https://www.csrhymes.com/2023/07/04/using-php-enums-in-laravel.html) in Laravel to store additional information <!-- enums, model -->
 * Laravel [Exceptions](https://www.youtube.com/watch?v=kiIOS7uJX8E): Self-Render and Notify Users <!-- exception -->
@@ -329,6 +343,7 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [QR Code Generator in Laravel 10 Tutorial](https://harrk.dev/qr-code-generator-in-laravel-10-tutorial/)
 * Working with [third party services](https://laravel-news.com/working-with-third-party-services-in-laravel) in laravel <!-- services -->
 * How to Get [Raw SQL Query](https://laracoding.com/how-to-get-raw-sql-query-from-laravel-query-builder-or-model/) From Laravel Query Builder or Model
+* [Route Binding in Laravel](https://ahmedash.dev/blog/laravel-core-bits/route-binding-in-laravel/) <!-- route -->
 * [Handling Signals](https://fly.io/laravel-bytes/handling-signals-in-laravel/) in Laravel <!-- signals, queues-->
 * [Simple and Advanced Search With Laravel Scout and Meilisearch](https://fajarwz.com/blog/simple-and-advanced-search-with-laravel-scout-and-meilisearch/) <!-- laravel scout, search, MeiliSearch  -->
 * [Schedule periodic database clean-up on Laravel](https://leopoletto.com/schedule-periodic-database-clean-up-on-laravel/) <!-- shedule -->
@@ -352,6 +367,7 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [Inertia.js](https://inertiajs.com/) allow to create modern single-page React, Vue, and Svelte apps using classic server-side routing. Works with any backend — tuned for Laravel.
 
 * [Jigsaw](https://jigsaw.tighten.com/)  is a framework for rapidly building static sites using the same modern tooling that powers your web applications. Blade templating, Markdown for content-driven pages, Compile your assets using Laravel Mix.
+  
 * [Hooks for Alpine.js](https://github.com/ryangjchandler/alpine-hooks) This package contains a variety of hooks for [Alpine.js](https://alpinejs.dev/) that can be used to improve the developer experience of common front-end development tasks.
 
 * [JSON Parser](https://github.com/cerbero90/json-parser). Zero-dependencies pull parser to read large JSON from any source in a memory-efficient way. [Docs](https://mailcarrier.app/docs/getting-started/installation) <!-- json, parser -->
