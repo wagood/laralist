@@ -16,6 +16,8 @@ List of usefull resources and projects about Laravel
 * Laravel [Analytics](https://github.com/wdev-rs/laravel-analytics) small analytics package.
 <!-- analytics -->
 
+* Laravel [API tool kit](https://github.com/ahmedesa/laravel-api-tool-kit) Supercharge your API development with the API Toolkit, using standardized responses, dynamic pagination, advanced filtering, one-click full CRUD setup, logic clarity, media mastery, and crystal-clear enums. <!-- api -->
+
 * [Approval](https://github.com/cjmellor/approval) is a Laravel package that provides a simple way to approve new Model data before it is persisted.
 <!-- eloquent, model -->
   
@@ -149,6 +151,10 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * Laravel [HMVC](https://github.com/hexters/laramodule "Laravel HMVC") is a Laravel package that allows developers to organize and manage modules within their web application
 * [L-admin](https://github.com/hexters/ladmin "L-admin") is a Laravel administration package that allows web developers to quickly create an admin panel for their website
+
+* [Ladder](https://github.com/eneadm/ladder) simplifies role and permission management for your Laravel project by avoiding storing everything in the database. 
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10+%2B-blue?style=flat-square)<!-- permissions, roles -->
+
 * Laravel [Languages](https://github.com/riomigal/languages) is a Translation UI that adds additional functionality to the existing Laravel App. The App has it's own guard which isolates Laravel Languages from an existing App.
 * [LdapRecord](https://github.com/DirectoryTree/LdapRecord-Laravel) Integrate LDAP into your Laravel application.
 
@@ -172,6 +178,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 * Laravel [Markable](https://github.com/maize-tech/laravel-markable) allows you to easily add the markable feature to your application, as for example likes, bookmarks, favorites and so on.
 
 * Laravel [Markdown](https://github.com/spatie/laravel-markdown). A highly configurable markdown renderer and Blade component for Laravel <!-- markdown, blade, view -->
+
+* [Mary UI](https://www.mary-ui.com/). Laravel blade components made for [Livewire 3](https://livewire.laravel.com/) and styled around [daisyUI](https://daisyui.com/) + Tailwind <!-- blade, UI, components -->
 
 * Laravel [MockApi](https://github.com/lichtner/laravel-mock-api) is a powerful yet lightweight library designed for mocking external APIs and web services.
 
@@ -315,6 +323,7 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [Create PHP Extension with Rust for Fun and Profit](https://ahmadrosid.com/blog/create-php-extension-with-rust)
 * [Exploring the Power of ReflectionClass in PHP](https://rakibdevs.medium.com/exploring-the-power-of-reflectionclass-in-php-a26d5ce533f3)
 * [Facades in Laravel](https://laraveldaily.com/post/facades-laravel-how-they-work) Do You Need To Use Them?
+* [How to customize PHP Faker in Laravel](https://gdebrauwer.dev/blog/how-to-customize-php-faker-in-laravel/) <!-- faker -->
 * [Laravel File Uploads: Save Filename in DB with Folder and URL?](https://laraveldaily.com/post/laravel-file-uploads-save-filename-database-folder-url)
 * Let's talk about [Form Requests](https://laravel-news.com/form-requests)
 * [Laravel Gates](https://ajaxray.com/blog/laravel-gates-graphical-intro-beginner/) – a graphical intro for beginners
@@ -334,6 +343,7 @@ Cookies registration & configuration, Blade views & translation files for consen
 * Building a [Kanban Board](https://laravel-news.com/building-a-kanban-board-with-laravel) with Laravel and Vue.Draggable
 * [Managing files using Laravel's scoped driver](https://innocenzi.dev/articles/managing-files-using-laravels-scoped-driver)
 * [Migrate passwords](https://leopoletto.com/migrate-password-from-a-legacy-php-application-to-laravel/) from a legacy PHP application to Laravel
+* [Monaco Editor in Laravel Livewire](https://gdebrauwer.dev/blog/monaco-editor-in-laravel-livewire/) <!-- livewire, monaco editor -->
 * [Optimally creating a fresh Laravel project](https://devdojo.com/bluepundit/optimally-creating-a-fresh-laravel-project)
 * [Improving Client Side Pagination With Livewire](https://fly.io/laravel-bytes/client-pagination-livewire/)
 * 4 Ways to [Pass Data to All Views](https://laracoding.com/4-ways-to-pass-data-to-all-views-in-laravel/) in Laravel
@@ -357,8 +367,10 @@ Cookies registration & configuration, Blade views & translation files for consen
 # Common
 * [Alpine AJAX](https://alpine-ajax.js.org/) An [Alpine.js](https://alpinejs.dev/) plugin that seamlessly integrates your client and server. Use it to build straight-forward, robust, interactive websites.
 * [Card Number](https://github.com/TheDragonCode/card-number) Generation and verification of card numbers using Luhn's algorithm: credit, customer loyalty and others.
-* [ClassTransformer](https://github.com/yzen-dev/plain-to-clas) This library will allow you to easily convert any data set into the object you need. You are not required to change the structure of classes, inherit them from external modules, etc. 
+* [ClassTransformer](https://github.com/yzen-dev/plain-to-clas) This library will allow you to easily convert any data set into the object you need. You are not required to change the structure of classes, inherit them from external modules, etc.
+* [Daleel](https://daleel.kalimah-apps.com/) is a PHP documentation generator. It both generates documentation from PHP source code and also from Markdown files. It creates a beautiful documentation website for your project. <!-- documentation -->
 * [Dolby API SDK](https://github.com/andreia/php-sdk-dolby-api) Provides a PHP wrapper for [Dolby API](https://docs.dolby.io/).
+* [EnumConcern](https://github.com/emreyarligan/enum-concern) - A PHP Package for Effortless Enumeration Handling <!-- enum -->
 * [Facebook Graph PHP SDK](https://github.com/joelbutcher/facebook-php-graph-sdk) access the Facebook Platform from your PHP app.
 * [FilePond](https://pqina.nl/filepond/) JavaScript library to upload files. [Uploading Files in Laravel Using FilePond](https://laravel-news.com/laravel-filepond)
 
@@ -367,6 +379,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [Inertia.js](https://inertiajs.com/) allow to create modern single-page React, Vue, and Svelte apps using classic server-side routing. Works with any backend — tuned for Laravel.
 
 * [Jigsaw](https://jigsaw.tighten.com/)  is a framework for rapidly building static sites using the same modern tooling that powers your web applications. Blade templating, Markdown for content-driven pages, Compile your assets using Laravel Mix.
+
+* [Herd](https://herd.laravel.com/) is a blazing fast, native Laravel and PHP development environment for macOS. <!-- development -->
   
 * [Hooks for Alpine.js](https://github.com/ryangjchandler/alpine-hooks) This package contains a variety of hooks for [Alpine.js](https://alpinejs.dev/) that can be used to improve the developer experience of common front-end development tasks.
 
@@ -375,6 +389,7 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [MailCarrier](https://github.com/mailcarrierapp/mailcarrier). User friendly, provider-aware, mailing platform with templates and logs included.
   
 * Tectalic [OpenAI](https://tectalic.com/apis/openai/docs/php) REST API Client s a package that provides a convenient and straightforward way to interact with the OpenAI API from your PHP application.
+* [Pest](https://pestphp.com/) is a testing framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP. <!-- testing -->
 * [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) These cheat sheets were created by various application security professionals who have expertise in specific topics.
 * [Rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring. [Automated Refactoring With Rector](https://tighten.com/insights/automated-refactoring-with-rector-php/)
 * [Saloon](https://github.com/Sammyjo20/Saloon) – Your Lone Star of your API integrations. Saloon is a PHP library that provides you with a beautiful API integration framework. It gives you all the tools you need to build and test API integrations for your application or SDKs. [Docs](https://docs.saloon.dev/) <!-- api, http client -->
