@@ -4,6 +4,8 @@ List of usefull resources and projects about Laravel
 # Packages
 * Laravel [Actions](https://laravelactions.com/). This package introduces a new way of organising the logic of your Laravel applications by focusing on the actions your applications provide. Instead of creating controllers, jobs, listeners and so on, it allows you to create a PHP class that handles a specific task and run that class as anything you want.
 
+* [Agent Detection](https://github.com/rmunate/AgentDetection) library offers a wide range of methods that allow you to discover and analyze the connection agent data in your application.
+
 * [Airdrop for Laravel](https://hammerstone.dev/airdrop/docs/main/overview) is a package that speeds up your code deploys by skipping your asset build step whenever possible.
 <!-- assets -->
   
@@ -31,6 +33,8 @@ List of usefull resources and projects about Laravel
 
 * [Artisan RunX](https://github.com/monurakkaya/artisan-runx) Run multiple Laravel Artisan commands with a single command
 <!-- artisan, console -->
+
+* [Avatar](https://github.com/laravolt/avatar) Display unique avatar for any user based on their (initials) name.
 
 * [Azure Email Communication Service (ECS)](https://github.com/hafael/azure-mailer-driver) for Laravel. This library provides developers with a simple set of features for sending Laravel Framework emails through the Microsoft Azure ECS service.
 <!-- email, microsoft, service -->
@@ -166,6 +170,9 @@ Cookies registration & configuration, Blade views & translation files for consen
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.2%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10%2B-blue?style=flat-square)
 
+* [Lift](https://github.com/WendellAdriel/laravel-lift) for Laravel is a package that boosts your Eloquent Models in Laravel. It lets you create public properties in Eloquent Models that match your table schema. This makes your models easier to read and work with in any IDE.
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.2%2B-blue?style=flat-square) <!-- eloquent, model, migration -->
+
 * [Lunar](https://lunarphp.io/). An open-source package that brings the power of modern headless e-commerce functionality to Laravel. [Full documentation](https://docs.lunarphp.io/) Includes in-depth guides on everything Lunar. [https://github.com/lunarphp/lunar](https://github.com/lunarphp/lunar) set of Laravel packages that bring functionality akin to Shopify and other e-commerce platforms to Laravel.
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9%2B-blue?style=flat-square)
@@ -180,6 +187,10 @@ Cookies registration & configuration, Blade views & translation files for consen
 * Laravel [Markdown](https://github.com/spatie/laravel-markdown). A highly configurable markdown renderer and Blade component for Laravel <!-- markdown, blade, view -->
 
 * [Mary UI](https://www.mary-ui.com/). Laravel blade components made for [Livewire 3](https://livewire.laravel.com/) and styled around [daisyUI](https://daisyui.com/) + Tailwind <!-- blade, UI, components -->
+
+* [Metrics](https://github.com/eliseekn/laravel-metrics) for Laravel. Generate easily metrics and trends data of your models for your dashboards. <!-- metrics, dashboard, statistic -->
+
+* Convert [MJML to HTML](https://github.com/spatie/mjml-php) using PHP. MJML is a markup language designed to reduce the pain of coding a responsive email. [Craft emails that look good in each email client using MJML](https://freek.dev/2549-craft-emails-that-look-good-in-each-email-client-using-mjml) <!-- email, mjml -->
 
 * Laravel [MockApi](https://github.com/lichtner/laravel-mock-api) is a powerful yet lightweight library designed for mocking external APIs and web services.
 
@@ -241,6 +252,9 @@ Cookies registration & configuration, Blade views & translation files for consen
 * Laravel Fluent [RabbitMQ](https://github.com/sokanacademy/Laravel-Fluent-RabbitMQ) This package allows your laravel applications to easily communicate with each other in an event driven way. One service can publish an event and another one can consume the event and take actions accordingly.
 
 * Lara [Reserve](https://github.com/shayan-yousefi/lara-reserve) Is a Laravel Package To Adds a Reservation feature to the laravel models. [Tutorial](https://dev.to/shayan-yousefi/creating-a-reservation-system-in-laravel-with-lara-reserve-a-step-by-step-guide-26nf)
+
+* Laravel[Runtime](https://github.com/rmunate/LaravelConfigRuntime) library empowers you to modify Laravel configuration values at runtime. It is essential to note that these changes will not affect the values in the .env file; they will only apply while executing scripts. Now, you can define each script with specific features, select which database to use, set cache methods, authentication settings, email configurations, and all other options.
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8+%2B-blue?style=flat-square) <!-- configuration, env -->
 
 * [Saloon Laravel Integration](https://docs.saloon.dev/digging-deeper/laravel-integration) is a PHP library that provides you with a beautiful API integration framework. It gives you all the tools you need to build and test API integrations for your application or SDKs.
   ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9.0%2B-blue?style=flat-square) <!-- api, http client -->
@@ -313,6 +327,7 @@ Cookies registration & configuration, Blade views & translation files for consen
 ![Supported TypeScript Versions](https://img.shields.io/badge/TypeScript-5%2B-blue?style=flat-square)
 
 # Tutorials
+* [Authenticate With Any Oauth Provider With Laravel Socialite](https://flixtechs.co.zw/posts/authenticate-with-any-oauth-provider-with-laravel-socialite)
 * [Autocomplete With Livewire](https://fly.io/laravel-bytes/livewire-autocomplete/) We're gonna do some autocompletion with Livewire.
 * [Concurrent, Chunked, Multi-File Uploads With Livewire](https://fly.io/laravel-bytes/multi-file-upload-livewire/)
 * [Calculating rolling averages with Laravel Collections](https://www.conroyp.com/articles/calculating-rolling-averages-in-laravel-collections)
