@@ -219,6 +219,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [Package Skeleton](https://github.com/spatie/package-skeleton-laravel). This repo can be used to scaffold a Laravel package.
 
+* Laravel [Pastable Model](https://github.com/elipZis/laravel-pastable-model) Enable your models to regularly cut/copy & paste their data into another table. <!-- eloquent, model -->
+
 * [SpellNumber](https://github.com/rmunate/SpellNumber) is a cool little package to convert words in Laravel easily using the PHP INTL extension to handle the conversions seamlessly.
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8%2B-blue?style=flat-square)
 <!-- intl -->
@@ -234,6 +236,10 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [Resend](https://github.com/resendlabs/resend-laravel) for Laravel. Provides [Resend](https://resend.com) integration for Laravel and Symfony Mailer. <!-- email -->
 
+* Laravel [Rest Api](https://github.com/Lomkit/laravel-rest-api) is an elegant way to expose your app through an API, it takes full advantage of the Laravel ecosystem such as Policies, Controllers, Eloquent, ... <!-- API -->
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8%2B-blue?style=flat-square)
+  
 * [Restify](https://github.com/binarcode/laravel-restify) The fastest way to make a powerful JSON:API compatible Rest API with Laravel. <!-- API -->
 
 * [RouterOS API Client](https://github.com/EvilFreelancer/routeros-api-php) with Laravel support <!-- api, routeros, mikrotik -->
@@ -293,11 +299,15 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [TailwindMerge](https://github.com/gehrisandro/tailwind-merge-laravel) for Laravel allows you to merge multiple Tailwind CSS classes and automatically resolves conflicts between classes by removing classes conflicting with a class defined later. This is especially helpful when you want to override Tailwind CSS classes in your Blade components. <!-- tailwind -->
 
-* [Beautiful toast notifications for Livewire](https://github.com/masmerise/livewire-toaster) 
+* [Beautiful toast notifications for Livewire](https://github.com/masmerise/livewire-toaster)
 
-* Laravel [Translation](https://github.com/spatie/laravel-translation-loader) Loader. Store your language lines in the database
-* [Translations](https://github.com/Delta-Solutions/translations) in columns loader provides a migration and a model to extend the spatie/laravel-translation-loader so you can store your translations in columns instead of one json field. One column per locale.
-* [Translations export and import](https://github.com/Delta-Solutions/translations-export-import) This package provides two artisan commands to export and import language_lines from the spatie translations package table to Excel.
+* Lara [Translate](https://github.com/manadinho/lara-translate) is a package that enables you to manage your translations efficiently. One of its remarkable features is the ability to seamlessly translate keys from one language to another directly from the User Interface. More impressive Thing is that it works for free. Behind the scenes, it leverages the MyMemory API to handle key translations. <!-- translate -->
+
+* Laravel [Translation](https://github.com/spatie/laravel-translation-loader) Loader. Store your language lines in the database <!-- translate -->
+  
+* [Translations](https://github.com/Delta-Solutions/translations) in columns loader provides a migration and a model to extend the spatie/laravel-translation-loader so you can store your translations in columns instead of one json field. One column per locale. <!-- translate -->
+  
+* [Translations export and import](https://github.com/Delta-Solutions/translations-export-import) This package provides two artisan commands to export and import language_lines from the spatie translations package table to Excel.  <!-- translate -->
 
 * [Transporter](https://github.com/JustSteveKing/laravel-transporter) is a futuristic way to send API requests in PHP. This is an OOP approach to handle API requests.
 
@@ -329,6 +339,7 @@ Cookies registration & configuration, Blade views & translation files for consen
 # Tutorials
 * [Authenticate With Any Oauth Provider With Laravel Socialite](https://flixtechs.co.zw/posts/authenticate-with-any-oauth-provider-with-laravel-socialite)
 * [Autocomplete With Livewire](https://fly.io/laravel-bytes/livewire-autocomplete/) We're gonna do some autocompletion with Livewire.
+* [Simple broadcasting with Laravel and Livewire without Websockets](https://saeedvaziry.medium.com/simple-broadcasting-with-laravel-and-livewire-without-websockets-c8e153540899)
 * [Concurrent, Chunked, Multi-File Uploads With Livewire](https://fly.io/laravel-bytes/multi-file-upload-livewire/)
 * [Calculating rolling averages with Laravel Collections](https://www.conroyp.com/articles/calculating-rolling-averages-in-laravel-collections)
 * [How to Clone a Model in Laravel? (With or Without Relations)](https://laracoding.com/how-to-clone-a-model-in-laravel-with-or-without-relations/)
