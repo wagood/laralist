@@ -52,6 +52,10 @@ List of usefull resources and projects about Laravel
 * [Blockade](https://github.com/cjmellor/blockade) allow a User Model to Block Another User Model
 <!-- eloquent, model, user -->
 
+* [Browser Sessions](https://github.com/cjmellor/browser-sessions) This package allows you to log out sessions that are active on other devices. Can only be used with the database driver for the Sessions.
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10+%2B-blue?style=flat-square)
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.2+%2B-blue?style=flat-square) <!-- session, user -->
+
 * Automatically [cache Laravel Eloquent models](https://github.com/elipZis/laravel-cacheable-model) by queries
 <!-- eloquent, model, cache -->
 
@@ -86,6 +90,9 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [DANACore Packages](https://github.com/otnansirk/laravel-dana). This Laravel wrapper/library for DANA Payment API. Visit [https://dana.id](https://dana.id) for more information about the product and see documentation at [https://dashboard.dana.id/api-docs](https://dashboard.dana.id/api-docs) for more technical details. <!-- payment, DANA -->
 
 * [Data Migrator](https://github.com/oguzhankrcb/DataMigrator) is a PHP/Laravel package that helps you migrate data from one model to another, even if they have different structures. It's especially useful when you're migrating data between models with different database schemas.
+
+* Laravel [Date Filtering Package](https://github.com/omarelnaghy/lara-date-filter) is a package that simplifies date-based filtering for your Laravel Eloquent models. It provides a set of convenient methods to filter records based on various date and time intervals. <!-- date, filtering -->
+  
 * Laravel [Date Scopes](https://github.com/laracraft-tech/laravel-date-scopes) provides a big range of useful date scopes for your Laravel Eloquent models!
 * [Docgen for Laravel Facade](https://github.com/irazasyed/docgen) Streamline your Laravel package development with automatic facade documentation using Docgen for Laravel Facade.
 * Laravel [Domain Driven Design DDD](https://github.com/thejano/laravel-domain-driven-design "Laravel Domain Driven Design") is a software development approach that emphasizes understanding and modeling the business domain. The goal is to create software that aligns with the needs of the business and is easier to maintain. [DOC](https://ddd.thejano.com/guide/)
@@ -171,7 +178,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10%2B-blue?style=flat-square)
 
 * [Lift](https://github.com/WendellAdriel/laravel-lift) for Laravel is a package that boosts your Eloquent Models in Laravel. It lets you create public properties in Eloquent Models that match your table schema. This makes your models easier to read and work with in any IDE.
-![Supported PHP Versions](https://img.shields.io/badge/PHP-8.2%2B-blue?style=flat-square) <!-- eloquent, model, migration -->
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.2%2B-blue?style=flat-square)
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9+%2B-blue?style=flat-square) <!-- eloquent, model, migration -->
 
 * [Lunar](https://lunarphp.io/). An open-source package that brings the power of modern headless e-commerce functionality to Laravel. [Full documentation](https://docs.lunarphp.io/) Includes in-depth guides on everything Lunar. [https://github.com/lunarphp/lunar](https://github.com/lunarphp/lunar) set of Laravel packages that bring functionality akin to Shopify and other e-commerce platforms to Laravel.
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
@@ -326,6 +334,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 * Flysystem adapter for [Uploadcare](https://github.com/vormkracht10/flysystem-uploadcare) with support for Laravel v10+. <!-- uploadcare, files, upload -->
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10+%2B-blue?style=flat-square)
 
+* [Laravel User Monitoring](https://github.com/binafy/laravel-user-monitoring) Tracking user behavior and interactions is now made effortless, allowing you to gain a deeper understanding of your users' engagement, preferences, and pain points. <!-- user, monitoring -->
+
 * [Walker](https://github.com/qubesoftware/laravel-walker) is a package that allows you to create multi-step wizards in your Laravel applications.
 
 * [Wallet](https://github.com/stephenjude/laravel-wallet "Wallet") is a simple wallet implementation for Laravel <!-- payment -->
@@ -367,6 +377,7 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [Laravel Jetstream:](https://laravel-news.com/jetstream-spatie-permission) Add CRUD with Spatie Permission
 * Building your website using [Jigsaw](https://laravel-news.com/first-look-at-jigsaw) <!-- cms -->
 * Building a [Kanban Board](https://laravel-news.com/building-a-kanban-board-with-laravel) with Laravel and Vue.Draggable
+* How to setup a real fast [local Laravel development environment for Windows](https://en.laracraft.tech/blog/how-to-setup-a-real-fast-local-laravel-development-environment-for-windows-with-pretty-urls-without-docker) with pretty URLs (without Docker)
 * [Managing files using Laravel's scoped driver](https://innocenzi.dev/articles/managing-files-using-laravels-scoped-driver)
 * [Migrate passwords](https://leopoletto.com/migrate-password-from-a-legacy-php-application-to-laravel/) from a legacy PHP application to Laravel
 * [Monaco Editor in Laravel Livewire](https://gdebrauwer.dev/blog/monaco-editor-in-laravel-livewire/) <!-- livewire, monaco editor -->
@@ -387,7 +398,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [Chunked File Upload With Livewire](https://fly.io/laravel-bytes/chunked-file-upload-livewire/)
 * [Laravel Real-Time Notifications with SSE](https://blog.oussama-mater.me/laravel-sse/) (Server-Sent Events)
 * Laravel [Users Table](https://laraveldaily.com/post/laravel-users-table-change-primary-key-id-to-uuid): Change Primary Key ID to UUID - in 3 Steps
-* [Laravel Users with Multiple Roles: Switching Between Roles](https://laraveldaily.com/post/laravel-users-with-multiple-roles-switching-between-roles) 
+* [Laravel Users with Multiple Roles: Switching Between Roles](https://laraveldaily.com/post/laravel-users-with-multiple-roles-switching-between-roles)
+* [Validating SSH keys on Laravel](https://dev.to/devlopez/validating-ssh-keys-on-laravel-2545) <!-- ssh -->
 * [Visualising Laravel](https://freek.dev/2507-visualising-laravel-and-horizon-metrics-using-prometheus-and-grafana) and Horizon metrics using [Prometheus](https://prometheus.io/) and [Grafana](https://grafana.com/)
 
 # Common
@@ -416,6 +428,7 @@ Cookies registration & configuration, Blade views & translation files for consen
   
 * Tectalic [OpenAI](https://tectalic.com/apis/openai/docs/php) REST API Client s a package that provides a convenient and straightforward way to interact with the OpenAI API from your PHP application.
 * [Pest](https://pestphp.com/) is a testing framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP. <!-- testing -->
+* [PHP Crypter](https://github.com/chr1sc0des/phpcrypter) A PHP Source Code Encrypter <!-- encryption -->
 * [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) These cheat sheets were created by various application security professionals who have expertise in specific topics.
 * [Rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring. [Automated Refactoring With Rector](https://tighten.com/insights/automated-refactoring-with-rector-php/)
 * [Saloon](https://github.com/Sammyjo20/Saloon) – Your Lone Star of your API integrations. Saloon is a PHP library that provides you with a beautiful API integration framework. It gives you all the tools you need to build and test API integrations for your application or SDKs. [Docs](https://docs.saloon.dev/) <!-- api, http client -->
