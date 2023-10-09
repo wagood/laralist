@@ -6,6 +6,8 @@ List of usefull resources and projects about Laravel
 
 * [Agent Detection](https://github.com/rmunate/AgentDetection) library offers a wide range of methods that allow you to discover and analyze the connection agent data in your application.
 
+* Desktop and Mobile User [Agent Parser](https://github.com/jenssegers/agent) with support for Laravel, based on [Mobile Detect](https://github.com/serbanghita/Mobile-Detect) with desktop support and additional functionality.
+  
 * [Airdrop for Laravel](https://hammerstone.dev/airdrop/docs/main/overview) is a package that speeds up your code deploys by skipping your asset build step whenever possible.
 <!-- assets -->
   
@@ -167,6 +169,9 @@ Cookies registration & configuration, Blade views & translation files for consen
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10+%2B-blue?style=flat-square)<!-- permissions, roles -->
 
 * Laravel [Languages](https://github.com/riomigal/languages) is a Translation UI that adds additional functionality to the existing Laravel App. The App has it's own guard which isolates Laravel Languages from an existing App.
+
+* Laravel [LangCountry](https://github.com/stefro/laravel-lang-country). The localization package for auto date-formats, languge switche helper and more <!-- localization -->
+
 * [LdapRecord](https://github.com/DirectoryTree/LdapRecord-Laravel) Integrate LDAP into your Laravel application.
 
 * [LaraDumps](https://laradumps.dev/) is a friendly app designed to boost your Laravel PHP coding and debugging experience.
@@ -219,6 +224,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [OpenAI](https://github.com/openai-php/laravel) for Laravel is a community-maintained PHP API client that allows you to interact with the Open AI API.
 
+* A helper to query and format a set of [opening hours](https://github.com/spatie/opening-hours)
+
 * Laravel [Open Weather](https://github.com/RakibDevs/openweather-laravel-api) API is a Laravel package to connect Open Weather Map APIs ( https://openweathermap.org/api ) and access free API services (current weather, weather forecast, weather history) easily.
 
 * [Orbit](https://github.com/ryangjchandler/orbit) is a flat-file database driver for Eloquent. It allows you to replace your generic database with real files that you can manipulate using the methods you're familiar with. <!-- eloquent -->
@@ -254,6 +261,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [PayPal Webhooks Client](https://github.com/ankurk91/laravel-paypal-webhooks) for Laravel handle PayPal webhooks in Laravel php framework.
 
+* [PHP2JS](https://rmunate.github.io/PHP2JS) Share PHP-defined variables directly with the JavaScript files you want to use in your system. <!-- js, javascript -->
+  
 * [PunchCard](https://github.com/TomasVotruba/punchcard) package provides basic fluent config classes for the Laravel project ```/config``` directory.
 
 * [Query Builder Macros](https://github.com/uteq/laravel-query-builder-macros) Adds useful functionality to the Laravel Query Builder
@@ -289,6 +298,10 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [Laravel Spatial](https://github.com/asanikovich/laravel-spatial) allows you to easily work with spatial data types and functions.
 
+* [SpellNumber](https://github.com/rmunate/SpellNumber) Easily convert numbers to words in Laravel using this library, which leverages the native PHP INTL extension to perform conversion effortlessly. <!-- number, INTL -->
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8.0%2B-blue?style=flat-square)
+  
 * [Splade](https://splade.dev/) provides a super easy way to build Single Page Applications (SPA) using standard Laravel Blade templates, enhanced with renderless Vue 3 components. In essence, you can write your app using the simplicity of Blade, and besides that magic SPA-feeling, you can sparkle it to make it interactive.
 
 * [Spreadsheet translations](https://github.com/orkhanahmadov/spreadsheet-translations) for Laravel create translation files from spreadsheet.
