@@ -109,8 +109,12 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [Dynamic Model for Laravel](https://github.com/laracraft-tech/laravel-dynamic-model). You may need to handle multiple tables via a single model. Here Laravel Dynamic Model comes into play!
 
+* [Easy Metrics](https://github.com/sakanjo/laravel-easy-metrics) Easily create metrics for your application.
+
 * [EasyDataTable](https://github.com/rmunate/EasyDataTable): A fast, easy, and efficient way to create the BackEnd for any DataTable. (Laravel PHP Framework)
 
+* [Engageify](https://github.com/cjmellor/engageify) is a Laravel package that allows you to integrate engagement features like user reactions (likes, upvotes) to your models.
+  
 * [Enum helper](https://github.com/biiiiiigmonster/laravel-enum). Enum helper for laravel10 based on the enum feature of php 8.1 <!-- enum, helper-->
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10.0%2B-blue?style=flat-square)
@@ -152,6 +156,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [Genesis](https://github.com/thedevdojo/genesis) is a Laravel Starter Kit that utilizes the TALL Stack as well as single-file Volt and Folio files. This starter kit contains Authentication, User Dashboard, Edit Profile, and a set of UI Components.
 <!-- volt, folio, starter kit -->
+
+* Laravel [GeoIP](https://github.com/reefki/laravel-geoip) A Laravel package to get IP addresses geographical location. <!-- geoip -->
 
 * Laravel [Google Analytics](https://github.com/vormkracht10/laravel-google-analytics-v4) v4 retrieve all data like pageviews, events, ecommerce transactions and more from Google Analytics version 4 using the Google API.
 
@@ -281,6 +287,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [Saloon Laravel Integration](https://docs.saloon.dev/digging-deeper/laravel-integration) is a PHP library that provides you with a beautiful API integration framework. It gives you all the tools you need to build and test API integrations for your application or SDKs.
   ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9.0%2B-blue?style=flat-square) <!-- api, http client -->
+
+* [Starter Kit for Laravel Sanctum](https://github.com/eliseekn/laravel-sanctum-starter-kit) ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10.0%2B-blue?style=flat-square) ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)<!-- api, sanctum -->
 
 * Laravel [Scanator](https://github.com/YorCreative/Laravel-Scanator). A Laravel package that provides functionalities for detecting sensitive information and patterns in the database, helping to ensure data privacy and security by empowering developers to easily integrate database scanning capabilities into their applications and take proactive measures to protect sensitive data. <!-- security, database -->
 
