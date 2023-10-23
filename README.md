@@ -96,6 +96,9 @@ Cookies registration & configuration, Blade views & translation files for consen
 * Laravel [Date Filtering Package](https://github.com/omarelnaghy/lara-date-filter) is a package that simplifies date-based filtering for your Laravel Eloquent models. It provides a set of convenient methods to filter records based on various date and time intervals. <!-- date, filtering -->
   
 * Laravel [Date Scopes](https://github.com/laracraft-tech/laravel-date-scopes) provides a big range of useful date scopes for your Laravel Eloquent models!
+
+* Laravel [Device Detector](https://github.com/reefki/laravel-device-detector). The Laravel wrapper for [Matomo Universal Device Detection](https://github.com/matomo-org/device-detector) library seamlessly integrates device detection capabilities into Laravel applications. <!-- device detector -->
+
 * [Docgen for Laravel Facade](https://github.com/irazasyed/docgen) Streamline your Laravel package development with automatic facade documentation using Docgen for Laravel Facade.
 * Laravel [Domain Driven Design DDD](https://github.com/thejano/laravel-domain-driven-design "Laravel Domain Driven Design") is a software development approach that emphasizes understanding and modeling the business domain. The goal is to create software that aligns with the needs of the business and is easier to maintain. [DOC](https://ddd.thejano.com/guide/)
 
@@ -118,6 +121,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [Enum helper](https://github.com/biiiiiigmonster/laravel-enum). Enum helper for laravel10 based on the enum feature of php 8.1 <!-- enum, helper-->
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10.0%2B-blue?style=flat-square)
+
+* [ErrorLens](https://github.com/narolalabs/error-lens). See, Understand, and Handle Laravel Errors <!-- debug, errors-->
 
 * Laravel [Excel](https://github.com/SpartnerNL/Laravel-Excel) - Supercharged Excel exports and imports. A simple, but elegant Laravel wrapper around [PhpSpreadsheet](https://phpspreadsheet.readthedocs.io/) exports and imports. <!-- import, export, excel -->
 
@@ -191,6 +196,10 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [Lift](https://github.com/WendellAdriel/laravel-lift) for Laravel is a package that boosts your Eloquent Models in Laravel. It lets you create public properties in Eloquent Models that match your table schema. This makes your models easier to read and work with in any IDE.
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.2%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9+%2B-blue?style=flat-square) <!-- eloquent, model, migration -->
+
+* [Location](https://github.com/stevebauman/location) Retrieve a visitor's location from their IP address using various services. <!-- location, maxmind -->
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8%2B-blue?style=flat-square)
 
 * [Lunar](https://lunarphp.io/). An open-source package that brings the power of modern headless e-commerce functionality to Laravel. [Full documentation](https://docs.lunarphp.io/) Includes in-depth guides on everything Lunar. [https://github.com/lunarphp/lunar](https://github.com/lunarphp/lunar) set of Laravel packages that bring functionality akin to Shopify and other e-commerce platforms to Laravel.
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
@@ -310,7 +319,7 @@ Cookies registration & configuration, Blade views & translation files for consen
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8.0%2B-blue?style=flat-square)
   
-* [Splade](https://splade.dev/) provides a super easy way to build Single Page Applications (SPA) using standard Laravel Blade templates, enhanced with renderless Vue 3 components. In essence, you can write your app using the simplicity of Blade, and besides that magic SPA-feeling, you can sparkle it to make it interactive.
+* [Splade](https://splade.dev/) provides a super easy way to build Single Page Applications (SPA) using standard Laravel Blade templates, enhanced with renderless Vue 3 components. In essence, you can write your app using the simplicity of Blade, and besides that magic SPA-feeling, you can sparkle it to make it interactive. <!-- spa, blade, vue -->
 
 * [Spreadsheet translations](https://github.com/orkhanahmadov/spreadsheet-translations) for Laravel create translation files from spreadsheet.
 
