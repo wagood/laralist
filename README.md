@@ -7,6 +7,8 @@ List of usefull resources and projects about Laravel
 * [Agent Detection](https://github.com/rmunate/AgentDetection) library offers a wide range of methods that allow you to discover and analyze the connection agent data in your application.
 
 * Desktop and Mobile User [Agent Parser](https://github.com/jenssegers/agent) with support for Laravel, based on [Mobile Detect](https://github.com/serbanghita/Mobile-Detect) with desktop support and additional functionality.
+
+* [Aimeos](https://aimeos.org/laravel-ecommerce-package) Ultra-fast, Cloud-native, API-first PHP e-commerce framework for building custom online shops, scalable marketplaces and complex B2B apps
   
 * [Airdrop for Laravel](https://hammerstone.dev/airdrop/docs/main/overview) is a package that speeds up your code deploys by skipping your asset build step whenever possible.
 <!-- assets -->
@@ -75,6 +77,8 @@ List of usefull resources and projects about Laravel
 
 * Lara [Client](https://github.com/usamamuneerchaudhary/laraclient) simplifies the process of working with APIs in Laravel, making it easy to handle authentication, rate limiting, and error handling. It allows to set up several API connections in a central configuration file, specifying the credentials for each connection.
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
+
+* Laravel [Connective](https://github.com/AuroraWebSoftware/connective) package provides a simple and intuitive way to establish connections between Eloquent models. It allows you to define different connection types and manage relationships between models.
 
 * [Commentify](https://github.com/usamamuneerchaudhary/commentify) - Laravel Livewire Comments. Commentify is a powerful Laravel Livewire package designed to provide an easy-to-integrate commenting system for any model in your Laravel application. Powered by Livewire, this package offers a seamless commenting experience that is powered by Tailwind UI, making it easy for users to engage with your content.
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10.0%2B-blue?style=flat-square)
@@ -174,6 +178,9 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [Hooks for Alpine.js](https://github.com/ryangjchandler/alpine-hooks) contains a variety of hooks for [Alpine.js](https://alpinejs.dev/) that can be used to improve the developer experience of common front-end development tasks.
 
 * Laravel [HMVC](https://github.com/hexters/laramodule "Laravel HMVC") is a Laravel package that allows developers to organize and manage modules within their web application
+
+* Laravel [Impersonate](https://github.com/404labfr/laravel-impersonate) makes it easy to authenticate as your users. Add a simple trait to your user model and impersonate as one of your users in one click. <!-- user, authenticate -->
+
 * [L-admin](https://github.com/hexters/ladmin "L-admin") is a Laravel administration package that allows web developers to quickly create an admin panel for their website
 
 * [Ladder](https://github.com/eneadm/ladder) simplifies role and permission management for your Laravel project by avoiding storing everything in the database. 
@@ -182,6 +189,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 * Laravel [Languages](https://github.com/riomigal/languages) is a Translation UI that adds additional functionality to the existing Laravel App. The App has it's own guard which isolates Laravel Languages from an existing App.
 
 * Laravel [LangCountry](https://github.com/stefro/laravel-lang-country). The localization package for auto date-formats, languge switche helper and more <!-- localization -->
+
+* [Larupload](https://github.com/mostafaznv/larupload) is a file uploader for Laravel, which is based on ORM and allows users to upload images, videos, audios, and other known file formats. <!-- upload -->
 
 * [LdapRecord](https://github.com/DirectoryTree/LdapRecord-Laravel) Integrate LDAP into your Laravel application.
 
@@ -251,6 +260,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * Laravel [Pastable Model](https://github.com/elipZis/laravel-pastable-model) Enable your models to regularly cut/copy & paste their data into another table. <!-- eloquent, model -->
 
+* Laravel [Purity](https://github.com/abbasudo/laravel-purity) is an elegant and efficient filtering and sorting package for Laravel, designed to simplify complex data filtering and sorting logic for eloquent queries. By simply adding filter() to your Eloquent query, you can add the ability for frontend users to apply filters based on URL query string parameters like a breeze. <!-- eloquent, model, filtering, sorting -->
+
 * [SpellNumber](https://github.com/rmunate/SpellNumber) is a cool little package to convert words in Laravel easily using the PHP INTL extension to handle the conversions seamlessly.
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8%2B-blue?style=flat-square)
 <!-- intl -->
@@ -296,6 +307,10 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [Saloon Laravel Integration](https://docs.saloon.dev/digging-deeper/laravel-integration) is a PHP library that provides you with a beautiful API integration framework. It gives you all the tools you need to build and test API integrations for your application or SDKs.
   ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9.0%2B-blue?style=flat-square) <!-- api, http client -->
+
+* Laravel [SpellNumber](https://rmunate.github.io/SpellNumber) Easily convert numbers to words in Laravel using this library, which leverages the native PHP INTL extension to perform conversion effortlessly. With this library, you can convert numbers to words in various languages and also obtain the value in currency format according to the selected language. 
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8%2B-blue?style=flat-square)
 
 * [Starter Kit for Laravel Sanctum](https://github.com/eliseekn/laravel-sanctum-starter-kit) ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10.0%2B-blue?style=flat-square) ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)<!-- api, sanctum -->
 
@@ -412,6 +427,7 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [Migrate passwords](https://leopoletto.com/migrate-password-from-a-legacy-php-application-to-laravel/) from a legacy PHP application to Laravel
 * [Monaco Editor in Laravel Livewire](https://gdebrauwer.dev/blog/monaco-editor-in-laravel-livewire/) <!-- livewire, monaco editor -->
 * [Optimally creating a fresh Laravel project](https://devdojo.com/bluepundit/optimally-creating-a-fresh-laravel-project)
+* [Optimizing Laravel Eloquent queries](https://www.csrhymes.com/2023/10/22/optimizing-laravel-eloquent-queries.html)
 * [Improving Client Side Pagination With Livewire](https://fly.io/laravel-bytes/client-pagination-livewire/)
 * 4 Ways to [Pass Data to All Views](https://laracoding.com/4-ways-to-pass-data-to-all-views-in-laravel/) in Laravel
 * [Password confirmation](https://leopoletto.com/password-confirmation-for-sensitive-actions-on-laravel/) for sensitive actions on Laravel
@@ -451,6 +467,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [Herd](https://herd.laravel.com/) is a blazing fast, native Laravel and PHP development environment for macOS. <!-- development -->
   
 * [Hooks for Alpine.js](https://github.com/ryangjchandler/alpine-hooks) This package contains a variety of hooks for [Alpine.js](https://alpinejs.dev/) that can be used to improve the developer experience of common front-end development tasks.
+
+* [Hypertext](https://github.com/stevebauman/hypertext) A PHP HTML to pure text transformer that beautifully handles various and malformed HTML.
 
 * [JSON Parser](https://github.com/cerbero90/json-parser). Zero-dependencies pull parser to read large JSON from any source in a memory-efficient way. [Docs](https://mailcarrier.app/docs/getting-started/installation) <!-- json, parser -->
 
