@@ -63,9 +63,14 @@ List of usefull resources and projects about Laravel
 * Automatically [cache Laravel Eloquent models](https://github.com/elipZis/laravel-cacheable-model) by queries
 <!-- eloquent, model, cache -->
 
+* [Cachetastic](https://github.com/bigdevwhale/cachetastic) supercharges your Laravel caching capabilities, making it a breeze to cache method results and improve your application's performance. <!-- cache -->
+
 * Lara-[Captcha](https://github.com/hirenkeraliya/lara-captcha) is a reliable and easy-to-use package for preventing bot submissions and enhancing the security of public forms in Laravel.
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9%2B-blue?style=flat-square)
 <!-- form, captcha, security --> 
+
+* Laravel [Captcha](https://github.com/RahulDey12/laravel-captcha) is a wrapper around Turnstile, HCaptcha & Google Recaptcha. It provides very easy-to-use Facade, Validation Rule, and laravel components. <!-- captcha, security --> 
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
 
 * Laravel [Castable Data Transfer Object](https://github.com/jessarcher/laravel-castable-data-transfer-object) cast JSON columns to a value object.
   
@@ -95,6 +100,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [DANACore Packages](https://github.com/otnansirk/laravel-dana). This Laravel wrapper/library for DANA Payment API. Visit [https://dana.id](https://dana.id) for more information about the product and see documentation at [https://dashboard.dana.id/api-docs](https://dashboard.dana.id/api-docs) for more technical details. <!-- payment, DANA -->
 
+* Spatie [Lravel-data](https://spatie.be/docs/laravel-data/v3/introduction) enables the creation of rich data objects which can be used in various ways. 
+  
 * [Data Migrator](https://github.com/oguzhankrcb/DataMigrator) is a PHP/Laravel package that helps you migrate data from one model to another, even if they have different structures. It's especially useful when you're migrating data between models with different database schemas.
 
 * Laravel [Date Filtering Package](https://github.com/omarelnaghy/lara-date-filter) is a package that simplifies date-based filtering for your Laravel Eloquent models. It provides a set of convenient methods to filter records based on various date and time intervals. <!-- date, filtering -->
@@ -129,6 +136,10 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [ErrorLens](https://github.com/narolalabs/error-lens). See, Understand, and Handle Laravel Errors <!-- debug, errors-->
 
 * Laravel [Excel](https://github.com/SpartnerNL/Laravel-Excel) - Supercharged Excel exports and imports. A simple, but elegant Laravel wrapper around [PhpSpreadsheet](https://phpspreadsheet.readthedocs.io/) exports and imports. <!-- import, export, excel -->
+
+* [Laravel Exchange Rates](https://github.com/ash-jc-allen/laravel-exchange-rates) A simple Laravel package used for interacting with exchange rates APIs. Laravel Exchange Rates allows you to get the latest or historical exchange rates and convert monetary values between different currencies. <!-- exchange, currency -->
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8.0%2B-blue?style=flat-square)
 
 * Laravel [FastLogin](https://github.com/m1guelpf/laravel-fastlogin). Allow your users to register physical authentication devices (FaceID or TouchID on iPhones & macs, fingerprint on Android, Hello on Windows and USB keys) to skip entering their login credentials.
 
@@ -227,6 +238,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [Metrics](https://github.com/eliseekn/laravel-metrics) for Laravel. Generate easily metrics and trends data of your models for your dashboards. <!-- metrics, dashboard, statistic -->
 
+* [MII](https://github.com/techmahedy/mini-laravel). A basic PHP MVC framework design in a way that you feel like you are working in a Laravel application. In this framework you will get all the basic features of a web application needs like routing, middleware, dependency injection, eloquent relationship, model, blade template engine and interface injection and many mores. <!-- framework -->
+  
 * Convert [MJML to HTML](https://github.com/spatie/mjml-php) using PHP. MJML is a markup language designed to reduce the pain of coding a responsive email. [Craft emails that look good in each email client using MJML](https://freek.dev/2549-craft-emails-that-look-good-in-each-email-client-using-mjml) <!-- email, mjml -->
 
 * Laravel [MockApi](https://github.com/lichtner/laravel-mock-api) is a powerful yet lightweight library designed for mocking external APIs and web services.
@@ -260,8 +273,14 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * Laravel [Pastable Model](https://github.com/elipZis/laravel-pastable-model) Enable your models to regularly cut/copy & paste their data into another table. <!-- eloquent, model -->
 
+* Laravel [Passwordless Login](https://github.com/grosv/laravel-passwordless-login) A simple, safe magic login link generator for Laravel. <!-- login, password -->
+
+* [PlanCraft](https://github.com/realrashid/plan-craft) is a powerful Laravel package engineered to revolutionize how you manage subscription plans and features within your Laravel SaaS application.
+
 * Laravel [Purity](https://github.com/abbasudo/laravel-purity) is an elegant and efficient filtering and sorting package for Laravel, designed to simplify complex data filtering and sorting logic for eloquent queries. By simply adding filter() to your Eloquent query, you can add the ability for frontend users to apply filters based on URL query string parameters like a breeze. <!-- eloquent, model, filtering, sorting -->
 
+* Laravel [Social Link Validator](https://github.com/ageekdev/laravel-social-link-validator). You can validate the social profile link by using of this package. <!-- social -->
+  
 * [SpellNumber](https://github.com/rmunate/SpellNumber) is a cool little package to convert words in Laravel easily using the PHP INTL extension to handle the conversions seamlessly.
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8%2B-blue?style=flat-square)
 <!-- intl -->
@@ -450,6 +469,7 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 # Common
 * [Alpine AJAX](https://alpine-ajax.js.org/) An [Alpine.js](https://alpinejs.dev/) plugin that seamlessly integrates your client and server. Use it to build straight-forward, robust, interactive websites.
+* [BookStack](https://github.com/BookStackApp/BookStack) is an opinionated wiki system that provides a pleasant and simple out-of-the-box experience. <!-- wiki -->
 * [Card Number](https://github.com/TheDragonCode/card-number) Generation and verification of card numbers using Luhn's algorithm: credit, customer loyalty and others.
 * [ClassTransformer](https://github.com/yzen-dev/plain-to-clas) This library will allow you to easily convert any data set into the object you need. You are not required to change the structure of classes, inherit them from external modules, etc.
 * [Daleel](https://daleel.kalimah-apps.com/) is a PHP documentation generator. It both generates documentation from PHP source code and also from Markdown files. It creates a beautiful documentation website for your project. <!-- documentation -->
@@ -482,3 +502,5 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [Saloon](https://github.com/Sammyjo20/Saloon) – Your Lone Star of your API integrations. Saloon is a PHP library that provides you with a beautiful API integration framework. It gives you all the tools you need to build and test API integrations for your application or SDKs. [Docs](https://docs.saloon.dev/) <!-- api, http client -->
 * [Summernote](https://summernote.org/) Super simple WYSIWYG Editor on Bootstrap
 * [Whois-php](https://github.com/monovm/whois-php) Simple and Fast Domain Lookup in PHP
+* [XML Wrangler](https://github.com/saloonphp/xml-wrangler) is a simplistic PHP library designed to make reading and writing XML easy. <!-- xml -->
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
