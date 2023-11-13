@@ -123,6 +123,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [Dynamic Model for Laravel](https://github.com/laracraft-tech/laravel-dynamic-model). You may need to handle multiple tables via a single model. Here Laravel Dynamic Model comes into play!
 
+* [DynamoBreeze](https://github.com/musonza/dynamo-breeze) is a Laravel package designed to simplify interactions with Amazon DynamoDB. While it accommodates the single-table design principle, it's versatile enough to support multiple-table usage, providing a seamless experience regardless of your database's architecture. <!-- DynamoDB -->
+
 * [Easy Metrics](https://github.com/sakanjo/laravel-easy-metrics) Easily create metrics for your application.
 
 * [EasyDataTable](https://github.com/rmunate/EasyDataTable): A fast, easy, and efficient way to create the BackEnd for any DataTable. (Laravel PHP Framework)
@@ -185,6 +187,9 @@ Cookies registration & configuration, Blade views & translation files for consen
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8.0%2B-blue?style=flat-square)
 
 * [php-heic-to-jpg](https://github.com/MaestroError/php-heic-to-jpg) The easiest way to convert HEIC/HEIF images to JPEG with PHP and Laravel framework. It uses binary file created with Go language and has no dependencies on any other PHP libraries, extensions or third-part software
+
+* Laravel-[htmx](https://github.com/mauricius/laravel-htmx) Laravel integration for [htmx](https://htmx.org/)  <!-- htmx -->
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8.8%2B-blue?style=flat-square)
 
 * [Hooks for Alpine.js](https://github.com/ryangjchandler/alpine-hooks) contains a variety of hooks for [Alpine.js](https://alpinejs.dev/) that can be used to improve the developer experience of common front-end development tasks.
 
@@ -271,11 +276,15 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [Package Skeleton](https://github.com/spatie/package-skeleton-laravel). This repo can be used to scaffold a Laravel package.
 
+* Laravel [Pail](https://github.com/laravel/pail) is a package that allows you to easily dive into your Laravel application's log files directly from the command line. <!-- log -->
+
 * Laravel [Pastable Model](https://github.com/elipZis/laravel-pastable-model) Enable your models to regularly cut/copy & paste their data into another table. <!-- eloquent, model -->
 
 * Laravel [Passwordless Login](https://github.com/grosv/laravel-passwordless-login) A simple, safe magic login link generator for Laravel. <!-- login, password -->
 
 * [PlanCraft](https://github.com/realrashid/plan-craft) is a powerful Laravel package engineered to revolutionize how you manage subscription plans and features within your Laravel SaaS application.
+
+* Laravel [Population](https://github.com/capsulescodes/laravel-population) package provides a set of commands that scan your migrations and detect any disparities between them and your database tables. If differences are found, a wizard is triggered to help you migrate and seed the new tables with converted records. <!-- migration -->
 
 * Laravel [Purity](https://github.com/abbasudo/laravel-purity) is an elegant and efficient filtering and sorting package for Laravel, designed to simplify complex data filtering and sorting logic for eloquent queries. By simply adding filter() to your Eloquent query, you can add the ability for frontend users to apply filters based on URL query string parameters like a breeze. <!-- eloquent, model, filtering, sorting -->
 
@@ -376,10 +385,16 @@ Cookies registration & configuration, Blade views & translation files for consen
 * Lara [Translate](https://github.com/manadinho/lara-translate) is a package that enables you to manage your translations efficiently. One of its remarkable features is the ability to seamlessly translate keys from one language to another directly from the User Interface. More impressive Thing is that it works for free. Behind the scenes, it leverages the MyMemory API to handle key translations. <!-- translate -->
 
 * Laravel [Translation](https://github.com/spatie/laravel-translation-loader) Loader. Store your language lines in the database <!-- translate -->
+
+* Laravel [Translation Faker](https://github.com/fidum/laravel-translation-faker) Having a fake language that reads in your native language can make it easier to keep tracking of what is missing translation as you make changes to your project. <!-- translate, faker -->
   
 * [Translations](https://github.com/Delta-Solutions/translations) in columns loader provides a migration and a model to extend the spatie/laravel-translation-loader so you can store your translations in columns instead of one json field. One column per locale. <!-- translate -->
   
 * [Translations export and import](https://github.com/Delta-Solutions/translations-export-import) This package provides two artisan commands to export and import language_lines from the spatie translations package table to Excel.  <!-- translate -->
+
+* [Transmatic](https://github.com/andrewdwallo/transmatic) is a Laravel package for real-time machine translation, enabling instant and dynamic translation across your entire application. Suitable for projects ranging from simple websites to complex SaaS platforms and more, Transmatic offers customization and flexibility. <!-- translate -->
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10%2B-blue?style=flat-square)
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
 
 * [Transporter](https://github.com/JustSteveKing/laravel-transporter) is a futuristic way to send API requests in PHP. This is an OOP approach to handle API requests.
 
@@ -392,8 +407,14 @@ Cookies registration & configuration, Blade views & translation files for consen
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9%2B-blue?style=flat-square)
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8%2B-blue?style=flat-square)
 
+* [Veriphone Service](https://github.com/slvler/veriphone-service) This package provides a convenient wrapper to the [Veriphone API](https://veriphone.io/docs/v2) for Laravel applications.
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9%2B-blue?style=flat-square)
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8%2B-blue?style=flat-square)
+
 * Add [Version Control](https://github.com/RedSnapper/laravel-version-control) to Laravel Models
 <!-- model, eloquent -->
+
+* Laravel [Updater](https://github.com/salahhusa9/laravel-updater) This is a useful package for update your laravel project with one command/click.
 
 * Flysystem adapter for [Uploadcare](https://github.com/vormkracht10/flysystem-uploadcare) with support for Laravel v10+. <!-- uploadcare, files, upload -->
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10+%2B-blue?style=flat-square)
@@ -403,6 +424,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [Walker](https://github.com/qubesoftware/laravel-walker) is a package that allows you to create multi-step wizards in your Laravel applications.
 
 * [Wallet](https://github.com/stephenjude/laravel-wallet "Wallet") is a simple wallet implementation for Laravel <!-- payment -->
+
+* [Waterhole](https://waterhole.dev/) The Laravel-powered discussion platform giving life to vibrant online communities for brands, creators, and teams. <!-- forum, discussion  -->
 
 * Laravel [Webhooks](https://github.com/JustSteveKing/laravel-webhooks). A simple webhook implementation for Laravel. <!-- webhook -->
 
@@ -442,6 +465,7 @@ Cookies registration & configuration, Blade views & translation files for consen
 * Building your website using [Jigsaw](https://laravel-news.com/first-look-at-jigsaw) <!-- cms -->
 * Building a [Kanban Board](https://laravel-news.com/building-a-kanban-board-with-laravel) with Laravel and Vue.Draggable
 * How to setup a real fast [local Laravel development environment for Windows](https://en.laracraft.tech/blog/how-to-setup-a-real-fast-local-laravel-development-environment-for-windows-with-pretty-urls-without-docker) with pretty URLs (without Docker)
+* [Laravel Login with Mobile Number OTP Tutorial](https://www.itsolutionstuff.com/post/laravel-login-with-mobile-number-otp-tutorialexample.html)
 * [Managing files using Laravel's scoped driver](https://innocenzi.dev/articles/managing-files-using-laravels-scoped-driver)
 * [Migrate passwords](https://leopoletto.com/migrate-password-from-a-legacy-php-application-to-laravel/) from a legacy PHP application to Laravel
 * [Monaco Editor in Laravel Livewire](https://gdebrauwer.dev/blog/monaco-editor-in-laravel-livewire/) <!-- livewire, monaco editor -->
