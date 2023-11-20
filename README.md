@@ -56,6 +56,8 @@ List of usefull resources and projects about Laravel
 * [Blockade](https://github.com/cjmellor/blockade) allow a User Model to Block Another User Model
 <!-- eloquent, model, user -->
 
+* Laravel [Brevo](https://github.com/hofmannsven/laravel-brevo). This package is a wrapper for [Brevo's API v3 PHP library](https://github.com/getbrevo/brevo-php).
+
 * [Browser Sessions](https://github.com/cjmellor/browser-sessions) This package allows you to log out sessions that are active on other devices. Can only be used with the database driver for the Sessions.
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10+%2B-blue?style=flat-square)
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.2+%2B-blue?style=flat-square) <!-- session, user -->
@@ -137,6 +139,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [ErrorLens](https://github.com/narolalabs/error-lens). See, Understand, and Handle Laravel Errors <!-- debug, errors-->
 
+* [Etherscan Service](https://github.com/slvler/etherscan-service) An api service for etherscan.io
+
 * Laravel [Excel](https://github.com/SpartnerNL/Laravel-Excel) - Supercharged Excel exports and imports. A simple, but elegant Laravel wrapper around [PhpSpreadsheet](https://phpspreadsheet.readthedocs.io/) exports and imports. <!-- import, export, excel -->
 
 * [Laravel Exchange Rates](https://github.com/ash-jc-allen/laravel-exchange-rates) A simple Laravel package used for interacting with exchange rates APIs. Laravel Exchange Rates allows you to get the latest or historical exchange rates and convert monetary values between different currencies. <!-- exchange, currency -->
@@ -144,6 +148,10 @@ Cookies registration & configuration, Blade views & translation files for consen
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8.0%2B-blue?style=flat-square)
 
 * Laravel [FastLogin](https://github.com/m1guelpf/laravel-fastlogin). Allow your users to register physical authentication devices (FaceID or TouchID on iPhones & macs, fingerprint on Android, Hello on Windows and USB keys) to skip entering their login credentials.
+
+* [favicon fetcher](https://github.com/ash-jc-allen/favicon-fetcher) A Laravel package that can be used for fetching favicons from websites. <!-- favicon -->
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8.0%2B-blue?style=flat-square)
 
 * [Filament](https://filamentphp.com/) A collection of beautiful full-stack components. The perfect starting point for your next app.
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
@@ -240,6 +248,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 * Laravel [Markdown](https://github.com/spatie/laravel-markdown). A highly configurable markdown renderer and Blade component for Laravel <!-- markdown, blade, view -->
 
 * [Mary UI](https://www.mary-ui.com/). Laravel blade components made for [Livewire 3](https://livewire.laravel.com/) and styled around [daisyUI](https://daisyui.com/) + Tailwind <!-- blade, UI, components -->
+
+* [Media Encrypt](https://github.com/hoanxuanmai/media-encrypt) is a powerful PHP package designed for encrypting sensitive data before storing it in a database. This package provides a secure solution to protect your critical data from unauthorized access.
 
 * [Metrics](https://github.com/eliseekn/laravel-metrics) for Laravel. Generate easily metrics and trends data of your models for your dashboards. <!-- metrics, dashboard, statistic -->
 
