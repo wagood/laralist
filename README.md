@@ -147,6 +147,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8.0%2B-blue?style=flat-square)
 
+* [Fansipan](https://phanxipang.github.io/fansipan/) A simple package that allows you to write your API integrations or SDKs in a elegant way.
+
 * Laravel [FastLogin](https://github.com/m1guelpf/laravel-fastlogin). Allow your users to register physical authentication devices (FaceID or TouchID on iPhones & macs, fingerprint on Android, Hello on Windows and USB keys) to skip entering their login credentials.
 
 * [favicon fetcher](https://github.com/ash-jc-allen/favicon-fetcher) A Laravel package that can be used for fetching favicons from websites. <!-- favicon -->
@@ -335,6 +337,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 * Laravel [Query Expressions](https://github.com/tpetry/laravel-query-expressions) to replace DB::raw() calls. All provided implementations abstract some SQL functionality that is automatically transformed to the correct syntax with the same behaviour for your used database engine. 
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10%2B-blue?style=flat-square)
+
+* [Redis Model](https://github.com/alvin0/redis-model) will help create multiple keys with the same prefix in Redis and group those keys together as a table in a SQL database. The Redis Model will create an instance similar to the Eloquent Model in Laravel. It will also provide complete methods for adding, deleting, updating, and retrieving data arrays with methods that are similar to those used in Eloquent. <!-- redis -->
 
 * Laravel Fluent [RabbitMQ](https://github.com/sokanacademy/Laravel-Fluent-RabbitMQ) This package allows your laravel applications to easily communicate with each other in an event driven way. One service can publish an event and another one can consume the event and take actions accordingly.
 
