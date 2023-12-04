@@ -177,6 +177,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8.0%2B-blue?style=flat-square)
 ![Livewire required](https://img.shields.io/badge/Livewire-2.0%2B-blue?style=flat-square)
 
+* Filament [Feature Flags](https://github.com/stephenjude/filament-feature-flags) Filament implementation of feature flags and segmentation with Laravel Pennant. <!-- pennant, filament, flags -->
+
 * Laravel [FFMpeg](https://github.com/ProjektGopher/laravel-ffmpeg-tools) Tools and utilities to help generate complex strings for FFMpeg in Laravel.
 
 * [Flaky for Laravel](https://github.com/hammerstonedev/flaky) is a package that helps you handle operations that may have intermittent failures due to unreliable third-parties.
@@ -223,6 +225,9 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [LaraDumps](https://laradumps.dev/) is a friendly app designed to boost your Laravel PHP coding and debugging experience.
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0+%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8.75+%2B-blue?style=flat-square)
+
+* [LARAGRAM](https://github.com/Mirmuxsin/laragram). Simple laravel package to use telegram bot API inside your laravel project <!-- telegram -->
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0+%2B-blue?style=flat-square)
 
 * [LevelUp](https://github.com/cjmellor/level-up). This package allows users to gain experience points (XP) and progress through levels by performing actions on your site. It can provide a simple way to track user progress and implement gamification elements into your application. <!-- gamification -->
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.2%2B-blue?style=flat-square)
@@ -272,6 +277,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [Notion API](https://github.com/5am-code/laravel-notion-api) for Laravel is a package to effortlessly create [Notion](https://www.notion.so/) integrations with Laravel
 
+* [Ollama](https://github.com/cloudstudio/ollama-laravel) Laravel Package that provides a seamless integration with the [Ollama API](https://github.com/jmorganca/ollama). It includes functionalities for model management, prompt generation, format setting, and more. This package is perfect for developers looking to leverage the power of the Ollama API in their Laravel applications.
+
 * Laravel [Onboard](https://github.com/spatie/laravel-onboard) package to set up an onboarding flow for your application's users and help track user onboarding steps.
 
 * [OPcodes's Log Viewer](https://github.com/opcodesio/log-viewer) helps you quickly and clearly see individual log entries, to search, filter, and make sense of your Laravel logs fast.
@@ -294,11 +301,15 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * Laravel [Passwordless Login](https://github.com/grosv/laravel-passwordless-login) A simple, safe magic login link generator for Laravel. <!-- login, password -->
 
+* Laravel [Pennant](https://github.com/laravel/pennant) is a simple, lightweight library for managing feature flags.
+
 * [PlanCraft](https://github.com/realrashid/plan-craft) is a powerful Laravel package engineered to revolutionize how you manage subscription plans and features within your Laravel SaaS application.
 
 * Laravel [Population](https://github.com/capsulescodes/laravel-population) package provides a set of commands that scan your migrations and detect any disparities between them and your database tables. If differences are found, a wizard is triggered to help you migrate and seed the new tables with converted records. <!-- migration -->
 
 * Laravel [Purity](https://github.com/abbasudo/laravel-purity) is an elegant and efficient filtering and sorting package for Laravel, designed to simplify complex data filtering and sorting logic for eloquent queries. By simply adding filter() to your Eloquent query, you can add the ability for frontend users to apply filters based on URL query string parameters like a breeze. <!-- eloquent, model, filtering, sorting -->
+
+* [Self-healing URLs in Laravel](https://github.com/motomedialab/laravel-self-healing-urls) This lightweight package allows you to create URLs that are able to self-heal, regardless of the slug provided. This is great for SEO purposes, allowing you to change slugs without worrying, and will force a 301 redirect to the correct URL. <!-- url, route, slug -->
 
 * Laravel [Social Link Validator](https://github.com/ageekdev/laravel-social-link-validator). You can validate the social profile link by using of this package. <!-- social -->
   
@@ -349,6 +360,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [Saloon Laravel Integration](https://docs.saloon.dev/digging-deeper/laravel-integration) is a PHP library that provides you with a beautiful API integration framework. It gives you all the tools you need to build and test API integrations for your application or SDKs.
   ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9.0%2B-blue?style=flat-square) <!-- api, http client -->
+
+* Laravel [Schema Rules](https://github.com/laracraft-tech/laravel-schema-rules) Automatically generate basic Laravel validation rules based on your database table schema! Use these as a starting point to fine-tune and optimize your validation rules as needed. <!-- schema, database -->
 
 * Laravel [SpellNumber](https://rmunate.github.io/SpellNumber) Easily convert numbers to words in Laravel using this library, which leverages the native PHP INTL extension to perform conversion effortlessly. With this library, you can convert numbers to words in various languages and also obtain the value in currency format according to the selected language. 
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
