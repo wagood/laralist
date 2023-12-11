@@ -30,6 +30,8 @@ List of usefull resources and projects about Laravel
 * [Arcanist](https://laravel-arcanist.com/) provides a simple, yet powerful approach for adding multi-step form wizards to your Laravel application. It takes care of all the boring details so you can spend your time writing features, not boilerplate.
 <!-- form, view -->  
 
+* Laravel [Async](https://github.com/saeedvaziry/laravel-async) is a simple package for Laravel that enables you to run your code asynchronously without using the workers and Supervisor! Currently, it only supports Linux and Unix-based operating systems.
+
 * Laravel [Attributes] (https://github.com/milwad-dev/laravel-attributes) is a package for create attributes easy.
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9.0%2B-blue?style=flat-square)
@@ -195,6 +197,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * Laravel [Google Analytics](https://github.com/vormkracht10/laravel-google-analytics-v4) v4 retrieve all data like pageviews, events, ecommerce transactions and more from Google Analytics version 4 using the Google API.
 
+* Laravel [Hashids](https://github.com/vinkla/laravel-hashids) generate YouTube-like ids from numbers. Use it when you don't want to expose your database numeric ids to users
+
 * Laravel[Helpers](https://github.com/rmunate/LaravelHelpers). Standard creation and and use of helpers within the Laravel framework through classes, a simple, efficient, and elegant way to execute your application's own methods from any class or view.
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8.0%2B-blue?style=flat-square)
 
@@ -229,6 +233,9 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [LARAGRAM](https://github.com/Mirmuxsin/laragram). Simple laravel package to use telegram bot API inside your laravel project <!-- telegram -->
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0+%2B-blue?style=flat-square)
 
+* [Lazy JSON](https://github.com/cerbero90/lazy-json) package to load JSON of any size and from any source into Laravel lazy collections <!-- json, collection -->
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1+%2B-blue?style=flat-square)
+
 * [LevelUp](https://github.com/cjmellor/level-up). This package allows users to gain experience points (XP) and progress through levels by performing actions on your site. It can provide a simple way to track user progress and implement gamification elements into your application. <!-- gamification -->
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.2%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10%2B-blue?style=flat-square)
@@ -240,6 +247,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [Location](https://github.com/stevebauman/location) Retrieve a visitor's location from their IP address using various services. <!-- location, maxmind -->
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8%2B-blue?style=flat-square)
+
+* Laravel [Logdesk](https://github.com/jhonoryza/laravel-logdesk) send log messages to desktop app. 
 
 * [Lunar](https://lunarphp.io/). An open-source package that brings the power of modern headless e-commerce functionality to Laravel. [Full documentation](https://docs.lunarphp.io/) Includes in-depth guides on everything Lunar. [https://github.com/lunarphp/lunar](https://github.com/lunarphp/lunar) set of Laravel packages that bring functionality akin to Shopify and other e-commerce platforms to Laravel.
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
