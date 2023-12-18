@@ -22,6 +22,8 @@ List of usefull resources and projects about Laravel
 * Laravel [Analytics](https://github.com/wdev-rs/laravel-analytics) small analytics package.
 <!-- analytics -->
 
+* Laravel [API Response Formatter](https://github.com/ymigval/laravel-sl-response) simplifies API response management in Laravel applications. It allows you to structure and format API responses with ease, ensuring consistency and adherence to API standards. <!-- API, response -->
+  
 * Laravel [API tool kit](https://github.com/ahmedesa/laravel-api-tool-kit) Supercharge your API development with the API Toolkit, using standardized responses, dynamic pagination, advanced filtering, one-click full CRUD setup, logic clarity, media mastery, and crystal-clear enums. <!-- api -->
 
 * [Approval](https://github.com/cjmellor/approval) is a Laravel package that provides a simple way to approve new Model data before it is persisted.
@@ -165,6 +167,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [Filament Card Stack](https://github.com/rmitesh/card-stack)
 <!-- filament -->
 
+* [LaraFileEncrypter](https://github.com/misterdebug/laravel-file-encrypter) Secure your files in Laravel with AES-256 encryption, without persistent key storage hassle. <!-- encrypt -->
+
 * [LaraFlash](https://github.com/binkapS/Laraflash). Flash Session messages for Laravel and Livewire
 
 * Laravel-[Gigapay](https://github.com/mazimez/laravel-gigapay) A simple API wrapper for Gigapay's APIs. It gives you helper methods that will make your work with gigapay's API easy, fast and efficient
@@ -293,6 +297,7 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [OPcodes's Log Viewer](https://github.com/opcodesio/log-viewer) helps you quickly and clearly see individual log entries, to search, filter, and make sense of your Laravel logs fast.
 
 * [OpenAI](https://github.com/openai-php/laravel) for Laravel is a community-maintained PHP API client that allows you to interact with the Open AI API.
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
 
 * A helper to query and format a set of [opening hours](https://github.com/spatie/opening-hours)
 
@@ -309,6 +314,11 @@ Cookies registration & configuration, Blade views & translation files for consen
 * Laravel [Pastable Model](https://github.com/elipZis/laravel-pastable-model) Enable your models to regularly cut/copy & paste their data into another table. <!-- eloquent, model -->
 
 * Laravel [Passwordless Login](https://github.com/grosv/laravel-passwordless-login) A simple, safe magic login link generator for Laravel. <!-- login, password -->
+ 
+* Laravel [Pay Pocket](https://github.com/HPWebdeveloper/laravel-pay-pocket) s a package designed for Laravel applications, offering the flexibility to manage multiple wallet types within two dedicated database tables, wallets and wallets_logs.
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10%2B-blue?style=flat-square)
+  
 
 * Laravel [Pennant](https://github.com/laravel/pennant) is a simple, lightweight library for managing feature flags.
 
@@ -372,6 +382,10 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * Laravel [Schema Rules](https://github.com/laracraft-tech/laravel-schema-rules) Automatically generate basic Laravel validation rules based on your database table schema! Use these as a starting point to fine-tune and optimize your validation rules as needed. <!-- schema, database -->
 
+* Laravel [Setting Pro](https://github.com/sajadsdi/laravel-setting-pro) Effortless Management of Laravel Application Settings.
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9%2B-blue?style=flat-square)
+
 * Laravel [SpellNumber](https://rmunate.github.io/SpellNumber) Easily convert numbers to words in Laravel using this library, which leverages the native PHP INTL extension to perform conversion effortlessly. With this library, you can convert numbers to words in various languages and also obtain the value in currency format according to the selected language. 
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8%2B-blue?style=flat-square)
@@ -409,6 +423,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [Laravel Package for Statsig](https://github.com/ziming/laravel-statsig). A Feature Gate & A/B Testing Platform with a somewhat decent free tier. <!-- statistics -->
 
 * [Strictus](https://github.com/php-strictus/strictus) brings strict typing for local variables into PHP. With Strictus, you can control the types of local variables using different patterns.
+
+* Laravel [Stream Log](https://github.com/saasscaleup/laravel-stream-log) Easily stream your Laravel application logs to the frontend in real-time using server-sent event (SSE)
 
 * [Sushi](https://github.com/calebporzio/sushi) Eloquent's missing "array" driver. Sometimes you want to use Eloquent, but without dealing with a database.
 
@@ -507,6 +523,7 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [Monaco Editor in Laravel Livewire](https://gdebrauwer.dev/blog/monaco-editor-in-laravel-livewire/) <!-- livewire, monaco editor -->
 * [Optimally creating a fresh Laravel project](https://devdojo.com/bluepundit/optimally-creating-a-fresh-laravel-project)
 * [Optimizing Laravel Eloquent queries](https://www.csrhymes.com/2023/10/22/optimizing-laravel-eloquent-queries.html)
+* [Organize Laravel tools on a unique subdomain](https://capsules.codes/en/blog/fyi/en-fyi-organize-laravel-tools-on-a-unique-subdomain)
 * [Improving Client Side Pagination With Livewire](https://fly.io/laravel-bytes/client-pagination-livewire/)
 * 4 Ways to [Pass Data to All Views](https://laracoding.com/4-ways-to-pass-data-to-all-views-in-laravel/) in Laravel
 * [Password confirmation](https://leopoletto.com/password-confirmation-for-sensitive-actions-on-laravel/) for sensitive actions on Laravel
