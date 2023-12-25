@@ -98,6 +98,8 @@ List of usefull resources and projects about Laravel
 
 * Laravel Blade [Comments](https://github.com/spatie/laravel-blade-comments). Add debug comments to your rendered output
 
+* [LaraCollab](https://github.com/vstruhar/lara-collab), developed with Laravel and React, serves as a project management tool. The primary idea behind this initiative is to provide developers or development companies with a free platform to efficiently manage clients, projects, log time, and generate invoices.
+
 * Laravel [Cookie Consent](https://github.com/whitecube/laravel-cookie-consent) package provides all the tools you'll need to cover a proper EU-compliant cookies policy:
 Cookies registration & configuration, Blade views & translation files for consent alerts & pop-ups, Blade directives & Facade methods making your life easier, JavaScript code that will enhance front-end user experience
 <!-- cookie, GDPR -->
@@ -201,6 +203,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * Laravel [Google Analytics](https://github.com/vormkracht10/laravel-google-analytics-v4) v4 retrieve all data like pageviews, events, ecommerce transactions and more from Google Analytics version 4 using the Google API.
 
+* Spatie [Image](https://github.com/spatie/image) Manipulate images with an expressive API. You'll find examples in the [full documentation](https://docs.spatie.be/image). <!-- image -->
+
 * Laravel [Hashids](https://github.com/vinkla/laravel-hashids) generate YouTube-like ids from numbers. Use it when you don't want to expose your database numeric ids to users
 
 * Laravel[Helpers](https://github.com/rmunate/LaravelHelpers). Standard creation and and use of helpers within the Laravel framework through classes, a simple, efficient, and elegant way to execute your application's own methods from any class or view.
@@ -252,6 +256,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8%2B-blue?style=flat-square)
 
+* [Laravel Lang](https://laravel-lang.com/) projects allow you to easily connect translation packages to your project that serve different tasks.
+
 * Laravel [Logdesk](https://github.com/jhonoryza/laravel-logdesk) send log messages to desktop app. 
 
 * [Lunar](https://lunarphp.io/). An open-source package that brings the power of modern headless e-commerce functionality to Laravel. [Full documentation](https://docs.lunarphp.io/) Includes in-depth guides on everything Lunar. [https://github.com/lunarphp/lunar](https://github.com/lunarphp/lunar) set of Laravel packages that bring functionality akin to Shopify and other e-commerce platforms to Laravel.
@@ -271,6 +277,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [Media Encrypt](https://github.com/hoanxuanmai/media-encrypt) is a powerful PHP package designed for encrypting sensitive data before storing it in a database. This package provides a secure solution to protect your critical data from unauthorized access.
 
+* Laravel [Media Library](https://github.com/spatie/laravel-medialibrary). This package can associate all sorts of files with Eloquent models. It provides a simple, fluent API to work with. To learn all about it, head over to the [extensive documentation](https://spatie.be/docs/laravel-medialibrary).
+
 * [Metrics](https://github.com/eliseekn/laravel-metrics) for Laravel. Generate easily metrics and trends data of your models for your dashboards. <!-- metrics, dashboard, statistic -->
 
 * [MII](https://github.com/techmahedy/mini-laravel). A basic PHP MVC framework design in a way that you feel like you are working in a Laravel application. In this framework you will get all the basic features of a web application needs like routing, middleware, dependency injection, eloquent relationship, model, blade template engine and interface injection and many mores. <!-- framework -->
@@ -280,6 +288,7 @@ Cookies registration & configuration, Blade views & translation files for consen
 * Laravel [MockApi](https://github.com/lichtner/laravel-mock-api) is a powerful yet lightweight library designed for mocking external APIs and web services.
 
 * Laravel-[model-filter](https://github.com/lacodix/laravel-model-filter/) Package allows you to filter, search and sort models while fetching from database with ease. It contains additional functionality to use query strings to filter, search and sort.
+
 * Laravel [Multipayment Gateways](https://github.com/MusahMusah/laravel-multipayment-gateways) package provides a convenient way to handle payments through multiple payment gateways in a Laravel 8, 9 and 10 application. The package currently supports multiple gateways such as Paystack, Flutterwave and Stripe.
 
 * Google [Natural Language API package for Laravel](https://github.com/JoggApp/laravel-natural-language) makes using the Google Natural Language Processing (NLP) API in your Laravel app a breeze with minimum to no configuration, clean syntax, and a consistent package API.
@@ -289,6 +298,9 @@ Cookies registration & configuration, Blade views & translation files for consen
 * Laravel-[notification-log](https://github.com/spatie/laravel-notification-log) Package will log all the notifications sent by your app. This will allow you to write logic based on the notifications your app has sent. [DOC](https://spatie.be/docs/laravel-notification-log/v1/introduction), [Tutorial](https://freek.dev/2437-log-all-notifications-sent-by-your-laravel-app)
 
 * [Notion API](https://github.com/5am-code/laravel-notion-api) for Laravel is a package to effortlessly create [Notion](https://www.notion.so/) integrations with Laravel
+
+* [Nutgram](https://github.com/nutgram/nutgram) This framework takes advantage of the latest PHP 8.2 features, and tries to make the speed, scalability and flexibility of use its strength, it will allow you to quickly make simple bots, but at the same time, it provides more advanced features to handle even the most complicated flows. <!-- telegram --> 
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.2%2B-blue?style=flat-square)
 
 * [Ollama](https://github.com/cloudstudio/ollama-laravel) Laravel Package that provides a seamless integration with the [Ollama API](https://github.com/jmorganca/ollama). It includes functionalities for model management, prompt generation, format setting, and more. This package is perfect for developers looking to leverage the power of the Ollama API in their Laravel applications.
 
