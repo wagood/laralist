@@ -123,6 +123,9 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [Drag & drop editor](https://dropblockeditor.com/) for your Livewire powered blocks. Create your own blocks and make them editable with Livewire components. DropBlockEditor is made for Laravel and with Livewire, Alpine.JS and Tailwind CSS.
 
+* [Livewire Dropzone](https://github.com/dasundev/livewire-dropzone) This dropzone component for Livewire enables easy drag-and-drop file uploads.
+![Supported PHP Versions](https://img.shields.io/badge/Livewire-3.0%2B-blue?style=flat-square)
+
 * [Dynamic Database Config](https://github.com/ikechukwukalu/dynamicdatabaseconfig) helps you dynamically set more database configurations through the `.env` file or `database`.
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9.0%2B-blue?style=flat-square)
@@ -368,6 +371,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [RouterOS API Client](https://github.com/EvilFreelancer/routeros-api-php) with Laravel support <!-- api, routeros, mikrotik -->
 
 * [PayPal Webhooks Client](https://github.com/ankurk91/laravel-paypal-webhooks) for Laravel handle PayPal webhooks in Laravel php framework.
+
+* [Laravel PDF](https://github.com/spatie/laravel-pdf) This package provides a simple way to create PDFs in Laravel apps. Under the hood it uses Chromium to generate PDFs from Blade views. You can use modern CSS features like grid and flexbox to create beautiful PDFs. <!-- pdf -->
 
 * [PHP2JS](https://rmunate.github.io/PHP2JS) Share PHP-defined variables directly with the JavaScript files you want to use in your system. <!-- js, javascript -->
   
