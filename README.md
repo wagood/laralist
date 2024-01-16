@@ -26,6 +26,9 @@ List of usefull resources and projects about Laravel
   
 * Laravel [API tool kit](https://github.com/ahmedesa/laravel-api-tool-kit) Supercharge your API development with the API Toolkit, using standardized responses, dynamic pagination, advanced filtering, one-click full CRUD setup, logic clarity, media mastery, and crystal-clear enums. <!-- api -->
 
+* Laravel Missed API Response [Wrapper](https://github.com/negartarh/apiwrapper) Super fast, lightweight, standard, octane friendly, and high customizable wrapper for Laravel API responses <!-- api -->
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
+
 * [Approval](https://github.com/cjmellor/approval) is a Laravel package that provides a simple way to approve new Model data before it is persisted.
 <!-- eloquent, model -->
   
@@ -51,6 +54,8 @@ List of usefull resources and projects about Laravel
 
 * Restore database [backups](https://github.com/stefanzweifel/laravel-backup-restore) made with [spatie/laravel-backup](https://spatie.be/docs/laravel-backup/v8/introduction)
 <!-- backup -->
+
+* [Bagisto](https://bagisto.com/) An Open source Laravel eCommerce platform for building marketplaces, mobile apps, blockchain and headless commerce. <!-- ecommerce -->
 
 * [BanHammer](https://github.com/mchev/banhammer "Banhammer, a Model and IP ban package for Laravel"), a Model and IP ban package for Laravel
 <!-- eloquent, model -->
@@ -79,6 +84,8 @@ List of usefull resources and projects about Laravel
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
 
 * Laravel [Castable Data Transfer Object](https://github.com/jessarcher/laravel-castable-data-transfer-object) cast JSON columns to a value object.
+
+* [laravel-chartjs](https://github.com/icehouse-ventures/laravel-chartjs) - A Chart.js wrapper for Laravel <!-- chart.js -->
   
 * [Chartello](https://github.com/chartello/chartello "Chartello") provides a simple UI for visualizing your data in your Laravel-powered app.
 
@@ -334,7 +341,6 @@ Cookies registration & configuration, Blade views & translation files for consen
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10%2B-blue?style=flat-square)
   
-
 * Laravel [Pennant](https://github.com/laravel/pennant) is a simple, lightweight library for managing feature flags.
 
 * [PlanCraft](https://github.com/realrashid/plan-craft) is a powerful Laravel package engineered to revolutionize how you manage subscription plans and features within your Laravel SaaS application.
@@ -342,6 +348,9 @@ Cookies registration & configuration, Blade views & translation files for consen
 * Laravel [Population](https://github.com/capsulescodes/laravel-population) package provides a set of commands that scan your migrations and detect any disparities between them and your database tables. If differences are found, a wizard is triggered to help you migrate and seed the new tables with converted records. <!-- migration -->
 
 * Laravel [Purity](https://github.com/abbasudo/laravel-purity) is an elegant and efficient filtering and sorting package for Laravel, designed to simplify complex data filtering and sorting logic for eloquent queries. By simply adding filter() to your Eloquent query, you can add the ability for frontend users to apply filters based on URL query string parameters like a breeze. <!-- eloquent, model, filtering, sorting -->
+
+* [Searchable](https://github.com/hetparekh21/Searchable) Effortlessly add search functionality to your Laravel models. <!-- eloquent, model, search -->
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
 
 * [Self-healing URLs in Laravel](https://github.com/motomedialab/laravel-self-healing-urls) This lightweight package allows you to create URLs that are able to self-heal, regardless of the slug provided. This is great for SEO purposes, allowing you to change slugs without worrying, and will force a 301 redirect to the correct URL. <!-- url, route, slug -->
 
@@ -448,6 +457,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [Tagify](https://github.com/usamamuneerchaudhary/laravel-tagify "Tagify") is a simple Tagging Package for Laravel. Using this package, you can simply tag, untag or retag any existing model in your laravel app. [Tutorial](https://thewebtier.com/how-to-implement-tagging-to-laravel-models-with-tagify)
 
 * [TailwindMerge](https://github.com/gehrisandro/tailwind-merge-laravel) for Laravel allows you to merge multiple Tailwind CSS classes and automatically resolves conflicts between classes by removing classes conflicting with a class defined later. This is especially helpful when you want to override Tailwind CSS classes in your Blade components. <!-- tailwind -->
+
+* [Temporary Directory](https://github.com/spatie/temporary-directory) This package allows you to quickly create, use and delete a temporary directory in the system's temporary directory.
 
 * [Beautiful toast notifications for Livewire](https://github.com/masmerise/livewire-toaster)
 
