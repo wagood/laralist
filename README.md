@@ -125,6 +125,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * Laravel [Device Detector](https://github.com/reefki/laravel-device-detector). The Laravel wrapper for [Matomo Universal Device Detection](https://github.com/matomo-org/device-detector) library seamlessly integrates device detection capabilities into Laravel applications. <!-- device detector -->
 
+* [Discountify](https://github.com/safemood/discountify) is a Laravel package designed for managing dynamic discounts with custom conditions. It allows you to create flexible and powerful discounting strategies, easily defining conditions and applying percentage-based discounts to enhance your e-commerce application.
+
 * [Docgen for Laravel Facade](https://github.com/irazasyed/docgen) Streamline your Laravel package development with automatic facade documentation using Docgen for Laravel Facade.
 * Laravel [Domain Driven Design DDD](https://github.com/thejano/laravel-domain-driven-design "Laravel Domain Driven Design") is a software development approach that emphasizes understanding and modeling the business domain. The goal is to create software that aligns with the needs of the business and is easier to maintain. [DOC](https://ddd.thejano.com/guide/)
 
@@ -244,6 +246,9 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [LdapRecord](https://github.com/DirectoryTree/LdapRecord-Laravel) Integrate LDAP into your Laravel application.
 
+* [Laracord](https://github.com/laracord/laracord) is a micro-framework that provides a powerful starting point for your next Discord bot. <!-- discord bot -->
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1+%2B-blue?style=flat-square)
+
 * [LaraDumps](https://laradumps.dev/) is a friendly app designed to boost your Laravel PHP coding and debugging experience.
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0+%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8.75+%2B-blue?style=flat-square)
@@ -298,6 +303,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 * Laravel [MockApi](https://github.com/lichtner/laravel-mock-api) is a powerful yet lightweight library designed for mocking external APIs and web services.
 
 * Laravel-[model-filter](https://github.com/lacodix/laravel-model-filter/) Package allows you to filter, search and sort models while fetching from database with ease. It contains additional functionality to use query strings to filter, search and sort.
+
+* Laravel [Model Expires](https://github.com/maize-tech/laravel-model-expires) With this package you can add expiration date to any model and exclude expired models from queries. When needed, you could send a notification for expiring models. You can also set a deletion date for every model and automatically clean them up with a command.
 
 * Laravel [Multipayment Gateways](https://github.com/MusahMusah/laravel-multipayment-gateways) package provides a convenient way to handle payments through multiple payment gateways in a Laravel 8, 9 and 10 application. The package currently supports multiple gateways such as Paystack, Flutterwave and Stripe.
 
@@ -462,6 +469,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [Beautiful toast notifications for Livewire](https://github.com/masmerise/livewire-toaster)
 
+* [Token-Usage](https://github.com/cloudstudio/token-usage) is a Laravel package that provides advanced token management functionalities for Laravel applications. It offers features for tracking token usage, setting token limits based on different time periods, and integrating these checks easily into Laravel applications.
+
 * Lara [Translate](https://github.com/manadinho/lara-translate) is a package that enables you to manage your translations efficiently. One of its remarkable features is the ability to seamlessly translate keys from one language to another directly from the User Interface. More impressive Thing is that it works for free. Behind the scenes, it leverages the MyMemory API to handle key translations. <!-- translate -->
 
 * Laravel [Translation](https://github.com/spatie/laravel-translation-loader) Loader. Store your language lines in the database <!-- translate -->
@@ -598,10 +607,12 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [JSON Parser](https://github.com/cerbero90/json-parser). Zero-dependencies pull parser to read large JSON from any source in a memory-efficient way. [Docs](https://mailcarrier.app/docs/getting-started/installation) <!-- json, parser -->
 
 * [MailCarrier](https://github.com/mailcarrierapp/mailcarrier). User friendly, provider-aware, mailing platform with templates and logs included.
-  
+* [Tabler](https://tabler.io/) is a free and open source web application UI kit based on Bootstrap 5, with hundreds responsive components and multiple layouts.  
 * Tectalic [OpenAI](https://tectalic.com/apis/openai/docs/php) REST API Client s a package that provides a convenient and straightforward way to interact with the OpenAI API from your PHP application.
+* [Typesense](https://typesense.org/) The Open Source Alternative to Algolia + Pinecone. The Easier To Use Alternative to Elasticsearch
 * [Pest](https://pestphp.com/) is a testing framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP. <!-- testing -->
 * [PHP Crypter](https://github.com/chr1sc0des/phpcrypter) A PHP Source Code Encrypter <!-- encryption -->
+* [Quill](https://quilljs.com/)  is a free, open source WYSIWYG editor built for the modern web. With its modular architecture and expressive API, it is completely customizable to fit any need.
 * [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) These cheat sheets were created by various application security professionals who have expertise in specific topics.
 * [Rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring. [Automated Refactoring With Rector](https://tighten.com/insights/automated-refactoring-with-rector-php/)
 * [Saloon](https://github.com/Sammyjo20/Saloon) – Your Lone Star of your API integrations. Saloon is a PHP library that provides you with a beautiful API integration framework. It gives you all the tools you need to build and test API integrations for your application or SDKs. [Docs](https://docs.saloon.dev/) <!-- api, http client -->
