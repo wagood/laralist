@@ -96,6 +96,10 @@ List of usefull resources and projects about Laravel
 * Lara [Client](https://github.com/usamamuneerchaudhary/laraclient) simplifies the process of working with APIs in Laravel, making it easy to handle authentication, rate limiting, and error handling. It allows to set up several API connections in a central configuration file, specifying the credentials for each connection.
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
 
+* Laravel [Config Validator](https://github.com/ash-jc-allen/laravel-config-validator). Package that allows you to validate your config values and environment. <!-- config, validation -->
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8.0%2B-blue?style=flat-square)
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
+
 * Laravel [Connective](https://github.com/AuroraWebSoftware/connective) package provides a simple and intuitive way to establish connections between Eloquent models. It allows you to define different connection types and manage relationships between models.
 
 * [Commentify](https://github.com/usamamuneerchaudhary/commentify) - Laravel Livewire Comments. Commentify is a powerful Laravel Livewire package designed to provide an easy-to-integrate commenting system for any model in your Laravel application. Powered by Livewire, this package offers a seamless commenting experience that is powered by Tailwind UI, making it easy for users to engage with your content.
@@ -449,6 +453,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [Spreadsheet translations](https://github.com/orkhanahmadov/spreadsheet-translations) for Laravel create translation files from spreadsheet.
 
+* [Statamatic](https://statamic.com/) is a modern, clean, and highly adaptable CMS built on Laravel that can run full-stack, headless, on flat files or databases, or as a static site generator. <!-- CMS -->
+
 * [Lemon Squeezy for Laravel](https://github.com/lmsqueezy/laravel) easily integrate your Laravel application with [Lemon Squeezy](https://www.lemonsqueezy.com/).
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10.0+%2B-blue?style=flat-square)
@@ -495,6 +501,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 * Laravel [Validate](https://github.com/milwad-dev/laravel-validate) is a package for validate faster & easier. You can validate data easier, Laravel validate have lots of rule class for validation.
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9%2B-blue?style=flat-square)
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8%2B-blue?style=flat-square)
+
+* Laravel [VAT Number Checker](https://github.com/BurtDS/laravel-vatnumber-checker) A small package that allows you to easily retrieve information associated with a VAT number. Verification of validity, company name, and address of the company is only one api call away.
 
 * [Veriphone Service](https://github.com/slvler/veriphone-service) This package provides a convenient wrapper to the [Veriphone API](https://veriphone.io/docs/v2) for Laravel applications.
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9%2B-blue?style=flat-square)
