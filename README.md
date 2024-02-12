@@ -45,6 +45,8 @@ List of usefull resources and projects about Laravel
 * [Artisan RunX](https://github.com/monurakkaya/artisan-runx) Run multiple Laravel Artisan commands with a single command
 <!-- artisan, console -->
 
+* [ASetting](https://github.com/AuroraWebSoftware/ASetting) is a Laravel package that allows you to manage settings dynamically in your Laravel applications. With this package, you can organize settings in groups stored in the database, supporting various types of settings for easy management. <!-- setting -->
+
 * [Avatar](https://github.com/laravolt/avatar) Display unique avatar for any user based on their (initials) name.
 
 * [Azure Email Communication Service (ECS)](https://github.com/hafael/azure-mailer-driver) for Laravel. This library provides developers with a simple set of features for sending Laravel Framework emails through the Microsoft Azure ECS service.
@@ -231,7 +233,9 @@ Cookies registration & configuration, Blade views & translation files for consen
 * Laravel-[htmx](https://github.com/mauricius/laravel-htmx) Laravel integration for [htmx](https://htmx.org/)  <!-- htmx -->
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8.8%2B-blue?style=flat-square)
 
-* [Hooks for Alpine.js](https://github.com/ryangjchandler/alpine-hooks) contains a variety of hooks for [Alpine.js](https://alpinejs.dev/) that can be used to improve the developer experience of common front-end development tasks.
+* [HTTP Precondition for Laravel](https://github.com/onursimsek/precondition) A client has requested a resource from you (GET), and after a while wants to update the resource and send it back to you (PUT). <!-- http -->
+
+* [Hooks for Alpine.js](https://github.com/ryangjchandler/alpine-hooks) contains a variety of hooks for [Alpine.js](https://alpinejs.dev/) that can be used to improve the developer experience of common front-end development tasks. <!-- alpine.js -->
 
 * Laravel [HMVC](https://github.com/hexters/laramodule "Laravel HMVC") is a Laravel package that allows developers to organize and manage modules within their web application
 
@@ -566,6 +570,7 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [Managing files using Laravel's scoped driver](https://innocenzi.dev/articles/managing-files-using-laravels-scoped-driver)
 * [Migrate passwords](https://leopoletto.com/migrate-password-from-a-legacy-php-application-to-laravel/) from a legacy PHP application to Laravel
 * [Monaco Editor in Laravel Livewire](https://gdebrauwer.dev/blog/monaco-editor-in-laravel-livewire/) <!-- livewire, monaco editor -->
+* [Laravel Notification Channels](https://laravel-notification-channels.com/) A collection of custom notification drivers for Laravel. 
 * [Optimally creating a fresh Laravel project](https://devdojo.com/bluepundit/optimally-creating-a-fresh-laravel-project)
 * [Optimizing Laravel Eloquent queries](https://www.csrhymes.com/2023/10/22/optimizing-laravel-eloquent-queries.html)
 * [Organize Laravel tools on a unique subdomain](https://capsules.codes/en/blog/fyi/en-fyi-organize-laravel-tools-on-a-unique-subdomain)
