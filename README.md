@@ -528,6 +528,10 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [Wallet](https://github.com/stephenjude/laravel-wallet "Wallet") is a simple wallet implementation for Laravel <!-- payment -->
 
+* Laravel [Wallet](https://github.com/021-projects/laravel-wallet) is a sophisticated PHP package designed to deliver a robust and flexible transaction engine, emulating the reliability found in traditional banking systems. <!-- payment, wallet -->
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10%2B-blue?style=flat-square)
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
+
 * [Waterhole](https://waterhole.dev/) The Laravel-powered discussion platform giving life to vibrant online communities for brands, creators, and teams. <!-- forum, discussion  -->
 
 * Laravel [Webhooks](https://github.com/JustSteveKing/laravel-webhooks). A simple webhook implementation for Laravel. <!-- webhook -->
