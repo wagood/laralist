@@ -225,6 +225,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * Laravel [Hashids](https://github.com/vinkla/laravel-hashids) generate YouTube-like ids from numbers. Use it when you don't want to expose your database numeric ids to users
 
+* Laravel [Hash Id](https://github.com/AmRo045/LaravelHashId) 
+
 * Laravel[Helpers](https://github.com/rmunate/LaravelHelpers). Standard creation and and use of helpers within the Laravel framework through classes, a simple, efficient, and elegant way to execute your application's own methods from any class or view.
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8.0%2B-blue?style=flat-square)
 
@@ -314,6 +316,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * Laravel [Model Expires](https://github.com/maize-tech/laravel-model-expires) With this package you can add expiration date to any model and exclude expired models from queries. When needed, you could send a notification for expiring models. You can also set a deletion date for every model and automatically clean them up with a command.
 
+* [Modular](https://github.com/InterNACHI/modular) is a module system for Laravel applications. It uses Composer path repositories for autoloading, and Laravel package discovery for module initialization, and then provides minimal tooling to fill in any gaps.
+  
 * Laravel [Multipayment Gateways](https://github.com/MusahMusah/laravel-multipayment-gateways) package provides a convenient way to handle payments through multiple payment gateways in a Laravel 8, 9 and 10 application. The package currently supports multiple gateways such as Paystack, Flutterwave and Stripe.
 
 * Google [Natural Language API package for Laravel](https://github.com/JoggApp/laravel-natural-language) makes using the Google Natural Language Processing (NLP) API in your Laravel app a breeze with minimum to no configuration, clean syntax, and a consistent package API.
