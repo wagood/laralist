@@ -269,6 +269,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [Lazy JSON](https://github.com/cerbero90/lazy-json) package to load JSON of any size and from any source into Laravel lazy collections <!-- json, collection -->
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1+%2B-blue?style=flat-square)
 
+* Laravel [JWT Tools](https://github.com/stechstudio/laravel-jwt) This package wraps the excellent lcobucci/jwt library with the following benefits: JWT facade; Enforces a minimal set of claims for generated tokens, like aud, iss, and exp; Validate parsed tokens; HTTP Middleware to validate a route-specific JWT ; Request macro to easily access route-specific JWT claims <!-- jwt -->
+
 * [LevelUp](https://github.com/cjmellor/level-up). This package allows users to gain experience points (XP) and progress through levels by performing actions on your site. It can provide a simple way to track user progress and implement gamification elements into your application. <!-- gamification -->
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.2%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10%2B-blue?style=flat-square)
@@ -481,6 +483,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [TailwindMerge](https://github.com/gehrisandro/tailwind-merge-laravel) for Laravel allows you to merge multiple Tailwind CSS classes and automatically resolves conflicts between classes by removing classes conflicting with a class defined later. This is especially helpful when you want to override Tailwind CSS classes in your Blade components. <!-- tailwind -->
 
+* Laravel [Taxify](https://github.com/omaralalwi/laravel-taxify) provides a set of helper functions and classes to simplify tax (VAT) calculations within Laravel applications. that allow developers to easily integrate tax calculation functionalities into their projects with multi tax profiles settings and (fixed, percentage) ways <!-- tax -->
+
 * [Temporary Directory](https://github.com/spatie/temporary-directory) This package allows you to quickly create, use and delete a temporary directory in the system's temporary directory.
 
 * [Beautiful toast notifications for Livewire](https://github.com/masmerise/livewire-toaster)
@@ -520,6 +524,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * Add [Version Control](https://github.com/RedSnapper/laravel-version-control) to Laravel Models
 <!-- model, eloquent -->
+
+* Eloquent [Viewable](https://github.com/cyrildewit/eloquent-viewable) Eloquent Viewable allows you to easiliy associate views with Eloquent models. <!-- model, eloquent -->
 
 * Laravel [Updater](https://github.com/salahhusa9/laravel-updater) This is a useful package for update your laravel project with one command/click.
 
