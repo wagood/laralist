@@ -364,6 +364,8 @@ Cookies registration & configuration, Blade views & translation files for consen
   
 * Laravel [Pennant](https://github.com/laravel/pennant) is a simple, lightweight library for managing feature flags.
 
+* Laravel [Phone](https://github.com/Propaganistas/Laravel-Phone) Adds phone number functionality to Laravel based on the PHP port of libphonenumber by Google.
+
 * [PlanCraft](https://github.com/realrashid/plan-craft) is a powerful Laravel package engineered to revolutionize how you manage subscription plans and features within your Laravel SaaS application.
 
 * Laravel [Population](https://github.com/capsulescodes/laravel-population) package provides a set of commands that scan your migrations and detect any disparities between them and your database tables. If differences are found, a wizard is triggered to help you migrate and seed the new tables with converted records. <!-- migration -->
