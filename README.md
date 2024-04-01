@@ -520,6 +520,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * Laravel [VAT Number Checker](https://github.com/BurtDS/laravel-vatnumber-checker) A small package that allows you to easily retrieve information associated with a VAT number. Verification of validity, company name, and address of the company is only one api call away.
 
+* [Verbs](https://verbs.thunk.dev/)  is a Laravel package that allows you to derive the state of your application from the events that have occurred. It's a simple, but extremely powerful, way to design your applications.
+  
 * [Veriphone Service](https://github.com/slvler/veriphone-service) This package provides a convenient wrapper to the [Veriphone API](https://veriphone.io/docs/v2) for Laravel applications.
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9%2B-blue?style=flat-square)
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8%2B-blue?style=flat-square)
