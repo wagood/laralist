@@ -271,6 +271,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * Laravel [JWT Tools](https://github.com/stechstudio/laravel-jwt) This package wraps the excellent lcobucci/jwt library with the following benefits: JWT facade; Enforces a minimal set of claims for generated tokens, like aud, iss, and exp; Validate parsed tokens; HTTP Middleware to validate a route-specific JWT ; Request macro to easily access route-specific JWT claims <!-- jwt -->
 
+* [Keycloak Guard](https://github.com/hussein4alaa/keycloak-guard-laravel) Laravel Package provides an integration between the Keycloak authentication server and a Laravel application. It allows you to use Keycloak as the authentication provider for your Laravel application. <!-- keycloack, auth-->
+
 * [LevelUp](https://github.com/cjmellor/level-up). This package allows users to gain experience points (XP) and progress through levels by performing actions on your site. It can provide a simple way to track user progress and implement gamification elements into your application. <!-- gamification -->
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.2%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10%2B-blue?style=flat-square)
@@ -364,6 +366,9 @@ Cookies registration & configuration, Blade views & translation files for consen
   
 * Laravel [Pennant](https://github.com/laravel/pennant) is a simple, lightweight library for managing feature flags.
 
+* [PDF Optimizer](https://github.com/mostafaznv/pdf-optimizer) stands as a robust PHP package meticulously crafted for effortless optimization and compression of PDF files. Whether you are engaged in a standalone PHP project or navigating the Laravel landscape, pdf-optimizer emerges as a powerful solution, utilizing the well-known ghostscript tool to significantly reduce PDF file sizes. <!-- PDF -->
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.2%2B-blue?style=flat-square)
+
 * Laravel [Phone](https://github.com/Propaganistas/Laravel-Phone) Adds phone number functionality to Laravel based on the PHP port of libphonenumber by Google.
 
 * [PlanCraft](https://github.com/realrashid/plan-craft) is a powerful Laravel package engineered to revolutionize how you manage subscription plans and features within your Laravel SaaS application.
@@ -408,6 +413,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [Laravel PDF](https://github.com/spatie/laravel-pdf) This package provides a simple way to create PDFs in Laravel apps. Under the hood it uses Chromium to generate PDFs from Blade views. You can use modern CSS features like grid and flexbox to create beautiful PDFs. <!-- pdf -->
 
+* [Laravel Phone](https://github.com/Propaganistas/Laravel-Phone) Adds phone number functionality to Laravel based on the PHP port of libphonenumber by Google
+
 * [PHP2JS](https://rmunate.github.io/PHP2JS) Share PHP-defined variables directly with the JavaScript files you want to use in your system. <!-- js, javascript -->
   
 * [PunchCard](https://github.com/TomasVotruba/punchcard) package provides basic fluent config classes for the Laravel project ```/config``` directory.
@@ -442,6 +449,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8%2B-blue?style=flat-square)
 
 * [Starter Kit for Laravel Sanctum](https://github.com/eliseekn/laravel-sanctum-starter-kit) ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10.0%2B-blue?style=flat-square) ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)<!-- api, sanctum -->
+
+* [Statamic](https://statamic.com/) is a modern, clean, and highly adaptable CMS built on Laravel that can run full-stack, headless, on flat files or databases, or as a static site generator.
 
 * Laravel [Scanator](https://github.com/YorCreative/Laravel-Scanator). A Laravel package that provides functionalities for detecting sensitive information and patterns in the database, helping to ensure data privacy and security by empowering developers to easily integrate database scanning capabilities into their applications and take proactive measures to protect sensitive data. <!-- security, database -->
 
