@@ -321,6 +321,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 * Laravel [Model Expires](https://github.com/maize-tech/laravel-model-expires) With this package you can add expiration date to any model and exclude expired models from queries. When needed, you could send a notification for expiring models. You can also set a deletion date for every model and automatically clean them up with a command.
 
 * [Modular](https://github.com/InterNACHI/modular) is a module system for Laravel applications. It uses Composer path repositories for autoloading, and Laravel package discovery for module initialization, and then provides minimal tooling to fill in any gaps.
+
+* [Moonshine](https://moonshine-laravel.com/docs) is great for creating admin panels, MVPs, backoffice applications, and content management systems (CMS). <!-- admin, cms-->
   
 * Laravel [Multipayment Gateways](https://github.com/MusahMusah/laravel-multipayment-gateways) package provides a convenient way to handle payments through multiple payment gateways in a Laravel 8, 9 and 10 application. The package currently supports multiple gateways such as Paystack, Flutterwave and Stripe.
 
@@ -376,6 +378,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 * Laravel [Population](https://github.com/capsulescodes/laravel-population) package provides a set of commands that scan your migrations and detect any disparities between them and your database tables. If differences are found, a wizard is triggered to help you migrate and seed the new tables with converted records. <!-- migration -->
 
 * Laravel [Purity](https://github.com/abbasudo/laravel-purity) is an elegant and efficient filtering and sorting package for Laravel, designed to simplify complex data filtering and sorting logic for eloquent queries. By simply adding filter() to your Eloquent query, you can add the ability for frontend users to apply filters based on URL query string parameters like a breeze. <!-- eloquent, model, filtering, sorting -->
+
+* [Replicate Laravel PHP client](https://github.com/halilcosdu/laravel-replicate) is a Laravel client for the Replicate API. It provides a convenient way to interact with the Replicate API using PHP and Laravel's Facade pattern. <!-- replicate, api -->
 
 * [Searchable](https://github.com/hetparekh21/Searchable) Effortlessly add search functionality to your Laravel models. <!-- eloquent, model, search -->
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
