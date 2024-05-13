@@ -133,6 +133,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [Discountify](https://github.com/safemood/discountify) is a Laravel package designed for managing dynamic discounts with custom conditions. It allows you to create flexible and powerful discounting strategies, easily defining conditions and applying percentage-based discounts to enhance your e-commerce application.
 
+* [Dismissibles for Laravel](https://github.com/rellix999/dismissibles-for-laravel) package for easily managing the visibility of your recurring, dismissible objects like popups/notifications/modals on the backend. This package does not include frontend components, so it's compatible with any frontend you can use.
+
 * [Docgen for Laravel Facade](https://github.com/irazasyed/docgen) Streamline your Laravel package development with automatic facade documentation using Docgen for Laravel Facade.
 * Laravel [Domain Driven Design DDD](https://github.com/thejano/laravel-domain-driven-design "Laravel Domain Driven Design") is a software development approach that emphasizes understanding and modeling the business domain. The goal is to create software that aligns with the needs of the business and is easier to maintain. [DOC](https://ddd.thejano.com/guide/)
 
@@ -347,6 +349,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
 
 * A helper to query and format a set of [opening hours](https://github.com/spatie/opening-hours)
+
+* Laravel-[OpenSearch](https://github.com/pdphilip/laravel-opensearch) This package extends Laravel's Eloquent model and query builder with seamless integration of OpenSearch functionalities. Designed to feel native to Laravel, this package enables you to work with Eloquent models while leveraging the powerful search and analytics capabilities of OpenSearch. <!-- opensearch, search -->
 
 * Laravel [Open Weather](https://github.com/RakibDevs/openweather-laravel-api) API is a Laravel package to connect Open Weather Map APIs ( https://openweathermap.org/api ) and access free API services (current weather, weather forecast, weather history) easily.
 
