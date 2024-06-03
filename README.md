@@ -104,6 +104,10 @@ List of usefull resources and projects about Laravel
 
 * Laravel [Connective](https://github.com/AuroraWebSoftware/connective) package provides a simple and intuitive way to establish connections between Eloquent models. It allows you to define different connection types and manage relationships between models.
 
+* Laravel [Console Validator](https://github.com/PerryvanderMeer/laravel-console-validator) . This package allows you to easily validate all entered arguments in Laravel commands. <!-- console, validation, command -->
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10.0%2B-blue?style=flat-square)
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
+
 * [Commentify](https://github.com/usamamuneerchaudhary/commentify) - Laravel Livewire Comments. Commentify is a powerful Laravel Livewire package designed to provide an easy-to-integrate commenting system for any model in your Laravel application. Powered by Livewire, this package offers a seamless commenting experience that is powered by Tailwind UI, making it easy for users to engage with your content.
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10.0%2B-blue?style=flat-square)
 
@@ -129,6 +133,12 @@ Cookies registration & configuration, Blade views & translation files for consen
   
 * Laravel [Date Scopes](https://github.com/laracraft-tech/laravel-date-scopes) provides a big range of useful date scopes for your Laravel Eloquent models!
 
+* Laravel [DB Auditor](https://github.com/vcian/laravel-db-auditor) provides to audit process of reviewing and evaluating a mysql database system. DB Auditor scan your mysql database and give insights of mysql standards, constraints and provide option to add the constraints through CLI. The result of audit process shows list of tables & columns which doesn't have proper standards. <!-- database -->
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8.0%2B-blue?style=flat-square)
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
+
+* Laravel [Deploy Operations](https://github.com/TheDragonCode/laravel-deploy-operations) Performing any actions during the deployment process. Create specific classes for a one-time or more-time usage, that can be executed automatically after each deployment. Perfect for seeding or updating some data instantly after some database changes, feature updates, or perform any actions.
+
 * Laravel [Device Detector](https://github.com/reefki/laravel-device-detector). The Laravel wrapper for [Matomo Universal Device Detection](https://github.com/matomo-org/device-detector) library seamlessly integrates device detection capabilities into Laravel applications. <!-- device detector -->
 
 * [Discountify](https://github.com/safemood/discountify) is a Laravel package designed for managing dynamic discounts with custom conditions. It allows you to create flexible and powerful discounting strategies, easily defining conditions and applying percentage-based discounts to enhance your e-commerce application.
@@ -136,6 +146,7 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [Dismissibles for Laravel](https://github.com/rellix999/dismissibles-for-laravel) package for easily managing the visibility of your recurring, dismissible objects like popups/notifications/modals on the backend. This package does not include frontend components, so it's compatible with any frontend you can use.
 
 * [Docgen for Laravel Facade](https://github.com/irazasyed/docgen) Streamline your Laravel package development with automatic facade documentation using Docgen for Laravel Facade.
+  
 * Laravel [Domain Driven Design DDD](https://github.com/thejano/laravel-domain-driven-design "Laravel Domain Driven Design") is a software development approach that emphasizes understanding and modeling the business domain. The goal is to create software that aligns with the needs of the business and is easier to maintain. [DOC](https://ddd.thejano.com/guide/)
 
 * [Drag & drop editor](https://dropblockeditor.com/) for your Livewire powered blocks. Create your own blocks and make them editable with Livewire components. DropBlockEditor is made for Laravel and with Livewire, Alpine.JS and Tailwind CSS.
@@ -223,7 +234,11 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * Laravel [Google Analytics](https://github.com/vormkracht10/laravel-google-analytics-v4) v4 retrieve all data like pageviews, events, ecommerce transactions and more from Google Analytics version 4 using the Google API.
 
+* [Gpdf](https://github.com/omaralalwi/Gpdf). Open Source PHP Package for converting HTML to PDF in PHP & Laravel applications, support store to s3, with out-of-the-box support for Arabic content and other languages. Extends dompdf to add new features and solve issues like Arabic language support. <!-- pdf -->
+
 * Spatie [Image](https://github.com/spatie/image) Manipulate images with an expressive API. You'll find examples in the [full documentation](https://docs.spatie.be/image). <!-- image -->
+
+* Laravel Eloquent [JoinWith](https://github.com/msafadi/laravel-eloquent-join-with)  is a package that simplifies performing efficient database joins on existing Eloquent relationships of type HasOne and BelongsTo. By utilizing these relationships, JoinWith optimizes performance by executing a single query instead of the two separate queries typically required with the standard with method. This translates to faster and more efficient data retrieval. <!-- eloquent -->
 
 * Laravel [Hashids](https://github.com/vinkla/laravel-hashids) generate YouTube-like ids from numbers. Use it when you don't want to expose your database numeric ids to users
 
@@ -383,6 +398,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * Laravel [Purity](https://github.com/abbasudo/laravel-purity) is an elegant and efficient filtering and sorting package for Laravel, designed to simplify complex data filtering and sorting logic for eloquent queries. By simply adding filter() to your Eloquent query, you can add the ability for frontend users to apply filters based on URL query string parameters like a breeze. <!-- eloquent, model, filtering, sorting -->
 
+* [QuickRequest Laravel](https://github.com/rmunate/Quick-Request-Laravel) is an ultra-lightweight tool designed for swift and efficient requests to the Laravel backend. By leveraging the "fetch" mechanism, this solution streamlines the execution of requests to Laravel controllers, eliminating the need for manual assignment of tokens, base URLs, hidden inputs, and other method-specific parameters. <!-- javascript, request -->
+
 * [Replicate Laravel PHP client](https://github.com/halilcosdu/laravel-replicate) is a Laravel client for the Replicate API. It provides a convenient way to interact with the Replicate API using PHP and Laravel's Facade pattern. <!-- replicate, api -->
 
 * [Searchable](https://github.com/hetparekh21/Searchable) Effortlessly add search functionality to your Laravel models. <!-- eloquent, model, search -->
@@ -501,6 +518,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [Tagify](https://github.com/usamamuneerchaudhary/laravel-tagify "Tagify") is a simple Tagging Package for Laravel. Using this package, you can simply tag, untag or retag any existing model in your laravel app. [Tutorial](https://thewebtier.com/how-to-implement-tagging-to-laravel-models-with-tagify)
 
 * [TailwindMerge](https://github.com/gehrisandro/tailwind-merge-laravel) for Laravel allows you to merge multiple Tailwind CSS classes and automatically resolves conflicts between classes by removing classes conflicting with a class defined later. This is especially helpful when you want to override Tailwind CSS classes in your Blade components. <!-- tailwind -->
+
+* [TimeWarden](https://github.com/tomloprod/time-warden) is a lightweight PHP library that allows you to monitor the processing time of tasks (useful during the development stage and debugging) and also lets you set estimated execution times for tasks, enabling reactive actions when tasks exceed their estimated duration.
 
 * Laravel [Taxify](https://github.com/omaralalwi/laravel-taxify) provides a set of helper functions and classes to simplify tax (VAT) calculations within Laravel applications. that allow developers to easily integrate tax calculation functionalities into their projects with multi tax profiles settings and (fixed, percentage) ways <!-- tax -->
 
@@ -635,6 +654,7 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [Alpine AJAX](https://alpine-ajax.js.org/) An [Alpine.js](https://alpinejs.dev/) plugin that seamlessly integrates your client and server. Use it to build straight-forward, robust, interactive websites.
 * [BookStack](https://github.com/BookStackApp/BookStack) is an opinionated wiki system that provides a pleasant and simple out-of-the-box experience. <!-- wiki -->
 * [Card Number](https://github.com/TheDragonCode/card-number) Generation and verification of card numbers using Luhn's algorithm: credit, customer loyalty and others.
+* [Colority](https://github.com/tomloprod/colority) s a lightweight PHP library designed to handle color transformations, validations and manipulations with ease. It allows you to instantiate concrete objects according to the color format (RGB, HSL, Hexadecimal) and convert from one format to another.
 * [ClassTransformer](https://github.com/yzen-dev/plain-to-clas) This library will allow you to easily convert any data set into the object you need. You are not required to change the structure of classes, inherit them from external modules, etc.
 * [Daleel](https://daleel.kalimah-apps.com/) is a PHP documentation generator. It both generates documentation from PHP source code and also from Markdown files. It creates a beautiful documentation website for your project. <!-- documentation -->
 * [Dolby API SDK](https://github.com/andreia/php-sdk-dolby-api) Provides a PHP wrapper for [Dolby API](https://docs.dolby.io/).
