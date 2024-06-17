@@ -78,6 +78,9 @@ List of usefull resources and projects about Laravel
 
 * [Cachetastic](https://github.com/bigdevwhale/cachetastic) supercharges your Laravel caching capabilities, making it a breeze to cache method results and improve your application's performance. <!-- cache -->
 
+*  [Chaotic Schedule](https://github.com/skywarth/chaotic-schedule) Laravel package for randomizing command schedule intervals via pRNGs. <!-- schedule -->
+
+
 * Lara-[Captcha](https://github.com/hirenkeraliya/lara-captcha) is a reliable and easy-to-use package for preventing bot submissions and enhancing the security of public forms in Laravel.
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9%2B-blue?style=flat-square)
 <!-- form, captcha, security --> 
@@ -200,6 +203,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [Filament Card Stack](https://github.com/rmitesh/card-stack)
 <!-- filament -->
 
+* Laravel [Eloquent Localization and Translation](https://github.com/msafadi/laravel-eloquent-l10n) package offers a comprehensive and developer-friendly solution to streamline your content translation workflow. <!-- translation, localization -->
+
 * [LaraFileEncrypter](https://github.com/misterdebug/laravel-file-encrypter) Secure your files in Laravel with AES-256 encryption, without persistent key storage hassle. <!-- encrypt -->
 
 * [LaraFlash](https://github.com/binkapS/Laraflash). Flash Session messages for Laravel and Livewire
@@ -246,6 +251,7 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * Laravel[Helpers](https://github.com/rmunate/LaravelHelpers). Standard creation and and use of helpers within the Laravel framework through classes, a simple, efficient, and elegant way to execute your application's own methods from any class or view.
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8.0%2B-blue?style=flat-square)
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10+%2B-blue?style=flat-square)
 
 * [php-heic-to-jpg](https://github.com/MaestroError/php-heic-to-jpg) The easiest way to convert HEIC/HEIF images to JPEG with PHP and Laravel framework. It uses binary file created with Go language and has no dependencies on any other PHP libraries, extensions or third-part software
 
@@ -419,6 +425,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 <!-- eloquent, model, image -->
 
 * [Plugin Manager](https://pm.fresns.org/) is a convenient Laravel extension package designed for modular management of your large-scale Laravel applications.
+
+* [Posthog](https://github.com/QodeNL/Laravel-Posthog) This package provides a simple integration of Posthog in Laravel applications.
 
 * Laravel [Purity](https://github.com/abbasudo/laravel-purity) is an elegant and efficient filtering and sorting package for Laravel, designed to simplify complex data filtering and sorting logic for eloquent queries. By simply adding filter() to your Eloquent query, you can add the ability for frontend users to apply filters based on url query string parameters like a breeze.
 
