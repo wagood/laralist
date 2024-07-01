@@ -88,6 +88,8 @@ List of usefull resources and projects about Laravel
 * Laravel [Captcha](https://github.com/RahulDey12/laravel-captcha) is a wrapper around Turnstile, HCaptcha & Google Recaptcha. It provides very easy-to-use Facade, Validation Rule, and laravel components. <!-- captcha, security --> 
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
 
+* Laravel [Cart](https://github.com/binafy/laravel-cart) is a highly customizable and flexible package that integrates basket functionality into your Laravel application. It simplifies storing and managing cart items, supporting multiple item types and quantities. It is ideal for e-commerce platforms to create carts, attach items, and manage them efficiently. <!-- ecommerce, cart -->
+
 * Laravel [Castable Data Transfer Object](https://github.com/jessarcher/laravel-castable-data-transfer-object) cast JSON columns to a value object.
 
 * [laravel-chartjs](https://github.com/icehouse-ventures/laravel-chartjs) - A Chart.js wrapper for Laravel <!-- chart.js -->
@@ -119,6 +121,8 @@ List of usefull resources and projects about Laravel
 * Laravel Blade [Comments](https://github.com/spatie/laravel-blade-comments). Add debug comments to your rendered output
 
 * [LaraCollab](https://github.com/vstruhar/lara-collab), developed with Laravel and React, serves as a project management tool. The primary idea behind this initiative is to provide developers or development companies with a free platform to efficiently manage clients, projects, log time, and generate invoices.
+
+* Laravel [Console Log](https://github.com/saasscaleup/laravel-console-log) Easily stream your Laravel application logs to the browser console tab (console.log) in real-time using server-sent event (SSE)
 
 * Laravel [Cookie Consent](https://github.com/whitecube/laravel-cookie-consent) package provides all the tools you'll need to cover a proper EU-compliant cookies policy:
 Cookies registration & configuration, Blade views & translation files for consent alerts & pop-ups, Blade directives & Facade methods making your life easier, JavaScript code that will enhance front-end user experience
@@ -171,6 +175,10 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [EasyDataTable](https://github.com/rmunate/EasyDataTable): A fast, easy, and efficient way to create the BackEnd for any DataTable. (Laravel PHP Framework)
 
+* Laravel [Eloquent Localization and Translation](https://github.com/msafadi/laravel-eloquent-l10n) package offers a comprehensive and developer-friendly solution to streamline your content translation workflow. <!-- translation, localization -->
+
+* [Eloquent Filtering](https://github.com/IndexZer0/eloquent-filtering) Easily filter eloquent models using arrays. Avoid writing custom query logic for filtering your models. Simply define allowed filters on your models and pass filters from http request to the model.
+
 * [Engageify](https://github.com/cjmellor/engageify) is a Laravel package that allows you to integrate engagement features like user reactions (likes, upvotes) to your models.
   
 * [Enum helper](https://github.com/biiiiiigmonster/laravel-enum). Enum helper for laravel10 based on the enum feature of php 8.1 <!-- enum, helper-->
@@ -202,8 +210,6 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [Filament Card Stack](https://github.com/rmitesh/card-stack)
 <!-- filament -->
-
-* Laravel [Eloquent Localization and Translation](https://github.com/msafadi/laravel-eloquent-l10n) package offers a comprehensive and developer-friendly solution to streamline your content translation workflow. <!-- translation, localization -->
 
 * [LaraFileEncrypter](https://github.com/misterdebug/laravel-file-encrypter) Secure your files in Laravel with AES-256 encryption, without persistent key storage hassle. <!-- encrypt -->
 
@@ -485,6 +491,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [Statamic](https://statamic.com/) is a modern, clean, and highly adaptable CMS built on Laravel that can run full-stack, headless, on flat files or databases, or as a static site generator.
 
+* Laravel [Storage with Database](https://github.com/rakshitbharat/laravel-storage-with-database) is a powerful package that provides a seamless way to store and retrieve text-based data using a database in Laravel. It offers a simple and intuitive API similar to Laravel's built-in Storage facade, making it easy to switch from file-based storage to database storage for your text-based data.
+
 * Laravel [Scanator](https://github.com/YorCreative/Laravel-Scanator). A Laravel package that provides functionalities for detecting sensitive information and patterns in the database, helping to ensure data privacy and security by empowering developers to easily integrate database scanning capabilities into their applications and take proactive measures to protect sensitive data. <!-- security, database -->
 
 * A Fluent Builder For [Schema.org](https://github.com/spatie/schema-org) Types And ld+json Generator
@@ -557,6 +565,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [Two-Factor-Laravel](https://github.com/emargareten/two-factor-laravel) is a package that implements two-factor authentication for your Laravel apps.
 * [Str Acronym] package for Laravel provides a macro for generating acronyms from strings using the Str helper and supports the Stringable class
+
+* Laravel [Usage Limiter](https://github.com/nabilhassen/laravel-usage-limiter) A Laravel package to track, limit, & restrict usages of users, accounts, or any other model. Basically with this package you can track your users' or any other models' usages and restrict them when they hit their maximum limits.
   
 * Laravel [Validate](https://github.com/milwad-dev/laravel-validate) is a package for validate faster & easier. You can validate data easier, Laravel validate have lots of rule class for validation.
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9%2B-blue?style=flat-square)
