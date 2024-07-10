@@ -47,6 +47,8 @@ List of usefull resources and projects about Laravel
 
 * [ASetting](https://github.com/AuroraWebSoftware/ASetting) is a Laravel package that allows you to manage settings dynamically in your Laravel applications. With this package, you can organize settings in groups stored in the database, supporting various types of settings for easy management. <!-- setting -->
 
+* [Auth](https://github.com/thedevdojo/auth) is a plug'n play authentication package for any Laravel application.
+
 * [Avatar](https://github.com/laravolt/avatar) Display unique avatar for any user based on their (initials) name.
 
 * [Azure Email Communication Service (ECS)](https://github.com/hafael/azure-mailer-driver) for Laravel. This library provides developers with a simple set of features for sending Laravel Framework emails through the Microsoft Azure ECS service.
@@ -127,6 +129,8 @@ List of usefull resources and projects about Laravel
 * Laravel [Cookie Consent](https://github.com/whitecube/laravel-cookie-consent) package provides all the tools you'll need to cover a proper EU-compliant cookies policy:
 Cookies registration & configuration, Blade views & translation files for consent alerts & pop-ups, Blade directives & Facade methods making your life easier, JavaScript code that will enhance front-end user experience
 <!-- cookie, GDPR -->
+
+* [Commenter](https://github.com/Lakshan-Madushanka/laravel-comments) is a feature-rich, modern package with an admin panel designed to address all your commenting needs. With this package, you won't need any additional tools for the comment functionality in your Laravel projects.
 
 * [Coupler](https://github.com/bereank/coupler) A dedicated Laravel-PHP library crafted exclusively for seamless integration with the SAP Business One Service Layer API. <!-- API, SAP -->
 
