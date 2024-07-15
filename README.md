@@ -505,6 +505,10 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [Scramble](https://github.com/dedoc/scramble) generates API documentation for Laravel project. Without requiring you to manually write PHPDoc annotations. Docs are generated in OpenAPI 3.1.0 format. You can find full documentation at [scramble.dedoc.co](https://scramble.dedoc.co/).<!-- api, documentation, PHPDoc, OpenAPI -->
 
+* [Secure-code](https://github.com/veeqtoh/secure-code) A Laravel package that provides secure codes management system, allowing you to generate n-digit secure codes and manage it's allocation within you existing web app.
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-11.0%2B-blue?style=flat-square)
+
 * [Short-url](https://github.com/ash-jc-allen/short-url) A Laravel package that can be used for adding shortened URLs to your existing web app.
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8.0%2B-blue?style=flat-square)
