@@ -102,6 +102,8 @@ List of usefull resources and projects about Laravel
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9.0%2B-blue?style=flat-square)
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
 
+* Laravel [CipherSweet](https://github.com/spatie/laravel-ciphersweet) is a backend library developed by Paragon Initiative Enterprises for implementing searchable field-level encryption. It can encrypt and decrypt values in a very secure way. It is also able to create blind indexes. These indexes can be used to perform searches on encrypted data. The indexes themselves are unreadable by humans. <!-- encryption -->
+
 * Lara [Client](https://github.com/usamamuneerchaudhary/laraclient) simplifies the process of working with APIs in Laravel, making it easy to handle authentication, rate limiting, and error handling. It allows to set up several API connections in a central configuration file, specifying the credentials for each connection.
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
 
@@ -417,6 +419,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [QuickRequest Laravel](https://github.com/rmunate/Quick-Request-Laravel) is an ultra-lightweight tool designed for swift and efficient requests to the Laravel backend. By leveraging the "fetch" mechanism, this solution streamlines the execution of requests to Laravel controllers, eliminating the need for manual assignment of tokens, base URLs, hidden inputs, and other method-specific parameters. <!-- javascript, request -->
 
 * [Replicate Laravel PHP client](https://github.com/halilcosdu/laravel-replicate) is a Laravel client for the Replicate API. It provides a convenient way to interact with the Replicate API using PHP and Laravel's Facade pattern. <!-- replicate, api -->
+
+* [S3M](https://github.com/mreduar/s3m) - Multipart Uploads using Laravel and AWS S3. When uploading large files to S3, you may run into the 5GB limit for a single PUT request. This package allows you to upload large files to S3 by splitting the file into smaller parts and uploading them in parallel. <!-- AWS S3, upload -->
 
 * [Searchable](https://github.com/hetparekh21/Searchable) Effortlessly add search functionality to your Laravel models. <!-- eloquent, model, search -->
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
