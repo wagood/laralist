@@ -543,6 +543,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [Sushi](https://github.com/calebporzio/sushi) Eloquent's missing "array" driver. Sometimes you want to use Eloquent, but without dealing with a database.
 
+* [Laravel Swagger UI](https://github.com/nextapps-be/laravel-swagger-ui). This package makes it easy to make your project's Swagger (OpenAPI v3 JSON or YAML) file accessible in a Swagger UI right in your Laravel application.
+
 * [Tagify](https://github.com/usamamuneerchaudhary/laravel-tagify "Tagify") is a simple Tagging Package for Laravel. Using this package, you can simply tag, untag or retag any existing model in your laravel app. [Tutorial](https://thewebtier.com/how-to-implement-tagging-to-laravel-models-with-tagify)
 
 * [TailwindMerge](https://github.com/gehrisandro/tailwind-merge-laravel) for Laravel allows you to merge multiple Tailwind CSS classes and automatically resolves conflicts between classes by removing classes conflicting with a class defined later. This is especially helpful when you want to override Tailwind CSS classes in your Blade components. <!-- tailwind -->
@@ -707,6 +709,7 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [JSON Parser](https://github.com/cerbero90/json-parser). Zero-dependencies pull parser to read large JSON from any source in a memory-efficient way. [Docs](https://mailcarrier.app/docs/getting-started/installation) <!-- json, parser -->
 
 * [MailCarrier](https://github.com/mailcarrierapp/mailcarrier). User friendly, provider-aware, mailing platform with templates and logs included.
+* [Maska](https://github.com/beholdr/maska) Simple zero-dependency input mask. Vanilla JS version + Vue 2/3, Alpine.js and Svelte integrations.
 * [Tabler](https://tabler.io/) is a free and open source web application UI kit based on Bootstrap 5, with hundreds responsive components and multiple layouts.  
 * Tectalic [OpenAI](https://tectalic.com/apis/openai/docs/php) REST API Client s a package that provides a convenient and straightforward way to interact with the OpenAI API from your PHP application.
 * [Typesense](https://typesense.org/) The Open Source Alternative to Algolia + Pinecone. The Easier To Use Alternative to Elasticsearch
