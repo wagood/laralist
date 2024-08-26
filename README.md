@@ -197,6 +197,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * Laravel [Excel](https://github.com/SpartnerNL/Laravel-Excel) - Supercharged Excel exports and imports. A simple, but elegant Laravel wrapper around [PhpSpreadsheet](https://phpspreadsheet.readthedocs.io/) exports and imports. <!-- import, export, excel -->
 
+* Laravel [Excel to JSON / Collection / Array](https://github.com/Knackline/laravel-excel-to-x) provides utilities for converting Excel files to JSON format, Laravel Collections, or PHP Arrays. It also supports reading data from multiple sheets within an Excel file. <!-- import, export, excel -->
+
 * [Laravel Exchange Rates](https://github.com/ash-jc-allen/laravel-exchange-rates) A simple Laravel package used for interacting with exchange rates APIs. Laravel Exchange Rates allows you to get the latest or historical exchange rates and convert monetary values between different currencies. <!-- exchange, currency -->
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8.0%2B-blue?style=flat-square)
@@ -486,6 +488,8 @@ Cookies registration & configuration, Blade views & translation files for consen
   ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9.0%2B-blue?style=flat-square) <!-- api, http client -->
 
 * Laravel [Schema Rules](https://github.com/laracraft-tech/laravel-schema-rules) Automatically generate basic Laravel validation rules based on your database table schema! Use these as a starting point to fine-tune and optimize your validation rules as needed. <!-- schema, database -->
+
+* Honeystone [SEO](https://github.com/Honeystone/laravel-seo) package makes configuring SEO metadata from anywhere within your Laravel application a breeze. Included are metadata generators for general metadata, X (Formally Twitter) Cards, Open Graph, JSON-LD Schema, and Favicons (generated using RealFaviconGenerator).
 
 * Laravel [Setting Pro](https://github.com/sajadsdi/laravel-setting-pro) Effortless Management of Laravel Application Settings.
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
