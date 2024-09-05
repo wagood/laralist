@@ -12,6 +12,8 @@ List of usefull resources and projects about Laravel
   
 * [Airdrop for Laravel](https://hammerstone.dev/airdrop/docs/main/overview) is a package that speeds up your code deploys by skipping your asset build step whenever possible.
 <!-- assets -->
+
+* [Aire](https://github.com/glhd/aire) is a modern Laravel form builder (demo) with a focus on the same expressive and beautiful code you expect from the Laravel ecosystem.
   
 * [Aloia CMS:](https://aloiacms.com/) The flat-file content management system for Laravel
 <!-- cms -->
@@ -255,6 +257,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [Gpdf](https://github.com/omaralalwi/Gpdf). Open Source PHP Package for converting HTML to PDF in PHP & Laravel applications, support store to s3, with out-of-the-box support for Arabic content and other languages. Extends dompdf to add new features and solve issues like Arabic language support. <!-- pdf -->
 
+* [Gretel](https://github.com/glhd/gretel) is a Laravel package for adding route-based breadcrumbs to your application.
+
 * Spatie [Image](https://github.com/spatie/image) Manipulate images with an expressive API. You'll find examples in the [full documentation](https://docs.spatie.be/image). <!-- image -->
 
 * Laravel Eloquent [JoinWith](https://github.com/msafadi/laravel-eloquent-join-with)  is a package that simplifies performing efficient database joins on existing Eloquent relationships of type HasOne and BelongsTo. By utilizing these relationships, JoinWith optimizes performance by executing a single query instead of the two separate queries typically required with the standard with method. This translates to faster and more efficient data retrieval. <!-- eloquent -->
@@ -317,6 +321,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [Lift](https://github.com/WendellAdriel/laravel-lift) for Laravel is a package that boosts your Eloquent Models in Laravel. It lets you create public properties in Eloquent Models that match your table schema. This makes your models easier to read and work with in any IDE.
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.2%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9+%2B-blue?style=flat-square) <!-- eloquent, model, migration -->
+
+* [Linen](https://github.com/glhd/linen) is a lightweight spreadsheet utility for Laravel. It's a simple wrapper for openspout with some data normalization conveniences.
 
 * [Location](https://github.com/stevebauman/location) Retrieve a visitor's location from their IP address using various services. <!-- location, maxmind -->
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
@@ -421,6 +427,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [QuickRequest Laravel](https://github.com/rmunate/Quick-Request-Laravel) is an ultra-lightweight tool designed for swift and efficient requests to the Laravel backend. By leveraging the "fetch" mechanism, this solution streamlines the execution of requests to Laravel controllers, eliminating the need for manual assignment of tokens, base URLs, hidden inputs, and other method-specific parameters. <!-- javascript, request -->
 
 * [Replicate Laravel PHP client](https://github.com/halilcosdu/laravel-replicate) is a Laravel client for the Replicate API. It provides a convenient way to interact with the Replicate API using PHP and Laravel's Facade pattern. <!-- replicate, api -->
+
+* Laravel [Review](https://github.com/fajarwz/laravel-review). Flexible and powerful review system for Laravel, let any model review and be reviewed.
 
 * [S3M](https://github.com/mreduar/s3m) - Multipart Uploads using Laravel and AWS S3. When uploading large files to S3, you may run into the 5GB limit for a single PUT request. This package allows you to upload large files to S3 by splitting the file into smaller parts and uploading them in parallel. <!-- AWS S3, upload -->
 
