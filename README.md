@@ -422,6 +422,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * Laravel [Population](https://github.com/capsulescodes/laravel-population) package provides a set of commands that scan your migrations and detect any disparities between them and your database tables. If differences are found, a wizard is triggered to help you migrate and seed the new tables with converted records. <!-- migration -->
 
+* [Prezet](https://github.com/benbjurstrom/prezet) Markdown Blogging for Laravel. Transform your markdown files into SEO-friendly blogs, articles, and documentation with Prezet. Including built in automatic image optimization, dynamic tables of contents, validated front matter DTOs, and integrated Blade components.
+
 * Laravel [Purity](https://github.com/abbasudo/laravel-purity) is an elegant and efficient filtering and sorting package for Laravel, designed to simplify complex data filtering and sorting logic for eloquent queries. By simply adding filter() to your Eloquent query, you can add the ability for frontend users to apply filters based on URL query string parameters like a breeze. <!-- eloquent, model, filtering, sorting -->
 
 * [QuickRequest Laravel](https://github.com/rmunate/Quick-Request-Laravel) is an ultra-lightweight tool designed for swift and efficient requests to the Laravel backend. By leveraging the "fetch" mechanism, this solution streamlines the execution of requests to Laravel controllers, eliminating the need for manual assignment of tokens, base URLs, hidden inputs, and other method-specific parameters. <!-- javascript, request -->
