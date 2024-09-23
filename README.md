@@ -24,6 +24,8 @@ List of usefull resources and projects about Laravel
 * Laravel [Analytics](https://github.com/wdev-rs/laravel-analytics) small analytics package.
 <!-- analytics -->
 
+* [API Platform](https://github.com/api-platform/laravel) Integrates API Platform into the Laravel framework and the Illuminate components. [Docs](https://api-platform.com/docs/laravel/)
+
 * Laravel [API Response Formatter](https://github.com/ymigval/laravel-sl-response) simplifies API response management in Laravel applications. It allows you to structure and format API responses with ease, ensuring consistency and adherence to API standards. <!-- API, response -->
   
 * Laravel [API tool kit](https://github.com/ahmedesa/laravel-api-tool-kit) Supercharge your API development with the API Toolkit, using standardized responses, dynamic pagination, advanced filtering, one-click full CRUD setup, logic clarity, media mastery, and crystal-clear enums. <!-- api -->
@@ -186,6 +188,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 * Laravel [Eloquent Localization and Translation](https://github.com/msafadi/laravel-eloquent-l10n) package offers a comprehensive and developer-friendly solution to streamline your content translation workflow. <!-- translation, localization -->
 
 * [Eloquent Filtering](https://github.com/IndexZer0/eloquent-filtering) Easily filter eloquent models using arrays. Avoid writing custom query logic for filtering your models. Simply define allowed filters on your models and pass filters from http request to the model.
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.2%2B-blue?style=flat-square)
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10.0%2B-blue?style=flat-square)
 
 * [Engageify](https://github.com/cjmellor/engageify) is a Laravel package that allows you to integrate engagement features like user reactions (likes, upvotes) to your models.
   
@@ -212,6 +216,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [favicon fetcher](https://github.com/ash-jc-allen/favicon-fetcher) A Laravel package that can be used for fetching favicons from websites. <!-- favicon -->
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8.0%2B-blue?style=flat-square)
+
+* [Fetch PHP](https://github.com/Thavarshan/fetch-php) is a PHP library that mimics the behavior of JavaScript’s fetch API using the powerful Guzzle HTTP client. FetchPHP supports both synchronous and asynchronous requests, and provides an easy-to-use, flexible API for making HTTP requests in PHP.
 
 * [Filament](https://filamentphp.com/) A collection of beautiful full-stack components. The perfect starting point for your next app.
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
