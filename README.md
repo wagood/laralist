@@ -401,6 +401,10 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * Laravel [Open Weather](https://github.com/RakibDevs/openweather-laravel-api) API is a Laravel package to connect Open Weather Map APIs ( https://openweathermap.org/api ) and access free API services (current weather, weather forecast, weather history) easily.
 
+* Laravel [Optimize DB](https://github.com/nunomaduro/laravel-optimize-database) provides a simple way to optimize your SQLite database in Laravel; it's a good starting point for production-ready SQLite databases. <!--sqlite-->
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.2%2B-blue?style=flat-square)
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-11%2B-blue?style=flat-square)
+
 * [Orbit](https://github.com/ryangjchandler/orbit) is a flat-file database driver for Eloquent. It allows you to replace your generic database with real files that you can manipulate using the methods you're familiar with. <!-- eloquent -->
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9%2B-blue?style=flat-square)
@@ -408,6 +412,10 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [Package Skeleton](https://github.com/spatie/package-skeleton-laravel). This repo can be used to scaffold a Laravel package.
 
 * Laravel [Pail](https://github.com/laravel/pail) is a package that allows you to easily dive into your Laravel application's log files directly from the command line. <!-- log -->
+
+* [Pan](https://github.com/panphp/pan) is a lightweight and privacy-focused PHP product analytics library. Pan tracks only the following events: impressions, hovers, and clicks. It does not collect any personal information, such as IP addresses, user agents, or any data that could be used to identify a user.
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.3%2B-blue?style=flat-square)
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-11%2B-blue?style=flat-square)
 
 * Laravel [Pastable Model](https://github.com/elipZis/laravel-pastable-model) Enable your models to regularly cut/copy & paste their data into another table. <!-- eloquent, model -->
 
@@ -628,7 +636,7 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [Walker](https://github.com/qubesoftware/laravel-walker) is a package that allows you to create multi-step wizards in your Laravel applications.
 
-* [Wallet](https://github.com/stephenjude/laravel-wallet "Wallet") is a simple wallet implementation for Laravel <!-- payment -->
+* [Wallet](https://github.com/stephenjude/laravel-wallet) is a simple wallet implementation for Laravel <!-- payment -->
 
 * Laravel [Wallet](https://github.com/021-projects/laravel-wallet) is a sophisticated PHP package designed to deliver a robust and flexible transaction engine, emulating the reliability found in traditional banking systems. <!-- payment, wallet -->
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10%2B-blue?style=flat-square)
@@ -637,6 +645,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [Waterhole](https://waterhole.dev/) The Laravel-powered discussion platform giving life to vibrant online communities for brands, creators, and teams. <!-- forum, discussion  -->
 
 * Laravel [Webhooks](https://github.com/JustSteveKing/laravel-webhooks). A simple webhook implementation for Laravel. <!-- webhook -->
+
+* [WireSpy](https://github.com/wire-elements/wire-spy) — a sleek new debug bar for Livewire. Instantly debug and interact with your components—inspect their state, modify it on the fly, and even time-travel through state changes to pinpoint issues. <!-- livewire -->
 
 * Laravel [Zodgen](https://github.com/7nohe/laravel-zodgen) generates [Zod](https://zod.dev/) schemas from Laravel FormRequests. This allows you to share your validation rules between your Laravel backend and your TypeScript frontend.
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9%2B-blue?style=flat-square)
