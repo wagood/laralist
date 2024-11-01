@@ -70,6 +70,8 @@ List of usefull resources and projects about Laravel
 
 * [Bolt](https://github.com/lara-zeus/bolt) is a Laravel Form Builder for the TALL Stack, including a front and backend UI. It enables your users to create forms, with a lot of configuration options, such as breaking a form into sections, various input types, and more <!-- form -->
 
+* [Blasp](https://github.com/Blaspsoft/blasp) is a Laravel profanity filter package that helps detect and mask profane words. It provides profanity detection, substitution options, obfuscation, and more.
+
 * [Blockade](https://github.com/cjmellor/blockade) allow a User Model to Block Another User Model
 <!-- eloquent, model, user -->
 
@@ -590,6 +592,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 * Lara [Translate](https://github.com/manadinho/lara-translate) is a package that enables you to manage your translations efficiently. One of its remarkable features is the ability to seamlessly translate keys from one language to another directly from the User Interface. More impressive Thing is that it works for free. Behind the scenes, it leverages the MyMemory API to handle key translations. <!-- translate -->
 
 * Laravel [Translation](https://github.com/spatie/laravel-translation-loader) Loader. Store your language lines in the database <!-- translate -->
+
+* [Translation Checker](https://github.com/Bottelet/translation-checker) is tool designed to help you find translations you forgot to add to your language files, check, and maintain translations in your project. It provides a set of commands to help with language files, ensuring consistency and completeness across your translations.
 
 * Laravel [Translation Faker](https://github.com/fidum/laravel-translation-faker) Having a fake language that reads in your native language can make it easier to keep tracking of what is missing translation as you make changes to your project. <!-- translate, faker -->
   
