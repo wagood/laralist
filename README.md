@@ -338,6 +338,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [Laravel Lang](https://laravel-lang.com/) projects allow you to easily connect translation packages to your project that serve different tasks.
 
+* Laravel[LangCountry](https://github.com/stefro/laravel-lang-country) This package adds the ability to localize based on the country. The package also adds more convenience functions to get localized country names, currency symbols and more.
+  
 * Laravel [Logdesk](https://github.com/jhonoryza/laravel-logdesk) send log messages to desktop app. 
 
 * [Lunar](https://lunarphp.io/). An open-source package that brings the power of modern headless e-commerce functionality to Laravel. [Full documentation](https://docs.lunarphp.io/) Includes in-depth guides on everything Lunar. [https://github.com/lunarphp/lunar](https://github.com/lunarphp/lunar) set of Laravel packages that bring functionality akin to Shopify and other e-commerce platforms to Laravel.
@@ -372,6 +374,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 * Laravel [Model Expires](https://github.com/maize-tech/laravel-model-expires) With this package you can add expiration date to any model and exclude expired models from queries. When needed, you could send a notification for expiring models. You can also set a deletion date for every model and automatically clean them up with a command.
 
 * [Modular](https://github.com/InterNACHI/modular) is a module system for Laravel applications. It uses Composer path repositories for autoloading, and Laravel package discovery for module initialization, and then provides minimal tooling to fill in any gaps.
+
+* Laravel [MongoDB](https://github.com/mongodb/laravel-mongodb) This package adds functionalities to the Eloquent model and Query builder for MongoDB, using the original Laravel API. This library extends the original Laravel classes, so it uses exactly the same methods. <!--mongodb-->
 
 * [Moonshine](https://moonshine-laravel.com/docs) is great for creating admin panels, MVPs, backoffice applications, and content management systems (CMS). <!-- admin, cms-->
   
