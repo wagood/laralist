@@ -281,6 +281,10 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [php-heic-to-jpg](https://github.com/MaestroError/php-heic-to-jpg) The easiest way to convert HEIC/HEIF images to JPEG with PHP and Laravel framework. It uses binary file created with Go language and has no dependencies on any other PHP libraries, extensions or third-part software
 
+* [HidePHP](https://github.com/hydephp/hyde) Elegant and Powerful Static Site Generator. It is a content-first Laravel-powered console application that allows you to create static HTML pages, blog posts, and documentation sites, using your choice of Markdown and/or Blade.
+
+Build sites in record-time with a full batteries-included TailwindCSS frontend that just works without any fuzz.
+
 * Laravel-[htmx](https://github.com/mauricius/laravel-htmx) Laravel integration for [htmx](https://htmx.org/)  <!-- htmx -->
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8.8%2B-blue?style=flat-square)
 
