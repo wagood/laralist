@@ -14,6 +14,9 @@ List of usefull resources and projects about Laravel
 <!-- assets -->
 
 * [Aire](https://github.com/glhd/aire) is a modern Laravel form builder (demo) with a focus on the same expressive and beautiful code you expect from the Laravel ecosystem.
+
+* [Akaunting](https://github.com/akaunting/akaunting) Online accounting software designed for small businesses and freelancers. Akaunting is built with modern technologies such as Laravel, VueJS, Tailwind, RESTful API etc. Thanks to its modular structure, Akaunting provides an awesome App Store for users and developers.
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
   
 * [Aloia CMS:](https://aloiacms.com/) The flat-file content management system for Laravel
 <!-- cms -->
@@ -296,6 +299,10 @@ Build sites in record-time with a full batteries-included TailwindCSS frontend t
 
 * Laravel [Impersonate](https://github.com/404labfr/laravel-impersonate) makes it easy to authenticate as your users. Add a simple trait to your user model and impersonate as one of your users in one click. <!-- user, authenticate -->
 
+* [Krait](https://github.com/mtrdesign/krait) is a robust Laravel package that streamlines the generation of Ajax Dynamic DataTables. Developed as a combination of VueJS components and PHP functionalities, it automates the development of front-end and back-end resources via simple CLI commands.
+![Required VueJS Versions](https://img.shields.io/badge/VueJS-3.0%2B-blue?style=flat-square)
+![Required Bootstrap Versions](https://img.shields.io/badge/Bootstrap-5.0%2B-blue?style=flat-square)
+
 * [L-admin](https://github.com/hexters/ladmin "L-admin") is a Laravel administration package that allows web developers to quickly create an admin panel for their website
 
 * [Ladder](https://github.com/eneadm/ladder) simplifies role and permission management for your Laravel project by avoiding storing everything in the database. 
@@ -470,6 +477,8 @@ Build sites in record-time with a full batteries-included TailwindCSS frontend t
 * [SpellNumber](https://github.com/rmunate/SpellNumber) is a cool little package to convert words in Laravel easily using the PHP INTL extension to handle the conversions seamlessly.
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8%2B-blue?style=flat-square)
 <!-- intl -->
+
+* [Sqids](https://github.com/GuavaCZ/sqids-for-laravel) for Laravel. Laravel Wrapper for [sqids.org](sqids.org) PHP library.
 
 * [Laravel Eloquent Photos](https://github.com/behzadsp/eloquent-dynamic-photos) is a Laravel Eloquent trait that provides an easy and dynamic way to manage photos in your Eloquent models.
 <!-- eloquent, model, image -->
@@ -657,6 +666,11 @@ Build sites in record-time with a full batteries-included TailwindCSS frontend t
 * [Waterhole](https://waterhole.dev/) The Laravel-powered discussion platform giving life to vibrant online communities for brands, creators, and teams. <!-- forum, discussion  -->
 
 * Laravel [Webhooks](https://github.com/JustSteveKing/laravel-webhooks). A simple webhook implementation for Laravel. <!-- webhook -->
+
+* [Wirechat](https://github.com/namumakwembo/wirechat) - is a powerful Laravel Livewire chat package that brings real-time private & group communication to your application. With embeddable components, it seamlessly integrates into your project, providing a feature-rich chat experience for your users.
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10%2B-blue?style=flat-square)
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
+![Supported Livewire Versions](https://img.shields.io/badge/LiveWire-3.2.3%2B-red?style=flat-square)
 
 * [WireSpy](https://github.com/wire-elements/wire-spy) — a sleek new debug bar for Livewire. Instantly debug and interact with your components—inspect their state, modify it on the fly, and even time-travel through state changes to pinpoint issues. <!-- livewire -->
 
