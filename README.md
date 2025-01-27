@@ -374,6 +374,8 @@ Build sites in record-time with a full batteries-included TailwindCSS frontend t
 
 * [Metrics](https://github.com/eliseekn/laravel-metrics) for Laravel. Generate easily metrics and trends data of your models for your dashboards. <!-- metrics, dashboard, statistic -->
 
+* Laravel [Microsoft Graph](https://github.com/dcblogdev/laravel-microsoft-graph) is a powerful tool that allows developers to access and utilize the data from various Microsoft services, including Office 365, Windows, and security platforms.
+
 * [MII](https://github.com/techmahedy/mini-laravel). A basic PHP MVC framework design in a way that you feel like you are working in a Laravel application. In this framework you will get all the basic features of a web application needs like routing, middleware, dependency injection, eloquent relationship, model, blade template engine and interface injection and many mores. <!-- framework -->
   
 * Convert [MJML to HTML](https://github.com/spatie/mjml-php) using PHP. MJML is a markup language designed to reduce the pain of coding a responsive email. [Craft emails that look good in each email client using MJML](https://freek.dev/2549-craft-emails-that-look-good-in-each-email-client-using-mjml) <!-- email, mjml -->
@@ -592,9 +594,13 @@ Build sites in record-time with a full batteries-included TailwindCSS frontend t
 
 * [Laravel Swagger UI](https://github.com/nextapps-be/laravel-swagger-ui). This package makes it easy to make your project's Swagger (OpenAPI v3 JSON or YAML) file accessible in a Swagger UI right in your Laravel application.
 
+* Laravel [Tabby Integration](https://github.com/osa-eg/Laravel-Tabby-Integration) designed to simplify the integration of the Tabby API into your Laravel applications. It provides an easy-to-use interface for creating checkout sessions, handling payments, managing webhooks, and more.
+  
 * [Tagify](https://github.com/usamamuneerchaudhary/laravel-tagify "Tagify") is a simple Tagging Package for Laravel. Using this package, you can simply tag, untag or retag any existing model in your laravel app. [Tutorial](https://thewebtier.com/how-to-implement-tagging-to-laravel-models-with-tagify)
 
 * [TailwindMerge](https://github.com/gehrisandro/tailwind-merge-laravel) for Laravel allows you to merge multiple Tailwind CSS classes and automatically resolves conflicts between classes by removing classes conflicting with a class defined later. This is especially helpful when you want to override Tailwind CSS classes in your Blade components. <!-- tailwind -->
+
+* [Teams Notification](https://github.com/osa-eg/laravel-teams-notification) package for Laravel lets you send notifications to Microsoft Teams. You can send normal messages, messages with additional details, and even use this package's custom logging channel
 
 * [TimeWarden](https://github.com/tomloprod/time-warden) is a lightweight PHP library that allows you to monitor the processing time of tasks (useful during the development stage and debugging) and also lets you set estimated execution times for tasks, enabling reactive actions when tasks exceed their estimated duration.
 
