@@ -299,6 +299,8 @@ Build sites in record-time with a full batteries-included TailwindCSS frontend t
 
 * Laravel [Impersonate](https://github.com/404labfr/laravel-impersonate) makes it easy to authenticate as your users. Add a simple trait to your user model and impersonate as one of your users in one click. <!-- user, authenticate -->
 
+* [Inertia Mailable](https://github.com/capsulescodes/inertia-mailable) empowers you to build beautiful, component-driven emails in Laravel, utilizing the power of InertiaJS. Create interactive and responsive email designs effortlessly by composing Vue components and embedding them into your mailables.
+
 * [Krait](https://github.com/mtrdesign/krait) is a robust Laravel package that streamlines the generation of Ajax Dynamic DataTables. Developed as a combination of VueJS components and PHP functionalities, it automates the development of front-end and back-end resources via simple CLI commands.
 ![Required VueJS Versions](https://img.shields.io/badge/VueJS-3.0%2B-blue?style=flat-square)
 ![Required Bootstrap Versions](https://img.shields.io/badge/Bootstrap-5.0%2B-blue?style=flat-square)
