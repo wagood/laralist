@@ -143,6 +143,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [Commenter](https://github.com/Lakshan-Madushanka/laravel-comments) is a feature-rich, modern package with an admin panel designed to address all your commenting needs. With this package, you won't need any additional tools for the comment functionality in your Laravel projects.
 
+* Laravel [Cookie Guard](https://github.com/scify/laravel-cookie-guard) - Make your Laravel app compliant with the EU GDPR cookie law
+
 * [Coupler](https://github.com/bereank/coupler) A dedicated Laravel-PHP library crafted exclusively for seamless integration with the SAP Business One Service Layer API. <!-- API, SAP -->
 
 * [DANACore Packages](https://github.com/otnansirk/laravel-dana). This Laravel wrapper/library for DANA Payment API. Visit [https://dana.id](https://dana.id) for more information about the product and see documentation at [https://dashboard.dana.id/api-docs](https://dashboard.dana.id/api-docs) for more technical details. <!-- payment, DANA -->
@@ -162,6 +164,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 * Laravel [Deploy Operations](https://github.com/TheDragonCode/laravel-deploy-operations) Performing any actions during the deployment process. Create specific classes for a one-time or more-time usage, that can be executed automatically after each deployment. Perfect for seeding or updating some data instantly after some database changes, feature updates, or perform any actions.
 
 * Laravel [Device Detector](https://github.com/reefki/laravel-device-detector). The Laravel wrapper for [Matomo Universal Device Detection](https://github.com/matomo-org/device-detector) library seamlessly integrates device detection capabilities into Laravel applications. <!-- device detector -->
+
+* [Laravel DigitalOcean](https://github.com/GrahamCampbell/Laravel-DigitalOcean) is a DigitalOcean PHP API Client bridge for Laravel.
 
 * [Discountify](https://github.com/safemood/discountify) is a Laravel package designed for managing dynamic discounts with custom conditions. It allows you to create flexible and powerful discounting strategies, easily defining conditions and applying percentage-based discounts to enhance your e-commerce application.
 
@@ -271,6 +275,11 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [Gretel](https://github.com/glhd/gretel) is a Laravel package for adding route-based breadcrumbs to your application.
 
 * Spatie [Image](https://github.com/spatie/image) Manipulate images with an expressive API. You'll find examples in the [full documentation](https://docs.spatie.be/image). <!-- image -->
+
+* [Intervention Zodiac](https://github.com/Intervention/zodiac) is a calculator for zodiac signs to resolve the respective zodiac sign from various data types.
+
+* [Intervention Validation](https://github.com/Intervention/validation) is an extension library for Laravel's own validation system. The package adds rules to validate data like IBAN, BIC, ISBN, creditcard numbers and more.
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10+%2B-blue?style=flat-square)
 
 * Laravel Eloquent [JoinWith](https://github.com/msafadi/laravel-eloquent-join-with)  is a package that simplifies performing efficient database joins on existing Eloquent relationships of type HasOne and BelongsTo. By utilizing these relationships, JoinWith optimizes performance by executing a single query instead of the two separate queries typically required with the standard with method. This translates to faster and more efficient data retrieval. <!-- eloquent -->
 
@@ -407,6 +416,8 @@ Build sites in record-time with a full batteries-included TailwindCSS frontend t
 * [Nutgram](https://github.com/nutgram/nutgram) This framework takes advantage of the latest PHP 8.2 features, and tries to make the speed, scalability and flexibility of use its strength, it will allow you to quickly make simple bots, but at the same time, it provides more advanced features to handle even the most complicated flows. <!-- telegram --> 
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.2%2B-blue?style=flat-square)
 
+* Laravel [OCR Space](https://github.com/cdsmths/laravel-ocr-space) is a package that allows you to use the [OCR.Space API](https://ocr.space/OCRAPI) in your Laravel application for Optical Character Recognition (OCR).
+  
 * [Ollama](https://github.com/cloudstudio/ollama-laravel) Laravel Package that provides a seamless integration with the [Ollama API](https://github.com/jmorganca/ollama). It includes functionalities for model management, prompt generation, format setting, and more. This package is perfect for developers looking to leverage the power of the Ollama API in their Laravel applications.
 
 * Laravel [Onboard](https://github.com/spatie/laravel-onboard) package to set up an onboarding flow for your application's users and help track user onboarding steps.
@@ -477,6 +488,10 @@ Build sites in record-time with a full batteries-included TailwindCSS frontend t
 * Laravel [SEO](https://github.com/ralphjsmit/laravel-seo)  This package generates valid and useful meta tags straight out-of-the-box, with limited initial configuration, whilst still providing a simple, but powerful API to work with. <!-- seo -->
   
 * Laravel [Social Link Validator](https://github.com/ageekdev/laravel-social-link-validator). You can validate the social profile link by using of this package. <!-- social -->
+
+* [Socialite Plus](https://github.com/Blaspsoft/socialiteplus) is a Laravel 12 React & Vue Starterkit package that streamlines social login for Google, Facebook, GitHub and LinkedIn.
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-12%2B-blue?style=flat-square)
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
   
 * [SpellNumber](https://github.com/rmunate/SpellNumber) is a cool little package to convert words in Laravel easily using the PHP INTL extension to handle the conversions seamlessly.
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8%2B-blue?style=flat-square)
@@ -761,6 +776,9 @@ Build sites in record-time with a full batteries-included TailwindCSS frontend t
 * [Fresns](https://fresns.org/) Social Network Service Software. General-purpose community product designed for cross-platform, and supports flexible and diverse content forms. It conforms to the trend of the times, satisfies a variety of operating scenarios, is more open and easier to re-development.
 
 * [Inertia.js](https://inertiajs.com/) allow to create modern single-page React, Vue, and Svelte apps using classic server-side routing. Works with any backend — tuned for Laravel.
+  
+* [Intervention Image](https://github.com/Intervention/image) is a PHP image processing library that provides a simple and expressive way to create, edit, and compose images. It comes with a universal interface for the two most popular PHP image manipulation extensions. You can choose between the GD library or Imagick as the base layer for all operations.
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
 
 * [Jigsaw](https://jigsaw.tighten.com/)  is a framework for rapidly building static sites using the same modern tooling that powers your web applications. Blade templating, Markdown for content-driven pages, Compile your assets using Laravel Mix.
 
