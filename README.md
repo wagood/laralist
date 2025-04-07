@@ -441,6 +441,8 @@ Build sites in record-time with a full batteries-included TailwindCSS frontend t
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.0%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-9%2B-blue?style=flat-square)
 
+* [One-Time Passwords for Laravel](https://github.com/benbjurstrom/otpz) This package provides secure first factor one-time passwords (OTPs) for Laravel applications. Users enter their email and receive a one-time code to sign in.
+
 * [Package Skeleton](https://github.com/spatie/package-skeleton-laravel). This repo can be used to scaffold a Laravel package.
 
 * Laravel [Pail](https://github.com/laravel/pail) is a package that allows you to easily dive into your Laravel application's log files directly from the command line. <!-- log -->
