@@ -175,6 +175,8 @@ Cookies registration & configuration, Blade views & translation files for consen
   
 * Laravel [Domain Driven Design DDD](https://github.com/thejano/laravel-domain-driven-design "Laravel Domain Driven Design") is a software development approach that emphasizes understanding and modeling the business domain. The goal is to create software that aligns with the needs of the business and is easier to maintain. [DOC](https://ddd.thejano.com/guide/)
 
+* [Doxswap](https://github.com/Blaspsoft/doxswap) A Laravel package for seamless document and image format conversions. Transform between various formats like DOCX -> PDF, HTML -> PDF, PNG -> WEBP, and more popular formats using a simple, elegant API. Powered by LibreOffice for documents and ImageMagick for image processing.
+
 * [Drag & drop editor](https://dropblockeditor.com/) for your Livewire powered blocks. Create your own blocks and make them editable with Livewire components. DropBlockEditor is made for Laravel and with Livewire, Alpine.JS and Tailwind CSS.
 
 * [Livewire Dropzone](https://github.com/dasundev/livewire-dropzone) This dropzone component for Livewire enables easy drag-and-drop file uploads.
@@ -275,6 +277,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [Gretel](https://github.com/glhd/gretel) is a Laravel package for adding route-based breadcrumbs to your application.
 
 * Spatie [Image](https://github.com/spatie/image) Manipulate images with an expressive API. You'll find examples in the [full documentation](https://docs.spatie.be/image). <!-- image -->
+
+* [ImapEngine](https://github.com/DirectoryTree/ImapEngine) provides a simple API for managing mailboxes -- without the PHP extension.
 
 * [Intervention Zodiac](https://github.com/Intervention/zodiac) is a calculator for zodiac signs to resolve the respective zodiac sign from various data types.
 
@@ -421,6 +425,8 @@ Build sites in record-time with a full batteries-included TailwindCSS frontend t
 * [Ollama](https://github.com/cloudstudio/ollama-laravel) Laravel Package that provides a seamless integration with the [Ollama API](https://github.com/jmorganca/ollama). It includes functionalities for model management, prompt generation, format setting, and more. This package is perfect for developers looking to leverage the power of the Ollama API in their Laravel applications.
 
 * Laravel [Onboard](https://github.com/spatie/laravel-onboard) package to set up an onboarding flow for your application's users and help track user onboarding steps.
+
+* [Onym](https://github.com/Blaspsoft/onym) - Flexible Filename Generator. Laravel package for generating filenames using various strategies and options.
 
 * [OPcodes's Log Viewer](https://github.com/opcodesio/log-viewer) helps you quickly and clearly see individual log entries, to search, filter, and make sense of your Laravel logs fast.
 
