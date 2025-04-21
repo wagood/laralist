@@ -494,6 +494,8 @@ Build sites in record-time with a full batteries-included TailwindCSS frontend t
 * [Self-healing URLs in Laravel](https://github.com/motomedialab/laravel-self-healing-urls) This lightweight package allows you to create URLs that are able to self-heal, regardless of the slug provided. This is great for SEO purposes, allowing you to change slugs without worrying, and will force a 301 redirect to the correct URL. <!-- url, route, slug -->
 
 * Laravel [SEO](https://github.com/ralphjsmit/laravel-seo)  This package generates valid and useful meta tags straight out-of-the-box, with limited initial configuration, whilst still providing a simple, but powerful API to work with. <!-- seo -->
+
+* Laravel [Simple Rabbitmq](https://github.com/usmonaliyev99/laravel-simple-rabbitmq) The package for simplified RabbitMQ usage, supporting multiple connections, easy publishing, and consumer mode.
   
 * Laravel [Social Link Validator](https://github.com/ageekdev/laravel-social-link-validator). You can validate the social profile link by using of this package. <!-- social -->
 
