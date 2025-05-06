@@ -285,6 +285,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 * [Intervention Validation](https://github.com/Intervention/validation) is an extension library for Laravel's own validation system. The package adds rules to validate data like IBAN, BIC, ISBN, creditcard numbers and more.
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-10+%2B-blue?style=flat-square)
 
+* Laravel [Job Status](https://github.com/imTigger/laravel-job-status) Laravel package to add ability to track Job progress, status and result dispatched to Queue.
+
 * Laravel Eloquent [JoinWith](https://github.com/msafadi/laravel-eloquent-join-with)  is a package that simplifies performing efficient database joins on existing Eloquent relationships of type HasOne and BelongsTo. By utilizing these relationships, JoinWith optimizes performance by executing a single query instead of the two separate queries typically required with the standard with method. This translates to faster and more efficient data retrieval. <!-- eloquent -->
 
 * Laravel [Hashids](https://github.com/vinkla/laravel-hashids) generate YouTube-like ids from numbers. Use it when you don't want to expose your database numeric ids to users
@@ -636,6 +638,8 @@ Build sites in record-time with a full batteries-included TailwindCSS frontend t
 * [Temporary Directory](https://github.com/spatie/temporary-directory) This package allows you to quickly create, use and delete a temporary directory in the system's temporary directory.
 
 * [Beautiful toast notifications for Livewire](https://github.com/masmerise/livewire-toaster)
+
+* [ToastMagic](https://github.com/devrabiul/laravel-toaster-magic) A powerful and flexible Toaster package for Laravel applications, designed to enhance user experience with customizable toast notifications.
 
 * [Token-Usage](https://github.com/cloudstudio/token-usage) is a Laravel package that provides advanced token management functionalities for Laravel applications. It offers features for tracking token usage, setting token limits based on different time periods, and integrating these checks easily into Laravel applications.
 
