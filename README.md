@@ -242,6 +242,8 @@ Cookies registration & configuration, Blade views & translation files for consen
 
 * [LaraFlash](https://github.com/binkapS/Laraflash). Flash Session messages for Laravel and Livewire
 
+* [GeoIP for Laravel](https://github.com/Torann/laravel-geoip) Determine the geographical location and currency of website visitors based on their IP addresses.
+
 * Laravel-[Gigapay](https://github.com/mazimez/laravel-gigapay) A simple API wrapper for Gigapay's APIs. It gives you helper methods that will make your work with gigapay's API easy, fast and efficient
 <!-- payment -->
 
@@ -364,6 +366,8 @@ Build sites in record-time with a full batteries-included TailwindCSS frontend t
 ![Supported PHP Versions](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)
 ![Supported Laravel Versions](https://img.shields.io/badge/Laravel-8%2B-blue?style=flat-square)
 
+* Laravel [Localization](https://github.com/mcamara/laravel-localization) Easy i18n localization for Laravel, an useful tool to combine with Laravel localization classes.
+
 * [Laravel Lang](https://laravel-lang.com/) projects allow you to easily connect translation packages to your project that serve different tasks.
 
 * Laravel[LangCountry](https://github.com/stefro/laravel-lang-country) This package adds the ability to localize based on the country. The package also adds more convenience functions to get localized country names, currency symbols and more.
@@ -476,6 +480,10 @@ Build sites in record-time with a full batteries-included TailwindCSS frontend t
 
 * [PlanCraft](https://github.com/realrashid/plan-craft) is a powerful Laravel package engineered to revolutionize how you manage subscription plans and features within your Laravel SaaS application.
 
+* [Populate](https://github.com/Laragear/Populate) your database with a supercharged, continuable seeder. By hijacking the default Seeder with a better one, we can supercharge the seed system to allow per-step seeding, skipping and continuable seeding, without sacrificing on its normal features, and keeping compatibility with classic seeding classes.
+![Supported PHP Versions](https://img.shields.io/badge/PHP-8.2%2B-blue?style=flat-square)
+![Supported Laravel Versions](https://img.shields.io/badge/Laravel-11%2B-blue?style=flat-square)
+
 * Laravel [Population](https://github.com/capsulescodes/laravel-population) package provides a set of commands that scan your migrations and detect any disparities between them and your database tables. If differences are found, a wizard is triggered to help you migrate and seed the new tables with converted records. <!-- migration -->
 
 * [Prezet](https://github.com/benbjurstrom/prezet) Markdown Blogging for Laravel. Transform your markdown files into SEO-friendly blogs, articles, and documentation with Prezet. Including built in automatic image optimization, dynamic tables of contents, validated front matter DTOs, and integrated Blade components.
@@ -485,6 +493,8 @@ Build sites in record-time with a full batteries-included TailwindCSS frontend t
 * [QuickRequest Laravel](https://github.com/rmunate/Quick-Request-Laravel) is an ultra-lightweight tool designed for swift and efficient requests to the Laravel backend. By leveraging the "fetch" mechanism, this solution streamlines the execution of requests to Laravel controllers, eliminating the need for manual assignment of tokens, base URLs, hidden inputs, and other method-specific parameters. <!-- javascript, request -->
 
 * [Replicate Laravel PHP client](https://github.com/halilcosdu/laravel-replicate) is a Laravel client for the Replicate API. It provides a convenient way to interact with the Replicate API using PHP and Laravel's Facade pattern. <!-- replicate, api -->
+
+* Laravel [Response Cache](https://github.com/spatie/laravel-responsecache) This Laravel package can cache an entire response. By default it will cache all successful get-requests that return text based content (such as html and json) for a week. This could potentially speed up the response quite considerably.
 
 * Laravel [Review](https://github.com/fajarwz/laravel-review). Flexible and powerful review system for Laravel, let any model review and be reviewed.
 
@@ -541,6 +551,8 @@ Build sites in record-time with a full batteries-included TailwindCSS frontend t
 * [PHP2JS](https://rmunate.github.io/PHP2JS) Share PHP-defined variables directly with the JavaScript files you want to use in your system. <!-- js, javascript -->
   
 * [PunchCard](https://github.com/TomasVotruba/punchcard) package provides basic fluent config classes for the Laravel project ```/config``` directory.
+
+* Laravel [Query Builder](https://github.com/spatie/laravel-query-builder) Build Eloquent queries from API requests
 
 * [Query Builder Macros](https://github.com/uteq/laravel-query-builder-macros) Adds useful functionality to the Laravel Query Builder
 `Illuminate\Database\Query\Builder`.
@@ -674,6 +686,8 @@ Build sites in record-time with a full batteries-included TailwindCSS frontend t
 
 * Laravel [VAT Number Checker](https://github.com/BurtDS/laravel-vatnumber-checker) A small package that allows you to easily retrieve information associated with a VAT number. Verification of validity, company name, and address of the company is only one api call away.
 
+* [Veil](https://github.com/Intermax-Cloudsourcing/veil) for Laravel is a package to help manage encrypted environments in your Laravel or Laravel Zero application. It adds an --only-values flag to the Laravel encrypted environment commands.
+* 
 * [Verbs](https://verbs.thunk.dev/)  is a Laravel package that allows you to derive the state of your application from the events that have occurred. It's a simple, but extremely powerful, way to design your applications.
   
 * [Veriphone Service](https://github.com/slvler/veriphone-service) This package provides a convenient wrapper to the [Veriphone API](https://veriphone.io/docs/v2) for Laravel applications.
@@ -785,6 +799,7 @@ Build sites in record-time with a full batteries-included TailwindCSS frontend t
 * [Dolby API SDK](https://github.com/andreia/php-sdk-dolby-api) Provides a PHP wrapper for [Dolby API](https://docs.dolby.io/).
 * [EnumConcern](https://github.com/emreyarligan/enum-concern) - A PHP Package for Effortless Enumeration Handling <!-- enum -->
 * [Facebook Graph PHP SDK](https://github.com/joelbutcher/facebook-php-graph-sdk) access the Facebook Platform from your PHP app.
+* [Fetch PHP](https://github.com/Thavarshan/fetch-php) is a modern HTTP client library for PHP that brings JavaScript's fetch API experience to PHP. Built on top of Guzzle, Fetch PHP allows you to write HTTP code with a clean, intuitive JavaScript-like syntax while still maintaining PHP's familiar patterns. With support for both synchronous and asynchronous requests, a fluent chainable API, and powerful retry mechanics, Fetch PHP streamlines HTTP operations in your PHP applications.
 * [FilePond](https://pqina.nl/filepond/) JavaScript library to upload files. [Uploading Files in Laravel Using FilePond](https://laravel-news.com/laravel-filepond)
 
 * [Fresns](https://fresns.org/) Social Network Service Software. General-purpose community product designed for cross-platform, and supports flexible and diverse content forms. It conforms to the trend of the times, satisfies a variety of operating scenarios, is more open and easier to re-development.
